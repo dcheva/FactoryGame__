@@ -5,11 +5,23 @@
     },
     "windowLocation": {
         "x": 136,
-        "y": 116
+        "y": 0
     },
     "selectedProfile": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.30",
         "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "modded"
+=======
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.run"
+>>>>>>> 866a56c0ab56fb059c3baf899042cf077ab0891d
     },
-    "selectedInstall": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory"
+    "selectedInstall": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory",
+    "normalSize": {
+        "width": 550,
+        "height": 1080
+    },
+    "expandedSize": {
+        "width": 1575,
+        "height": 1080
+    }
 }
