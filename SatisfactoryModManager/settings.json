@@ -1,14 +1,15 @@
 {
     "filters": {
         "modFilters": "Installed",
-        "sortBy": "Popularity"
+        "sortBy": "Last updated"
     },
     "windowLocation": {
         "x": 136,
         "y": 116
     },
     "selectedProfile": {
-        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.30"
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.30",
+        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "modded"
     },
     "selectedInstall": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory"
 }
