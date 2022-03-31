@@ -1,0 +1,687 @@
+2022-01-07 01:34:08:481	[DEBUG]	Failed to register win-ca
+2022-01-07 01:34:08:485	[INFO]	Set debug mode to false
+2022-01-07 01:34:09:426	[DEBUG]	Epic Games Launcher is not installed
+2022-01-07 01:34:11:439	[DEBUG]	Setting profile to dcheva.30
+2022-01-07 01:34:11:554	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-01-07 01:34:13:008	[DEBUG]	Validating SML
+2022-01-07 01:34:13:008	[DEBUG]	Validating FactoryGame
+2022-01-07 01:34:13:009	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:34:13:009	[DEBUG]	Validating avMallLib
+2022-01-07 01:34:13:009	[DEBUG]	Validating StackOverload
+2022-01-07 01:34:13:009	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:34:13:009	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:34:13:009	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:34:13:009	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:34:13:009	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:34:13:009	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:34:13:009	[DEBUG]	Validating MAMTips
+2022-01-07 01:34:13:009	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:34:13:009	[DEBUG]	Validating FastForward
+2022-01-07 01:34:13:009	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:34:13:009	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:34:13:009	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:34:13:009	[DEBUG]	Validating MicroManage
+2022-01-07 01:34:13:009	[DEBUG]	Validating Cellphone
+2022-01-07 01:34:13:009	[DEBUG]	Validating MiniMap
+2022-01-07 01:34:13:009	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:34:13:009	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:34:13:010	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:34:13:010	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:34:13:010	[DEBUG]	Validating PermaDay
+2022-01-07 01:34:13:010	[DEBUG]	Validating EasyCheat
+2022-01-07 01:34:13:010	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:34:13:010	[DEBUG]	Validating NoFog
+2022-01-07 01:34:13:010	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:34:13:010	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:34:13:010	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:34:13:010	[DEBUG]	Validating Hopper
+2022-01-07 01:34:13:010	[DEBUG]	Validating Dispenser
+2022-01-07 01:34:13:010	[DEBUG]	Validating UtilityMod
+2022-01-07 01:34:13:011	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","x3_splitter_merger_pole":"1.1.2","FlashlightSettings":"1.0.1","MAMTips":"0.4.1","MarcioCommonLibs":"1.1.0","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","ContainerScreen":"1.0.2","NoEarlyAccess":"1.0.2","MicroManage":"0.9.11","Cellphone":"1.0.5","MiniMap":"1.0.11","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","EasyCheat":"1.0.7","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","Hopper":"3.3.2","avMallLib":"2.2.1","Dispenser":"3.3.2","UtilityMod":"0.5.4"}
+2022-01-07 01:34:13:153	[DEBUG]	Mismatches: {"install":{"UtilityMod":"0.5.4"},"uninstall":["BlackholeStorage","EfficiencyCheckerMod","FloorHole","PowerChecker","Stats","UndergroundLogistics"]}
+2022-01-07 01:34:13:153	[DEBUG]	Removing BlackholeStorage from Satisfactory install
+2022-01-07 01:34:13:154	[DEBUG]	Removing EfficiencyCheckerMod from Satisfactory install
+2022-01-07 01:34:13:154	[DEBUG]	Removing FloorHole from Satisfactory install
+2022-01-07 01:34:13:154	[DEBUG]	Removing PowerChecker from Satisfactory install
+2022-01-07 01:34:13:154	[DEBUG]	Removing Stats from Satisfactory install
+2022-01-07 01:34:13:154	[DEBUG]	Removing UndergroundLogistics from Satisfactory install
+2022-01-07 01:34:13:180	[DEBUG]	Copying UtilityMod@0.5.4 to Satisfactory install
+2022-01-07 01:34:13:209	[DEBUG]	Forcing cache reload
+2022-01-07 01:34:13:209	[DEBUG]	Loading mod cache
+2022-01-07 01:34:16:923	[DEBUG]	Validating StackOverload
+2022-01-07 01:34:16:925	[DEBUG]	Validating SML
+2022-01-07 01:34:16:925	[DEBUG]	Validating FactoryGame
+2022-01-07 01:34:16:926	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:34:16:926	[DEBUG]	Validating SML
+2022-01-07 01:34:16:926	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:34:16:928	[DEBUG]	Validating SML
+2022-01-07 01:34:16:928	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:34:16:929	[DEBUG]	Validating SML
+2022-01-07 01:34:16:929	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:34:16:930	[DEBUG]	Validating SML
+2022-01-07 01:34:16:930	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:34:16:931	[DEBUG]	Validating SML
+2022-01-07 01:34:16:931	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:34:16:932	[DEBUG]	Validating SML
+2022-01-07 01:34:16:932	[DEBUG]	Validating MAMTips
+2022-01-07 01:34:16:932	[DEBUG]	Validating SML
+2022-01-07 01:34:16:932	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:34:16:933	[DEBUG]	Validating SML
+2022-01-07 01:34:16:933	[DEBUG]	Validating FastForward
+2022-01-07 01:34:16:933	[DEBUG]	Validating SML
+2022-01-07 01:34:16:933	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:34:16:933	[DEBUG]	Validating SML
+2022-01-07 01:34:16:933	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:34:16:934	[DEBUG]	Validating SML
+2022-01-07 01:34:16:934	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:34:16:934	[DEBUG]	Validating SML
+2022-01-07 01:34:16:934	[DEBUG]	Validating MicroManage
+2022-01-07 01:34:16:936	[DEBUG]	Validating SML
+2022-01-07 01:34:16:936	[DEBUG]	Validating Cellphone
+2022-01-07 01:34:16:937	[DEBUG]	Validating SML
+2022-01-07 01:34:16:937	[DEBUG]	Validating MiniMap
+2022-01-07 01:34:16:938	[DEBUG]	Validating SML
+2022-01-07 01:34:16:938	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:34:16:938	[DEBUG]	Validating SML
+2022-01-07 01:34:16:938	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:34:16:939	[DEBUG]	Validating SML
+2022-01-07 01:34:16:939	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:34:16:939	[DEBUG]	Validating SML
+2022-01-07 01:34:16:939	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:34:16:940	[DEBUG]	Validating SML
+2022-01-07 01:34:16:940	[DEBUG]	Validating PermaDay
+2022-01-07 01:34:16:941	[DEBUG]	Validating SML
+2022-01-07 01:34:16:941	[DEBUG]	Validating EasyCheat
+2022-01-07 01:34:16:942	[DEBUG]	Validating SML
+2022-01-07 01:34:16:942	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:34:16:944	[DEBUG]	Validating SML
+2022-01-07 01:34:16:944	[DEBUG]	Validating NoFog
+2022-01-07 01:34:16:945	[DEBUG]	Validating SML
+2022-01-07 01:34:16:945	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:34:16:946	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:34:17:123	[DEBUG]	Validating SML
+2022-01-07 01:34:17:123	[DEBUG]	Validating SML
+2022-01-07 01:34:17:123	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:34:17:124	[DEBUG]	Validating SML
+2022-01-07 01:34:17:124	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:34:17:125	[DEBUG]	Validating SML
+2022-01-07 01:34:17:125	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:34:17:125	[DEBUG]	Validating Hopper
+2022-01-07 01:34:17:127	[DEBUG]	Validating SML
+2022-01-07 01:34:17:127	[DEBUG]	Validating avMallLib
+2022-01-07 01:34:17:306	[DEBUG]	Validating SML
+2022-01-07 01:34:17:306	[DEBUG]	Validating Dispenser
+2022-01-07 01:34:17:308	[DEBUG]	Validating SML
+2022-01-07 01:34:17:308	[DEBUG]	Validating avMallLib
+2022-01-07 01:34:17:308	[DEBUG]	Validating UtilityMod
+2022-01-07 01:34:17:309	[DEBUG]	Validating SML
+2022-01-07 01:39:44:299	[DEBUG]	Validating StackOverload
+2022-01-07 01:39:44:300	[DEBUG]	Validating SML
+2022-01-07 01:39:44:300	[DEBUG]	Validating FactoryGame
+2022-01-07 01:39:44:300	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:39:44:301	[DEBUG]	Validating SML
+2022-01-07 01:39:44:301	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:39:44:302	[DEBUG]	Validating SML
+2022-01-07 01:39:44:302	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:39:44:302	[DEBUG]	Validating SML
+2022-01-07 01:39:44:302	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:39:44:302	[DEBUG]	Validating SML
+2022-01-07 01:39:44:302	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:39:44:302	[DEBUG]	Validating SML
+2022-01-07 01:39:44:303	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:39:44:303	[DEBUG]	Validating SML
+2022-01-07 01:39:44:304	[DEBUG]	Validating MAMTips
+2022-01-07 01:39:44:304	[DEBUG]	Validating SML
+2022-01-07 01:39:44:304	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:39:44:304	[DEBUG]	Validating SML
+2022-01-07 01:39:44:305	[DEBUG]	Validating FastForward
+2022-01-07 01:39:44:305	[DEBUG]	Validating SML
+2022-01-07 01:39:44:305	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:39:44:306	[DEBUG]	Validating SML
+2022-01-07 01:39:44:306	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:39:44:307	[DEBUG]	Validating SML
+2022-01-07 01:39:44:307	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:39:44:307	[DEBUG]	Validating SML
+2022-01-07 01:39:44:307	[DEBUG]	Validating MicroManage
+2022-01-07 01:39:44:308	[DEBUG]	Validating SML
+2022-01-07 01:39:44:308	[DEBUG]	Validating Cellphone
+2022-01-07 01:39:44:308	[DEBUG]	Validating SML
+2022-01-07 01:39:44:309	[DEBUG]	Validating MiniMap
+2022-01-07 01:39:44:309	[DEBUG]	Validating SML
+2022-01-07 01:39:44:310	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:39:44:310	[DEBUG]	Validating SML
+2022-01-07 01:39:44:310	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:39:44:311	[DEBUG]	Validating SML
+2022-01-07 01:39:44:311	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:39:44:311	[DEBUG]	Validating SML
+2022-01-07 01:39:44:311	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:39:44:311	[DEBUG]	Validating SML
+2022-01-07 01:39:44:312	[DEBUG]	Validating PermaDay
+2022-01-07 01:39:44:312	[DEBUG]	Validating SML
+2022-01-07 01:39:44:312	[DEBUG]	Validating EasyCheat
+2022-01-07 01:39:44:313	[DEBUG]	Validating SML
+2022-01-07 01:39:44:313	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:39:44:313	[DEBUG]	Validating SML
+2022-01-07 01:39:44:313	[DEBUG]	Validating NoFog
+2022-01-07 01:39:44:313	[DEBUG]	Validating SML
+2022-01-07 01:39:44:314	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:39:44:314	[DEBUG]	Validating SML
+2022-01-07 01:39:44:314	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:39:44:315	[DEBUG]	Validating SML
+2022-01-07 01:39:44:315	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:39:44:315	[DEBUG]	Validating SML
+2022-01-07 01:39:44:315	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:39:44:316	[DEBUG]	Validating SML
+2022-01-07 01:39:44:316	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:39:44:316	[DEBUG]	Validating Hopper
+2022-01-07 01:39:44:317	[DEBUG]	Validating SML
+2022-01-07 01:39:44:317	[DEBUG]	Validating avMallLib
+2022-01-07 01:39:44:317	[DEBUG]	Validating SML
+2022-01-07 01:39:44:318	[DEBUG]	Validating Dispenser
+2022-01-07 01:39:44:318	[DEBUG]	Validating SML
+2022-01-07 01:39:44:319	[DEBUG]	Validating avMallLib
+2022-01-07 01:39:44:319	[DEBUG]	Validating UtilityMod
+2022-01-07 01:39:44:319	[DEBUG]	Validating SML
+2022-01-07 01:44:47:019	[DEBUG]	Validating StackOverload
+2022-01-07 01:44:47:020	[DEBUG]	Validating SML
+2022-01-07 01:44:47:020	[DEBUG]	Validating FactoryGame
+2022-01-07 01:44:47:020	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:44:47:020	[DEBUG]	Validating SML
+2022-01-07 01:44:47:021	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:44:47:021	[DEBUG]	Validating SML
+2022-01-07 01:44:47:021	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:44:47:022	[DEBUG]	Validating SML
+2022-01-07 01:44:47:022	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:44:47:022	[DEBUG]	Validating SML
+2022-01-07 01:44:47:022	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:44:47:022	[DEBUG]	Validating SML
+2022-01-07 01:44:47:022	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:44:47:022	[DEBUG]	Validating SML
+2022-01-07 01:44:47:023	[DEBUG]	Validating MAMTips
+2022-01-07 01:44:47:023	[DEBUG]	Validating SML
+2022-01-07 01:44:47:023	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:44:47:023	[DEBUG]	Validating SML
+2022-01-07 01:44:47:023	[DEBUG]	Validating FastForward
+2022-01-07 01:44:47:023	[DEBUG]	Validating SML
+2022-01-07 01:44:47:023	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:44:47:024	[DEBUG]	Validating SML
+2022-01-07 01:44:47:024	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:44:47:024	[DEBUG]	Validating SML
+2022-01-07 01:44:47:024	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:44:47:024	[DEBUG]	Validating SML
+2022-01-07 01:44:47:024	[DEBUG]	Validating MicroManage
+2022-01-07 01:44:47:024	[DEBUG]	Validating SML
+2022-01-07 01:44:47:024	[DEBUG]	Validating Cellphone
+2022-01-07 01:44:47:024	[DEBUG]	Validating SML
+2022-01-07 01:44:47:025	[DEBUG]	Validating MiniMap
+2022-01-07 01:44:47:025	[DEBUG]	Validating SML
+2022-01-07 01:44:47:025	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:44:47:025	[DEBUG]	Validating SML
+2022-01-07 01:44:47:025	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:44:47:025	[DEBUG]	Validating SML
+2022-01-07 01:44:47:025	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:44:47:025	[DEBUG]	Validating SML
+2022-01-07 01:44:47:026	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:44:47:026	[DEBUG]	Validating SML
+2022-01-07 01:44:47:026	[DEBUG]	Validating PermaDay
+2022-01-07 01:44:47:027	[DEBUG]	Validating SML
+2022-01-07 01:44:47:027	[DEBUG]	Validating EasyCheat
+2022-01-07 01:44:47:027	[DEBUG]	Validating SML
+2022-01-07 01:44:47:027	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:44:47:027	[DEBUG]	Validating SML
+2022-01-07 01:44:47:027	[DEBUG]	Validating NoFog
+2022-01-07 01:44:47:028	[DEBUG]	Validating SML
+2022-01-07 01:44:47:028	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:44:47:028	[DEBUG]	Validating SML
+2022-01-07 01:44:47:028	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:44:47:029	[DEBUG]	Validating SML
+2022-01-07 01:44:47:029	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:44:47:029	[DEBUG]	Validating SML
+2022-01-07 01:44:47:029	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:44:47:031	[DEBUG]	Validating SML
+2022-01-07 01:44:47:031	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:44:47:032	[DEBUG]	Validating Hopper
+2022-01-07 01:44:47:032	[DEBUG]	Validating SML
+2022-01-07 01:44:47:033	[DEBUG]	Validating avMallLib
+2022-01-07 01:44:47:033	[DEBUG]	Validating SML
+2022-01-07 01:44:47:034	[DEBUG]	Validating Dispenser
+2022-01-07 01:44:47:035	[DEBUG]	Validating SML
+2022-01-07 01:44:47:039	[DEBUG]	Validating avMallLib
+2022-01-07 01:44:47:040	[DEBUG]	Validating UtilityMod
+2022-01-07 01:44:47:042	[DEBUG]	Validating SML
+2022-01-07 01:49:48:770	[DEBUG]	Validating StackOverload
+2022-01-07 01:49:48:770	[DEBUG]	Validating SML
+2022-01-07 01:49:48:770	[DEBUG]	Validating FactoryGame
+2022-01-07 01:49:48:770	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:49:48:771	[DEBUG]	Validating SML
+2022-01-07 01:49:48:771	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:49:48:771	[DEBUG]	Validating SML
+2022-01-07 01:49:48:771	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:49:48:771	[DEBUG]	Validating SML
+2022-01-07 01:49:48:771	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:49:48:772	[DEBUG]	Validating SML
+2022-01-07 01:49:48:773	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:49:48:773	[DEBUG]	Validating SML
+2022-01-07 01:49:48:773	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:49:48:773	[DEBUG]	Validating SML
+2022-01-07 01:49:48:773	[DEBUG]	Validating MAMTips
+2022-01-07 01:49:48:773	[DEBUG]	Validating SML
+2022-01-07 01:49:48:773	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:49:48:774	[DEBUG]	Validating SML
+2022-01-07 01:49:48:774	[DEBUG]	Validating FastForward
+2022-01-07 01:49:48:774	[DEBUG]	Validating SML
+2022-01-07 01:49:48:774	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:49:48:774	[DEBUG]	Validating SML
+2022-01-07 01:49:48:774	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:49:48:774	[DEBUG]	Validating SML
+2022-01-07 01:49:48:774	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:49:48:775	[DEBUG]	Validating SML
+2022-01-07 01:49:48:775	[DEBUG]	Validating MicroManage
+2022-01-07 01:49:48:775	[DEBUG]	Validating SML
+2022-01-07 01:49:48:775	[DEBUG]	Validating Cellphone
+2022-01-07 01:49:48:776	[DEBUG]	Validating SML
+2022-01-07 01:49:48:776	[DEBUG]	Validating MiniMap
+2022-01-07 01:49:48:776	[DEBUG]	Validating SML
+2022-01-07 01:49:48:776	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:49:48:776	[DEBUG]	Validating SML
+2022-01-07 01:49:48:776	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:49:48:777	[DEBUG]	Validating SML
+2022-01-07 01:49:48:777	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:49:48:777	[DEBUG]	Validating SML
+2022-01-07 01:49:48:777	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:49:48:778	[DEBUG]	Validating SML
+2022-01-07 01:49:48:778	[DEBUG]	Validating PermaDay
+2022-01-07 01:49:48:779	[DEBUG]	Validating SML
+2022-01-07 01:49:48:779	[DEBUG]	Validating EasyCheat
+2022-01-07 01:49:48:780	[DEBUG]	Validating SML
+2022-01-07 01:49:48:780	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:49:48:781	[DEBUG]	Validating SML
+2022-01-07 01:49:48:781	[DEBUG]	Validating NoFog
+2022-01-07 01:49:48:781	[DEBUG]	Validating SML
+2022-01-07 01:49:48:781	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:49:48:781	[DEBUG]	Validating SML
+2022-01-07 01:49:48:781	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:49:48:782	[DEBUG]	Validating SML
+2022-01-07 01:49:48:782	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:49:48:782	[DEBUG]	Validating SML
+2022-01-07 01:49:48:782	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:49:48:783	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:49:48:783	[DEBUG]	Validating SML
+2022-01-07 01:49:48:783	[DEBUG]	Validating Hopper
+2022-01-07 01:49:48:783	[DEBUG]	Validating SML
+2022-01-07 01:49:48:784	[DEBUG]	Validating avMallLib
+2022-01-07 01:49:48:784	[DEBUG]	Validating SML
+2022-01-07 01:49:48:784	[DEBUG]	Validating Dispenser
+2022-01-07 01:49:48:785	[DEBUG]	Validating SML
+2022-01-07 01:49:48:785	[DEBUG]	Validating avMallLib
+2022-01-07 01:49:48:785	[DEBUG]	Validating UtilityMod
+2022-01-07 01:49:48:785	[DEBUG]	Validating SML
+2022-01-07 01:54:51:027	[DEBUG]	Validating StackOverload
+2022-01-07 01:54:51:028	[DEBUG]	Validating SML
+2022-01-07 01:54:51:039	[DEBUG]	Validating FactoryGame
+2022-01-07 01:54:51:039	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:54:51:040	[DEBUG]	Validating SML
+2022-01-07 01:54:51:040	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:54:51:040	[DEBUG]	Validating SML
+2022-01-07 01:54:51:041	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:54:51:041	[DEBUG]	Validating SML
+2022-01-07 01:54:51:041	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:54:51:041	[DEBUG]	Validating SML
+2022-01-07 01:54:51:041	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:54:51:042	[DEBUG]	Validating SML
+2022-01-07 01:54:51:042	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:54:51:042	[DEBUG]	Validating SML
+2022-01-07 01:54:51:042	[DEBUG]	Validating MAMTips
+2022-01-07 01:54:51:043	[DEBUG]	Validating SML
+2022-01-07 01:54:51:043	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:54:51:043	[DEBUG]	Validating SML
+2022-01-07 01:54:51:044	[DEBUG]	Validating FastForward
+2022-01-07 01:54:51:044	[DEBUG]	Validating SML
+2022-01-07 01:54:51:044	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:54:51:044	[DEBUG]	Validating SML
+2022-01-07 01:54:51:044	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:54:51:044	[DEBUG]	Validating SML
+2022-01-07 01:54:51:045	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:54:51:047	[DEBUG]	Validating SML
+2022-01-07 01:54:51:049	[DEBUG]	Validating MicroManage
+2022-01-07 01:54:51:050	[DEBUG]	Validating SML
+2022-01-07 01:54:51:050	[DEBUG]	Validating Cellphone
+2022-01-07 01:54:51:051	[DEBUG]	Validating SML
+2022-01-07 01:54:51:051	[DEBUG]	Validating MiniMap
+2022-01-07 01:54:51:055	[DEBUG]	Validating SML
+2022-01-07 01:54:51:056	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:54:51:056	[DEBUG]	Validating SML
+2022-01-07 01:54:51:058	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:54:51:058	[DEBUG]	Validating SML
+2022-01-07 01:54:51:058	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:54:51:059	[DEBUG]	Validating SML
+2022-01-07 01:54:51:067	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:54:51:068	[DEBUG]	Validating SML
+2022-01-07 01:54:51:068	[DEBUG]	Validating PermaDay
+2022-01-07 01:54:51:068	[DEBUG]	Validating SML
+2022-01-07 01:54:51:069	[DEBUG]	Validating EasyCheat
+2022-01-07 01:54:51:070	[DEBUG]	Validating SML
+2022-01-07 01:54:51:070	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:54:51:072	[DEBUG]	Validating SML
+2022-01-07 01:54:51:072	[DEBUG]	Validating NoFog
+2022-01-07 01:54:51:076	[DEBUG]	Validating SML
+2022-01-07 01:54:51:076	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:54:51:076	[DEBUG]	Validating SML
+2022-01-07 01:54:51:076	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:54:51:076	[DEBUG]	Validating SML
+2022-01-07 01:54:51:077	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:54:51:077	[DEBUG]	Validating SML
+2022-01-07 01:54:51:078	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:54:51:078	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:54:51:078	[DEBUG]	Validating SML
+2022-01-07 01:54:51:078	[DEBUG]	Validating Hopper
+2022-01-07 01:54:51:078	[DEBUG]	Validating SML
+2022-01-07 01:54:51:079	[DEBUG]	Validating avMallLib
+2022-01-07 01:54:51:079	[DEBUG]	Validating SML
+2022-01-07 01:54:51:079	[DEBUG]	Validating Dispenser
+2022-01-07 01:54:51:080	[DEBUG]	Validating SML
+2022-01-07 01:54:51:080	[DEBUG]	Validating avMallLib
+2022-01-07 01:54:51:080	[DEBUG]	Validating UtilityMod
+2022-01-07 01:54:51:081	[DEBUG]	Validating SML
+2022-01-07 01:59:52:876	[DEBUG]	Validating StackOverload
+2022-01-07 01:59:52:877	[DEBUG]	Validating SML
+2022-01-07 01:59:52:877	[DEBUG]	Validating FactoryGame
+2022-01-07 01:59:52:877	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 01:59:52:877	[DEBUG]	Validating SML
+2022-01-07 01:59:52:877	[DEBUG]	Validating SmartFoundations
+2022-01-07 01:59:52:878	[DEBUG]	Validating SML
+2022-01-07 01:59:52:878	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 01:59:52:878	[DEBUG]	Validating SML
+2022-01-07 01:59:52:878	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 01:59:52:878	[DEBUG]	Validating SML
+2022-01-07 01:59:52:878	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 01:59:52:878	[DEBUG]	Validating SML
+2022-01-07 01:59:52:878	[DEBUG]	Validating FlashlightSettings
+2022-01-07 01:59:52:878	[DEBUG]	Validating SML
+2022-01-07 01:59:52:879	[DEBUG]	Validating MAMTips
+2022-01-07 01:59:52:879	[DEBUG]	Validating SML
+2022-01-07 01:59:52:879	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 01:59:52:880	[DEBUG]	Validating SML
+2022-01-07 01:59:52:880	[DEBUG]	Validating FastForward
+2022-01-07 01:59:52:880	[DEBUG]	Validating SML
+2022-01-07 01:59:52:880	[DEBUG]	Validating NoFallingGifts
+2022-01-07 01:59:52:881	[DEBUG]	Validating SML
+2022-01-07 01:59:52:881	[DEBUG]	Validating ContainerScreen
+2022-01-07 01:59:52:881	[DEBUG]	Validating SML
+2022-01-07 01:59:52:881	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 01:59:52:881	[DEBUG]	Validating SML
+2022-01-07 01:59:52:882	[DEBUG]	Validating MicroManage
+2022-01-07 01:59:52:882	[DEBUG]	Validating SML
+2022-01-07 01:59:52:882	[DEBUG]	Validating Cellphone
+2022-01-07 01:59:52:883	[DEBUG]	Validating SML
+2022-01-07 01:59:52:883	[DEBUG]	Validating MiniMap
+2022-01-07 01:59:52:883	[DEBUG]	Validating SML
+2022-01-07 01:59:52:883	[DEBUG]	Validating SimpleCodex
+2022-01-07 01:59:52:883	[DEBUG]	Validating SML
+2022-01-07 01:59:52:883	[DEBUG]	Validating VanishGiraffer
+2022-01-07 01:59:52:883	[DEBUG]	Validating SML
+2022-01-07 01:59:52:883	[DEBUG]	Validating SpaceMarket
+2022-01-07 01:59:52:884	[DEBUG]	Validating SML
+2022-01-07 01:59:52:884	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 01:59:52:885	[DEBUG]	Validating SML
+2022-01-07 01:59:52:885	[DEBUG]	Validating PermaDay
+2022-01-07 01:59:52:885	[DEBUG]	Validating SML
+2022-01-07 01:59:52:886	[DEBUG]	Validating EasyCheat
+2022-01-07 01:59:52:886	[DEBUG]	Validating SML
+2022-01-07 01:59:52:886	[DEBUG]	Validating FicsitTrading
+2022-01-07 01:59:52:886	[DEBUG]	Validating SML
+2022-01-07 01:59:52:886	[DEBUG]	Validating NoFog
+2022-01-07 01:59:52:886	[DEBUG]	Validating SML
+2022-01-07 01:59:52:887	[DEBUG]	Validating WallPipeSupports
+2022-01-07 01:59:52:887	[DEBUG]	Validating SML
+2022-01-07 01:59:52:887	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:59:52:887	[DEBUG]	Validating SML
+2022-01-07 01:59:52:887	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 01:59:52:887	[DEBUG]	Validating SML
+2022-01-07 01:59:52:888	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 01:59:52:888	[DEBUG]	Validating SML
+2022-01-07 01:59:52:888	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 01:59:52:888	[DEBUG]	Validating Hopper
+2022-01-07 01:59:52:889	[DEBUG]	Validating SML
+2022-01-07 01:59:52:889	[DEBUG]	Validating avMallLib
+2022-01-07 01:59:52:889	[DEBUG]	Validating SML
+2022-01-07 01:59:52:889	[DEBUG]	Validating Dispenser
+2022-01-07 01:59:52:889	[DEBUG]	Validating SML
+2022-01-07 01:59:52:891	[DEBUG]	Validating avMallLib
+2022-01-07 01:59:52:891	[DEBUG]	Validating UtilityMod
+2022-01-07 01:59:52:891	[DEBUG]	Validating SML
+2022-01-07 03:48:56:766	[DEBUG]	Failed to register win-ca
+2022-01-07 03:48:56:769	[INFO]	Set debug mode to false
+2022-01-07 03:48:57:514	[DEBUG]	Epic Games Launcher is not installed
+2022-01-07 03:48:59:181	[DEBUG]	Setting profile to modded
+2022-01-07 03:48:59:304	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-01-07 03:48:59:305	[DEBUG]	Items: {}
+2022-01-07 03:48:59:318	[DEBUG]	Mismatches: {"install":{},"uninstall":["SML","avMallLib","BeltfedBiomassBurner","Cellphone","ContainerScreen","DaisyChainPowerCables","Dispenser","EasyCheat","FasterManualCrafting","FastForward","FicsitTrading","FlashlightSettings","Hopper","MAMTips","MarcioCommonLibs","MicroManage","MiniMap","NoEarlyAccess","NoFallingGifts","NoFog","PermaDay","SatisfactoryHelper","SimpleCodex","SmartFoundations","SpaceMarket","StackOverload","TenTimesAwesomePoints","UtilityMod","VanishGiraffer","WallConveyorSupports","WallHoleConveyor","WallPipeSupports","x3_splitter_merger_pole"]}
+2022-01-07 03:48:59:318	[DEBUG]	Removing SML from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing avMallLib from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing BeltfedBiomassBurner from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing Cellphone from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing ContainerScreen from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing DaisyChainPowerCables from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing Dispenser from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing EasyCheat from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing FastForward from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing FicsitTrading from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing FlashlightSettings from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing Hopper from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing MAMTips from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing MarcioCommonLibs from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing MiniMap from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing NoEarlyAccess from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing NoFallingGifts from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing NoFog from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing PermaDay from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing SatisfactoryHelper from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing SimpleCodex from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing SpaceMarket from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing StackOverload from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing TenTimesAwesomePoints from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing VanishGiraffer from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing WallConveyorSupports from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing WallHoleConveyor from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing WallPipeSupports from Satisfactory install
+2022-01-07 03:48:59:318	[DEBUG]	Removing x3_splitter_merger_pole from Satisfactory install
+2022-01-07 03:48:59:390	[DEBUG]	Removing SML from Satisfactory install
+2022-01-07 03:48:59:390	[DEBUG]	Uninstalling SML
+2022-01-07 03:48:59:403	[DEBUG]	Forcing cache reload
+2022-01-07 03:48:59:403	[DEBUG]	Loading mod cache
+2022-01-07 03:50:21:312	[DEBUG]	Failed to register win-ca
+2022-01-07 03:50:21:316	[INFO]	Set debug mode to false
+2022-01-07 03:50:22:134	[DEBUG]	Epic Games Launcher is not installed
+2022-01-07 03:50:24:096	[DEBUG]	Setting profile to modded
+2022-01-07 03:50:24:213	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-01-07 03:50:24:215	[DEBUG]	Items: {}
+2022-01-07 03:50:24:216	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-01-07 03:50:24:224	[DEBUG]	Forcing cache reload
+2022-01-07 03:50:24:224	[DEBUG]	Loading mod cache
+2022-01-07 03:50:28:137	[DEBUG]	Setting profile to dcheva.30
+2022-01-07 03:50:28:343	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-01-07 03:50:29:654	[DEBUG]	Validating SML
+2022-01-07 03:50:29:655	[DEBUG]	Validating FactoryGame
+2022-01-07 03:50:29:655	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 03:50:29:655	[DEBUG]	Validating avMallLib
+2022-01-07 03:50:29:655	[DEBUG]	Validating StackOverload
+2022-01-07 03:50:29:655	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 03:50:29:655	[DEBUG]	Validating SmartFoundations
+2022-01-07 03:50:29:655	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 03:50:29:655	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 03:50:29:655	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 03:50:29:655	[DEBUG]	Validating FlashlightSettings
+2022-01-07 03:50:29:655	[DEBUG]	Validating MAMTips
+2022-01-07 03:50:29:655	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 03:50:29:655	[DEBUG]	Validating FastForward
+2022-01-07 03:50:29:655	[DEBUG]	Validating NoFallingGifts
+2022-01-07 03:50:29:655	[DEBUG]	Validating ContainerScreen
+2022-01-07 03:50:29:655	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 03:50:29:656	[DEBUG]	Validating MicroManage
+2022-01-07 03:50:29:656	[DEBUG]	Validating Cellphone
+2022-01-07 03:50:29:656	[DEBUG]	Validating MiniMap
+2022-01-07 03:50:29:656	[DEBUG]	Validating SimpleCodex
+2022-01-07 03:50:29:656	[DEBUG]	Validating VanishGiraffer
+2022-01-07 03:50:29:656	[DEBUG]	Validating SpaceMarket
+2022-01-07 03:50:29:656	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 03:50:29:656	[DEBUG]	Validating PermaDay
+2022-01-07 03:50:29:656	[DEBUG]	Validating EasyCheat
+2022-01-07 03:50:29:656	[DEBUG]	Validating FicsitTrading
+2022-01-07 03:50:29:656	[DEBUG]	Validating NoFog
+2022-01-07 03:50:29:656	[DEBUG]	Validating WallPipeSupports
+2022-01-07 03:50:29:656	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 03:50:29:656	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 03:50:29:656	[DEBUG]	Validating Hopper
+2022-01-07 03:50:29:656	[DEBUG]	Validating Dispenser
+2022-01-07 03:50:29:656	[DEBUG]	Validating UtilityMod
+2022-01-07 03:50:29:656	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","x3_splitter_merger_pole":"1.1.2","FlashlightSettings":"1.0.1","MAMTips":"0.4.1","MarcioCommonLibs":"1.1.0","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","ContainerScreen":"1.0.2","NoEarlyAccess":"1.0.2","MicroManage":"0.9.11","Cellphone":"1.0.5","MiniMap":"1.0.11","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","EasyCheat":"1.0.7","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","Hopper":"3.3.2","avMallLib":"2.2.1","Dispenser":"3.3.2","UtilityMod":"0.5.4"}
+2022-01-07 03:50:29:657	[DEBUG]	Mismatches: {"install":{"SML":"3.3.0","StackOverload":"2.0.5","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","x3_splitter_merger_pole":"1.1.2","FlashlightSettings":"1.0.1","MAMTips":"0.4.1","MarcioCommonLibs":"1.1.0","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","ContainerScreen":"1.0.2","NoEarlyAccess":"1.0.2","MicroManage":"0.9.11","Cellphone":"1.0.5","MiniMap":"1.0.11","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","EasyCheat":"1.0.7","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","Hopper":"3.3.2","avMallLib":"2.2.1","Dispenser":"3.3.2","UtilityMod":"0.5.4"},"uninstall":[]}
+2022-01-07 03:50:29:657	[DEBUG]	Copying SML to Satisfactory install
+2022-01-07 03:50:29:657	[DEBUG]	Installing SML@3.3.0
+2022-01-07 03:50:30:178	[DEBUG]	Copying StackOverload@2.0.5 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying TenTimesAwesomePoints@1.0.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying SmartFoundations@17.0.11 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying FasterManualCrafting@1.1.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying SatisfactoryHelper@2.0.3 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying x3_splitter_merger_pole@1.1.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying FlashlightSettings@1.0.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying MAMTips@0.4.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying MarcioCommonLibs@1.1.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying BeltfedBiomassBurner@1.1.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying FastForward@1.0.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying NoFallingGifts@1.0.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying ContainerScreen@1.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying NoEarlyAccess@1.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying MicroManage@0.9.11 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying Cellphone@1.0.5 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying MiniMap@1.0.11 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying SimpleCodex@1.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying VanishGiraffer@1.0.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying SpaceMarket@2.0.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying DaisyChainPowerCables@2.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying PermaDay@1.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying EasyCheat@1.0.7 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying FicsitTrading@2.0.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying NoFog@2.0.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying WallPipeSupports@2.1.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying WallHoleConveyor@2.0.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying WallConveyorSupports@1.1.0 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying Hopper@3.3.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying avMallLib@2.2.1 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying Dispenser@3.3.2 to Satisfactory install
+2022-01-07 03:50:30:178	[DEBUG]	Copying UtilityMod@0.5.4 to Satisfactory install
+2022-01-07 04:04:12:366	[DEBUG]	Failed to register win-ca
+2022-01-07 04:04:12:370	[INFO]	Set debug mode to false
+2022-01-07 04:04:13:117	[DEBUG]	Epic Games Launcher is not installed
+2022-01-07 04:04:14:808	[DEBUG]	Setting profile to dcheva.30
+2022-01-07 04:04:14:932	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-01-07 04:04:16:894	[DEBUG]	Validating SML
+2022-01-07 04:04:16:895	[DEBUG]	Validating FactoryGame
+2022-01-07 04:04:16:895	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 04:04:16:895	[DEBUG]	Validating avMallLib
+2022-01-07 04:04:16:895	[DEBUG]	Validating StackOverload
+2022-01-07 04:04:16:895	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 04:04:16:895	[DEBUG]	Validating SmartFoundations
+2022-01-07 04:04:16:895	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 04:04:16:895	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 04:04:16:895	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 04:04:16:895	[DEBUG]	Validating FlashlightSettings
+2022-01-07 04:04:16:895	[DEBUG]	Validating MAMTips
+2022-01-07 04:04:16:895	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 04:04:16:895	[DEBUG]	Validating FastForward
+2022-01-07 04:04:16:895	[DEBUG]	Validating NoFallingGifts
+2022-01-07 04:04:16:895	[DEBUG]	Validating ContainerScreen
+2022-01-07 04:04:16:895	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 04:04:16:896	[DEBUG]	Validating MicroManage
+2022-01-07 04:04:16:896	[DEBUG]	Validating Cellphone
+2022-01-07 04:04:16:896	[DEBUG]	Validating MiniMap
+2022-01-07 04:04:16:896	[DEBUG]	Validating SimpleCodex
+2022-01-07 04:04:16:896	[DEBUG]	Validating VanishGiraffer
+2022-01-07 04:04:16:896	[DEBUG]	Validating SpaceMarket
+2022-01-07 04:04:16:896	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 04:04:16:896	[DEBUG]	Validating PermaDay
+2022-01-07 04:04:16:896	[DEBUG]	Validating EasyCheat
+2022-01-07 04:04:16:896	[DEBUG]	Validating FicsitTrading
+2022-01-07 04:04:16:896	[DEBUG]	Validating NoFog
+2022-01-07 04:04:16:896	[DEBUG]	Validating WallPipeSupports
+2022-01-07 04:04:16:896	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 04:04:16:896	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 04:04:16:896	[DEBUG]	Validating Hopper
+2022-01-07 04:04:16:896	[DEBUG]	Validating Dispenser
+2022-01-07 04:04:16:896	[DEBUG]	Validating UtilityMod
+2022-01-07 04:04:16:897	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","x3_splitter_merger_pole":"1.1.2","FlashlightSettings":"1.0.1","MAMTips":"0.4.1","MarcioCommonLibs":"1.1.0","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","ContainerScreen":"1.0.2","NoEarlyAccess":"1.0.2","MicroManage":"0.9.11","Cellphone":"1.0.5","MiniMap":"1.0.11","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","EasyCheat":"1.0.7","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","Hopper":"3.3.2","avMallLib":"2.2.1","Dispenser":"3.3.2","UtilityMod":"0.5.4"}
+2022-01-07 04:04:16:903	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-01-07 04:04:16:917	[DEBUG]	Forcing cache reload
+2022-01-07 04:04:16:917	[DEBUG]	Loading mod cache
+2022-01-07 04:04:20:957	[DEBUG]	Validating StackOverload
+2022-01-07 04:04:20:958	[DEBUG]	Validating SML
+2022-01-07 04:04:20:959	[DEBUG]	Validating FactoryGame
+2022-01-07 04:04:20:959	[DEBUG]	Validating TenTimesAwesomePoints
+2022-01-07 04:04:20:960	[DEBUG]	Validating SML
+2022-01-07 04:04:20:960	[DEBUG]	Validating SmartFoundations
+2022-01-07 04:04:20:963	[DEBUG]	Validating SML
+2022-01-07 04:04:20:963	[DEBUG]	Validating FasterManualCrafting
+2022-01-07 04:04:20:964	[DEBUG]	Validating SML
+2022-01-07 04:04:20:964	[DEBUG]	Validating SatisfactoryHelper
+2022-01-07 04:04:20:964	[DEBUG]	Validating SML
+2022-01-07 04:04:20:964	[DEBUG]	Validating x3_splitter_merger_pole
+2022-01-07 04:04:20:965	[DEBUG]	Validating SML
+2022-01-07 04:04:20:965	[DEBUG]	Validating FlashlightSettings
+2022-01-07 04:04:20:966	[DEBUG]	Validating SML
+2022-01-07 04:04:20:966	[DEBUG]	Validating MAMTips
+2022-01-07 04:04:20:967	[DEBUG]	Validating SML
+2022-01-07 04:04:20:967	[DEBUG]	Validating BeltfedBiomassBurner
+2022-01-07 04:04:20:967	[DEBUG]	Validating SML
+2022-01-07 04:04:20:967	[DEBUG]	Validating FastForward
+2022-01-07 04:04:20:968	[DEBUG]	Validating SML
+2022-01-07 04:04:20:968	[DEBUG]	Validating NoFallingGifts
+2022-01-07 04:04:20:968	[DEBUG]	Validating SML
+2022-01-07 04:04:20:968	[DEBUG]	Validating ContainerScreen
+2022-01-07 04:04:20:968	[DEBUG]	Validating SML
+2022-01-07 04:04:20:968	[DEBUG]	Validating NoEarlyAccess
+2022-01-07 04:04:20:969	[DEBUG]	Validating SML
+2022-01-07 04:04:20:969	[DEBUG]	Validating MicroManage
+2022-01-07 04:04:20:971	[DEBUG]	Validating SML
+2022-01-07 04:04:20:971	[DEBUG]	Validating Cellphone
+2022-01-07 04:04:20:971	[DEBUG]	Validating SML
+2022-01-07 04:04:20:972	[DEBUG]	Validating MiniMap
+2022-01-07 04:04:20:972	[DEBUG]	Validating SML
+2022-01-07 04:04:20:973	[DEBUG]	Validating SimpleCodex
+2022-01-07 04:04:20:973	[DEBUG]	Validating SML
+2022-01-07 04:04:20:973	[DEBUG]	Validating VanishGiraffer
+2022-01-07 04:04:20:973	[DEBUG]	Validating SML
+2022-01-07 04:04:20:973	[DEBUG]	Validating SpaceMarket
+2022-01-07 04:04:20:974	[DEBUG]	Validating SML
+2022-01-07 04:04:20:974	[DEBUG]	Validating DaisyChainPowerCables
+2022-01-07 04:04:20:975	[DEBUG]	Validating SML
+2022-01-07 04:04:20:975	[DEBUG]	Validating PermaDay
+2022-01-07 04:04:20:976	[DEBUG]	Validating SML
+2022-01-07 04:04:20:976	[DEBUG]	Validating EasyCheat
+2022-01-07 04:04:20:976	[DEBUG]	Validating SML
+2022-01-07 04:04:20:977	[DEBUG]	Validating FicsitTrading
+2022-01-07 04:04:20:977	[DEBUG]	Validating SML
+2022-01-07 04:04:20:978	[DEBUG]	Validating NoFog
+2022-01-07 04:04:20:978	[DEBUG]	Validating SML
+2022-01-07 04:04:20:978	[DEBUG]	Validating WallPipeSupports
+2022-01-07 04:04:20:979	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 04:04:21:157	[DEBUG]	Validating SML
+2022-01-07 04:04:21:158	[DEBUG]	Validating SML
+2022-01-07 04:04:21:158	[DEBUG]	Validating WallHoleConveyor
+2022-01-07 04:04:21:159	[DEBUG]	Validating SML
+2022-01-07 04:04:21:159	[DEBUG]	Validating WallConveyorSupports
+2022-01-07 04:04:21:159	[DEBUG]	Validating SML
+2022-01-07 04:04:21:160	[DEBUG]	Validating MarcioCommonLibs
+2022-01-07 04:04:21:160	[DEBUG]	Validating Hopper
+2022-01-07 04:04:21:161	[DEBUG]	Validating SML
+2022-01-07 04:04:21:162	[DEBUG]	Validating avMallLib
+2022-01-07 04:04:21:342	[DEBUG]	Validating SML
+2022-01-07 04:04:21:342	[DEBUG]	Validating Dispenser
+2022-01-07 04:04:21:344	[DEBUG]	Validating SML
+2022-01-07 04:04:21:345	[DEBUG]	Validating avMallLib
+2022-01-07 04:04:21:345	[DEBUG]	Validating UtilityMod
+2022-01-07 04:04:21:346	[DEBUG]	Validating SML
