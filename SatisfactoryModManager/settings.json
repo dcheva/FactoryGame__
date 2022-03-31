@@ -1,6 +1,6 @@
 {
     "filters": {
-        "modFilters": "Installed",
+        "modFilters": "Compatible",
         "sortBy": "Last updated"
     },
     "windowLocation": {
