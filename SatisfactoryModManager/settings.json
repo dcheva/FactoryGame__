@@ -1,10 +1,13 @@
 {
     "filters": {
-        "modFilters": "Compatible",
+        "modFilters": "Installed",
         "sortBy": "Last updated"
     },
     "windowLocation": {
         "x": 654,
         "y": 115
+    },
+    "selectedProfile": {
+        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "dcheva.30"
     }
 }
