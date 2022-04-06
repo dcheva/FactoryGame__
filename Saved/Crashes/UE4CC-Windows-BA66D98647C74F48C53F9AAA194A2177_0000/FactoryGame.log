@@ -26249,37 +26249,3 @@ Script call stack:
 	Function /ShowEnemiesHealth/HealthBar.HealthBar_C:ExecuteUbergraph_HealthBar
 
 [2022.04.06-19.48.10:702][594]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
-[2022.04.06-19.48.31:339][596]LogThreadingWindows: Error: Runnable thread RHIThread crashed.
-[2022.04.06-19.48.31:344][596]LogWindows: Error: === Critical error: ===
-[2022.04.06-19.48.31:344][596]LogWindows: Error: 
-[2022.04.06-19.48.31:345][596]LogWindows: Error: Fatal error: [File:D:/ws/SB-lowprio/UE4/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Commands.cpp] [Line: 1431] 
-[2022.04.06-19.48.31:345][596]LogWindows: Error: Null SRV (resource 0 bind 0) on UB Layout FInstancedStaticMeshVertexFactoryUniformShaderParameters
-[2022.04.06-19.48.31:346][596]LogWindows: Error: 
-[2022.04.06-19.48.31:346][596]LogWindows: Error: 
-[2022.04.06-19.48.31:346][596]LogWindows: Error: [Callstack] 0x00007ffaa5f74f69 KERNELBASE.dll!UnknownFunction []
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa6abae0c6 FactoryGame-Core-Win64-Shipping.dll!ReportAssert() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformCrashContext.cpp:1634]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa6abb0866 FactoryGame-Core-Win64-Shipping.dll!FWindowsErrorOutputDevice::Serialize() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Windows\WindowsErrorOutputDevice.cpp:78]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa6ab293dd FactoryGame-Core-Win64-Shipping.dll!FOutputDevice::LogfImpl() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Misc\OutputDevice.cpp:61]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa724101a4 FactoryGame-D3D11RHI-Win64-Shipping.dll!SetShaderResourcesFromBuffer_SRV<0>() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp:1431]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa7240f2a8 FactoryGame-D3D11RHI-Win64-Shipping.dll!FD3D11DynamicRHI::SetResourcesFromTables<FD3D11VertexShader>() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp:1556]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa7241a64c FactoryGame-D3D11RHI-Win64-Shipping.dll!FD3D11DynamicRHI::CommitGraphicsResourceTables() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp:1632]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa72436cfc FactoryGame-D3D11RHI-Win64-Shipping.dll!FD3D11DynamicRHI::RHIDrawIndexedPrimitive() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Commands.cpp:1741]
-[2022.04.06-19.48.31:347][596]LogWindows: Error: [Callstack] 0x00007ffa7189ac31 FactoryGame-RHI-Win64-Shipping.dll!FRHICommand<FRHICommandDrawIndexedPrimitive,FRHICommandDrawIndexedPrimitiveString1015>::ExecuteAndDestruct() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Public\RHICommandListCommandExecutes.inl:203]
-[2022.04.06-19.48.31:348][596]LogWindows: Error: [Callstack] 0x00007ffa7189c7d6 FactoryGame-RHI-Win64-Shipping.dll!FRHICommandListExecutor::ExecuteInner_DoExecute() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Private\RHICommandList.cpp:368]
-[2022.04.06-19.48.31:348][596]LogWindows: Error: [Callstack] 0x00007ffa7189c68a FactoryGame-RHI-Win64-Shipping.dll!FRHICommandListExecutor::ExecuteInner() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Private\RHICommandList.cpp:659]
-[2022.04.06-19.48.31:348][596]LogWindows: Error: [Callstack] 0x00007ffa71880937 FactoryGame-RHI-Win64-Shipping.dll!FRHICommandListBase::~FRHICommandListBase() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Private\RHICommandList.cpp:923]
-[2022.04.06-19.48.31:348][596]LogWindows: Error: [Callstack] 0x00007ffa7189b8d5 FactoryGame-RHI-Win64-Shipping.dll!FRHICommand<FRHICommandWaitForAndSubmitSubList,FRHICommandWaitForAndSubmitSubListString1075>::ExecuteAndDestruct() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Public\RHICommandList.h:763]
-[2022.04.06-19.48.31:348][596]LogWindows: Error: [Callstack] 0x00007ffa7189c7d6 FactoryGame-RHI-Win64-Shipping.dll!FRHICommandListExecutor::ExecuteInner_DoExecute() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RHI\Private\RHICommandList.cpp:368]
-[2022.04.06-19.48.31:349][596]LogWindows: Error: [Callstack] 0x00007ffa7189ccaf FactoryGame-RHI-Win64-Shipping.dll!TGraphTask<FExecuteRHIThreadTask>::ExecuteTask() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:886]
-[2022.04.06-19.48.31:349][596]LogWindows: Error: [Callstack] 0x00007ffa6a99729b FactoryGame-Core-Win64-Shipping.dll!FNamedTaskThread::ProcessTasksUntilQuit() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:600]
-[2022.04.06-19.48.31:349][596]LogWindows: Error: [Callstack] 0x00007ffa71a7eb99 FactoryGame-RenderCore-Win64-Shipping.dll!FRHIThread::Run() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:320]
-[2022.04.06-19.48.31:349][596]LogWindows: Error: [Callstack] 0x00007ffa6abc4387 FactoryGame-Core-Win64-Shipping.dll!FRunnableThreadWin::Run() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:86]
-[2022.04.06-19.48.31:350][596]LogWindows: Error: [Callstack] 0x00007ffa6abbd741 FactoryGame-Core-Win64-Shipping.dll!FRunnableThreadWin::GuardedRun() [D:\ws\SB-lowprio\UE4\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:35]
-[2022.04.06-19.48.31:350][596]LogWindows: Error: [Callstack] 0x00007ffaa6be7034 KERNEL32.DLL!UnknownFunction []
-[2022.04.06-19.48.31:350][596]LogWindows: Error: [Callstack] 0x00007ffaa83a2651 ntdll.dll!UnknownFunction []
-[2022.04.06-19.48.31:350][596]LogWindows: Error: 
-[2022.04.06-19.48.31:350][596]LogWindows: Error: Crash in runnable thread RHIThread
-[2022.04.06-19.48.33:665][596]LogExit: Executing StaticShutdownAfterError
-[2022.04.06-19.48.33:665][596]LogWindows: FPlatformMisc::RequestExit(1)
-[2022.04.06-19.48.33:666][596]LogCore: Engine exit requested (reason: Win RequestExit)
-[2022.04.06-19.48.33:673][596]Log file closed, 04/06/22 22:48:33
