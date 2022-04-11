@@ -1,13 +1,14 @@
 {
     "filters": {
-        "modFilters": "Installed",
-        "sortBy": "Last updated"
+        "modFilters": "Compatible",
+        "sortBy": "Hotness"
     },
     "windowLocation": {
         "x": 283,
         "y": 115
     },
     "selectedProfile": {
-        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "dcheva.test"
+        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "dcheva.test",
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.test"
     }
 }
