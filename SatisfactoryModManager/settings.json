@@ -1,13 +1,13 @@
 {
     "filters": {
         "modFilters": "Installed",
-        "sortBy": "Last updated"
+        "sortBy": "Hotness"
     },
     "windowLocation": {
         "x": 123,
         "y": 49
     },
     "selectedProfile": {
-        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Dee Covan"
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Experimental 6"
     }
 }
