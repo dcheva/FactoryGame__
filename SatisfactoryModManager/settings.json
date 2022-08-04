@@ -1,7 +1,7 @@
 {
     "filters": {
-        "modFilters": "Installed",
-        "sortBy": "Last updated"
+        "modFilters": "Compatible",
+        "sortBy": "Hotness"
     },
     "windowLocation": {
         "x": 123,
@@ -10,5 +10,6 @@
     "selectedProfile": {
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Experimental 6",
         "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Experimental 6"
-    }
+    },
+    "favoriteMods": []
 }
