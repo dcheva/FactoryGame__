@@ -1,7 +1,7 @@
 {
     "filters": {
         "modFilters": "Compatible",
-        "sortBy": "Last updated"
+        "sortBy": "Hotness"
     },
     "windowLocation": {
         "x": 123,
@@ -9,7 +9,7 @@
     },
     "selectedProfile": {
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Off-e6",
-        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Off-e6"
+        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Plus"
     },
     "favoriteMods": []
 }
