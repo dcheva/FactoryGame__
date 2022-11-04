@@ -1,1 +1,0 @@
-{"InventorySpace2":{"version":"2.0.1","dependencies":{"SML":"^3.2.0"}},"SML":{"version":"3.3.2","dependencies":{"FactoryGame":">=194714.0.0"}},"UtilityMod":{"version":"0.6.2","dependencies":{"SML":"^3.3.0"}},"StackOverload":{"version":"2.0.5","dependencies":{"SML":"^3.2.0"}},"ContainerScreen":{"version":"1.0.14","dependencies":{"SML":"^3.2.0"}}}
