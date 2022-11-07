@@ -1,0 +1,744 @@
+2022-07-31 01:34:13:299	[DEBUG]	Loading mod cache
+2022-07-31 01:34:13:815	[DEBUG]	Loading mod cache
+2022-07-31 01:34:13:836	[DEBUG]	Epic Games Launcher is not installed
+2022-07-31 01:34:14:176	[DEBUG]	Setting profile to Experimental 6
+2022-07-31 01:34:14:368	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-07-31 01:34:14:948	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:15:315	[DEBUG]	Validating SML
+2022-07-31 01:34:15:848	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:15:852	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:16:070	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:16:070	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:17:387	[DEBUG]	Validating SML
+2022-07-31 01:34:17:387	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:17:757	[DEBUG]	Validating SML
+2022-07-31 01:34:17:757	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:18:125	[DEBUG]	Validating SML
+2022-07-31 01:34:18:125	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:18:487	[DEBUG]	Validating SML
+2022-07-31 01:34:18:487	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:18:861	[DEBUG]	Validating SML
+2022-07-31 01:34:18:861	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:19:221	[DEBUG]	Validating SML
+2022-07-31 01:34:19:222	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:19:595	[DEBUG]	Validating SML
+2022-07-31 01:34:19:597	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:19:597	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:19:597	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:19:782	[DEBUG]	Validating SML
+2022-07-31 01:34:19:783	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:19:783	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:19:783	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:19:783	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:20:181	[DEBUG]	Validating SML
+2022-07-31 01:34:20:181	[DEBUG]	Validating SpySat
+2022-07-31 01:34:20:548	[DEBUG]	Validating SML
+2022-07-31 01:34:20:549	[DEBUG]	Validating IconSign
+2022-07-31 01:34:20:916	[DEBUG]	Validating SML
+2022-07-31 01:34:20:916	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:21:285	[DEBUG]	Validating SML
+2022-07-31 01:34:21:285	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:21:657	[DEBUG]	Validating SML
+2022-07-31 01:34:21:657	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:22:020	[DEBUG]	Validating SML
+2022-07-31 01:34:22:021	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:22:388	[DEBUG]	Validating SML
+2022-07-31 01:34:22:389	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:22:761	[DEBUG]	Validating SML
+2022-07-31 01:34:22:761	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:23:285	[DEBUG]	Validating SML
+2022-07-31 01:34:23:285	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:23:286	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:23:286	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:23:465	[DEBUG]	Validating SML
+2022-07-31 01:34:23:466	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:23:466	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-07-31 01:34:23:466	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:23:466	[DEBUG]	Items: {"UtilityMod":"0.6.1","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","FlexSplines":"1.0.8","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SmartFoundations":"18.0.0","SML":"3.3.1"}
+2022-07-31 01:34:23:487	[DEBUG]	Mismatches: {"install":{"SML":"3.3.1","UtilityMod":"0.6.1","FlexSplines":"1.0.8","SmartFoundations":"18.0.0"},"uninstall":["SML","UtilityMod","FlexSplines","SmartFoundations"]}
+2022-07-31 01:34:23:487	[DEBUG]	Removing SML from Satisfactory install
+2022-07-31 01:34:23:487	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-07-31 01:34:23:487	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-07-31 01:34:23:487	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-07-31 01:34:23:500	[DEBUG]	Removing SML from Satisfactory install
+2022-07-31 01:34:23:501	[DEBUG]	Uninstalling SML
+2022-07-31 01:34:23:504	[DEBUG]	Copying SML to Satisfactory install
+2022-07-31 01:34:23:504	[DEBUG]	Installing SML@3.3.1
+2022-07-31 01:34:24:192	[DEBUG]	Copying UtilityMod@0.6.1 to Satisfactory install
+2022-07-31 01:34:24:193	[DEBUG]	Copying FlexSplines@1.0.8 to Satisfactory install
+2022-07-31 01:34:24:193	[DEBUG]	Copying SmartFoundations@18.0.0 to Satisfactory install
+2022-07-31 01:34:24:194	[DEBUG]	UtilityMod@0.6.1 is not downloaded. Downloading now.
+2022-07-31 01:34:24:194	[DEBUG]	FlexSplines@1.0.8 is not downloaded. Downloading now.
+2022-07-31 01:34:24:194	[DEBUG]	SmartFoundations@18.0.0 is not downloaded. Downloading now.
+2022-07-31 01:34:27:052	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod IconSign@1.0.5 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod LaserBeacons@1.0.4 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod NoEarlyAccess@1.0.2 not found in cache when setting as in use.
+2022-07-31 01:34:27:053	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod SpySat@1.0.4 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-07-31 01:34:27:054	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-07-31 01:34:29:915	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:29:915	[DEBUG]	Validating SML
+2022-07-31 01:34:29:916	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:916	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:916	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:916	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:29:916	[DEBUG]	Validating SML
+2022-07-31 01:34:29:916	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:29:916	[DEBUG]	Validating SML
+2022-07-31 01:34:29:916	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:29:916	[DEBUG]	Validating SML
+2022-07-31 01:34:29:916	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:29:916	[DEBUG]	Validating SML
+2022-07-31 01:34:29:916	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:29:917	[DEBUG]	Validating SML
+2022-07-31 01:34:29:917	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:29:917	[DEBUG]	Validating SML
+2022-07-31 01:34:29:917	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:29:917	[DEBUG]	Validating SML
+2022-07-31 01:34:29:917	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:918	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:918	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:918	[DEBUG]	Validating SML
+2022-07-31 01:34:29:918	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:918	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:918	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:918	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:29:918	[DEBUG]	Validating SML
+2022-07-31 01:34:29:919	[DEBUG]	Validating SpySat
+2022-07-31 01:34:29:919	[DEBUG]	Validating SML
+2022-07-31 01:34:29:919	[DEBUG]	Validating IconSign
+2022-07-31 01:34:29:920	[DEBUG]	Validating SML
+2022-07-31 01:34:29:920	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:29:920	[DEBUG]	Validating SML
+2022-07-31 01:34:29:920	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:29:920	[DEBUG]	Validating SML
+2022-07-31 01:34:29:920	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:29:920	[DEBUG]	Validating SML
+2022-07-31 01:34:29:921	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:29:921	[DEBUG]	Validating SML
+2022-07-31 01:34:29:921	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:29:921	[DEBUG]	Validating SML
+2022-07-31 01:34:29:921	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:29:921	[DEBUG]	Validating SML
+2022-07-31 01:34:29:922	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:922	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:922	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:922	[DEBUG]	Validating SML
+2022-07-31 01:34:29:922	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:29:922	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:29:922	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:339	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:36:339	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:340	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:340	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:340	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:36:340	[DEBUG]	Validating SML
+2022-07-31 01:34:36:340	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:36:341	[DEBUG]	Validating SML
+2022-07-31 01:34:36:341	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:341	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:341	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:341	[DEBUG]	Validating SML
+2022-07-31 01:34:36:341	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:341	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:341	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:341	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:36:341	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating SpySat
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating IconSign
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:36:342	[DEBUG]	Validating SML
+2022-07-31 01:34:36:342	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:36:343	[DEBUG]	Validating SML
+2022-07-31 01:34:36:343	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:36:343	[DEBUG]	Validating SML
+2022-07-31 01:34:36:344	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:344	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:344	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:344	[DEBUG]	Validating SML
+2022-07-31 01:34:36:344	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:36:344	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:36:344	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:272	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:38:273	[DEBUG]	Validating SML
+2022-07-31 01:34:38:273	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:273	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:273	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:273	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:38:273	[DEBUG]	Validating SML
+2022-07-31 01:34:38:273	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:38:273	[DEBUG]	Validating SML
+2022-07-31 01:34:38:273	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:274	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:274	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:274	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:274	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:274	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:274	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:274	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:274	[DEBUG]	Validating SML
+2022-07-31 01:34:38:276	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:276	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:276	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:276	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:38:276	[DEBUG]	Validating SML
+2022-07-31 01:34:38:276	[DEBUG]	Validating SpySat
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating IconSign
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:277	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:38:277	[DEBUG]	Validating SML
+2022-07-31 01:34:38:278	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:38:278	[DEBUG]	Validating SML
+2022-07-31 01:34:38:278	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:278	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:278	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:278	[DEBUG]	Validating SML
+2022-07-31 01:34:38:279	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:279	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:279	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:566	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:38:566	[DEBUG]	Validating SML
+2022-07-31 01:34:38:566	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:566	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:567	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:567	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:567	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:38:567	[DEBUG]	Validating SML
+2022-07-31 01:34:38:568	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:568	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:568	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:568	[DEBUG]	Validating SML
+2022-07-31 01:34:38:569	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:569	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:569	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:569	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:38:569	[DEBUG]	Validating SML
+2022-07-31 01:34:38:569	[DEBUG]	Validating SpySat
+2022-07-31 01:34:38:569	[DEBUG]	Validating SML
+2022-07-31 01:34:38:569	[DEBUG]	Validating IconSign
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:570	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:38:570	[DEBUG]	Validating SML
+2022-07-31 01:34:38:571	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:571	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:571	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:571	[DEBUG]	Validating SML
+2022-07-31 01:34:38:571	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:571	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:571	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:782	[DEBUG]	Validating UtilityMod
+2022-07-31 01:34:38:782	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:783	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:783	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:783	[DEBUG]	Validating InventorySpace2
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating ContainerScreen
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating PersonalDrones
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating NoNewLabel
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating NoEarlyAccess
+2022-07-31 01:34:38:783	[DEBUG]	Validating SML
+2022-07-31 01:34:38:783	[DEBUG]	Validating FlexSplines
+2022-07-31 01:34:38:784	[DEBUG]	Validating SML
+2022-07-31 01:34:38:784	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:784	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:784	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:784	[DEBUG]	Validating SML
+2022-07-31 01:34:38:784	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:784	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:784	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:784	[DEBUG]	Validating UndergroundBelts
+2022-07-31 01:34:38:784	[DEBUG]	Validating SML
+2022-07-31 01:34:38:784	[DEBUG]	Validating SpySat
+2022-07-31 01:34:38:785	[DEBUG]	Validating SML
+2022-07-31 01:34:38:785	[DEBUG]	Validating IconSign
+2022-07-31 01:34:38:785	[DEBUG]	Validating SML
+2022-07-31 01:34:38:785	[DEBUG]	Validating LaserBeacons
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:786	[DEBUG]	Validating OrganizedCrates
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:786	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:786	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:786	[DEBUG]	Validating RandomStart
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:786	[DEBUG]	Validating SmartFoundations
+2022-07-31 01:34:38:786	[DEBUG]	Validating SML
+2022-07-31 01:34:38:787	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:787	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:787	[DEBUG]	SmartFoundations@18.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:787	[DEBUG]	Validating SML
+2022-07-31 01:34:38:787	[DEBUG]	Validating FactoryGame
+2022-07-31 01:34:38:787	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-07-31 01:34:38:787	[DEBUG]	Validating FactoryGame

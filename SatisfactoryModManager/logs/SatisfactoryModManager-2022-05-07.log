@@ -1,0 +1,1482 @@
+2022-05-07 16:34:52:651	[DEBUG]	Loading mod cache
+2022-05-07 16:34:53:151	[DEBUG]	Loading mod cache
+2022-05-07 16:34:53:203	[DEBUG]	Epic Games Launcher is not installed
+2022-05-07 16:34:53:581	[DEBUG]	Setting profile to dcheva.test
+2022-05-07 16:34:53:759	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:34:56:073	[DEBUG]	Validating SML
+2022-05-07 16:34:56:073	[DEBUG]	Validating FactoryGame
+2022-05-07 16:34:56:074	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:34:56:074	[DEBUG]	Validating KBFL
+2022-05-07 16:34:56:074	[DEBUG]	Validating KUI
+2022-05-07 16:34:56:074	[DEBUG]	Validating Inserter
+2022-05-07 16:34:56:074	[DEBUG]	Validating ModularUI
+2022-05-07 16:34:56:074	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:34:56:074	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:34:56:074	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:34:56:074	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:34:56:074	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:34:56:074	[DEBUG]	Validating UtilityMod
+2022-05-07 16:34:56:074	[DEBUG]	Validating KLevelUp
+2022-05-07 16:34:56:074	[DEBUG]	Validating StackOverload
+2022-05-07 16:34:56:074	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:34:56:075	[DEBUG]	Validating MAMTips
+2022-05-07 16:34:56:075	[DEBUG]	Validating SS_Mod
+2022-05-07 16:34:56:075	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:34:56:075	[DEBUG]	Validating CheapTrains
+2022-05-07 16:34:56:075	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:34:56:075	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:34:56:075	[DEBUG]	Validating InserterPlus
+2022-05-07 16:34:56:075	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:34:56:075	[DEBUG]	Validating BetterRadar
+2022-05-07 16:34:56:075	[DEBUG]	Validating MiniMap
+2022-05-07 16:34:56:075	[DEBUG]	Validating EarlyMap
+2022-05-07 16:34:56:075	[DEBUG]	Validating GridRuler
+2022-05-07 16:34:56:075	[DEBUG]	Validating RefinedPower
+2022-05-07 16:34:56:075	[DEBUG]	Validating PowerSuit
+2022-05-07 16:34:56:075	[DEBUG]	Validating MK22k20
+2022-05-07 16:34:56:075	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:34:56:075	[DEBUG]	Validating minerplus
+2022-05-07 16:34:56:075	[DEBUG]	Validating LinearMotion
+2022-05-07 16:34:56:075	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:34:56:075	[DEBUG]	Validating FloorHole
+2022-05-07 16:34:56:075	[DEBUG]	Validating MicroManage
+2022-05-07 16:34:56:075	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:34:56:075	[DEBUG]	Validating RandomStart
+2022-05-07 16:34:56:076	[DEBUG]	Items: {"FasterManualCrafting":"1.1.0","SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.13","KBFL":"1.11.3","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0"}
+2022-05-07 16:34:56:117	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-05-07 16:34:58:119	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:34:58:317	[DEBUG]	Validating SML
+2022-05-07 16:34:58:317	[DEBUG]	Validating FactoryGame
+2022-05-07 16:34:58:318	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:34:58:319	[DEBUG]	Validating SML
+2022-05-07 16:34:58:319	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:34:58:321	[DEBUG]	Validating SML
+2022-05-07 16:34:58:321	[DEBUG]	Validating UtilityMod
+2022-05-07 16:34:58:325	[DEBUG]	Validating SML
+2022-05-07 16:34:58:325	[DEBUG]	Validating KLevelUp
+2022-05-07 16:34:58:326	[DEBUG]	Validating SML
+2022-05-07 16:34:58:326	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:34:58:745	[DEBUG]	Validating KBFL
+2022-05-07 16:34:58:944	[DEBUG]	Validating SML
+2022-05-07 16:34:58:944	[DEBUG]	Validating KUI
+2022-05-07 16:34:58:945	[DEBUG]	Validating SML
+2022-05-07 16:34:58:945	[DEBUG]	Validating SML
+2022-05-07 16:34:58:945	[DEBUG]	Validating StackOverload
+2022-05-07 16:34:58:946	[DEBUG]	Validating SML
+2022-05-07 16:34:58:947	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:34:58:947	[DEBUG]	Validating SML
+2022-05-07 16:34:58:947	[DEBUG]	Validating MAMTips
+2022-05-07 16:34:58:948	[DEBUG]	Validating SML
+2022-05-07 16:34:58:948	[DEBUG]	Validating SS_Mod
+2022-05-07 16:34:58:949	[DEBUG]	Validating SML
+2022-05-07 16:34:58:949	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:34:59:154	[DEBUG]	Validating SML
+2022-05-07 16:34:59:154	[DEBUG]	Validating CheapTrains
+2022-05-07 16:34:59:354	[DEBUG]	Validating SML
+2022-05-07 16:34:59:354	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:34:59:355	[DEBUG]	Validating SML
+2022-05-07 16:34:59:355	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:34:59:356	[DEBUG]	Validating SML
+2022-05-07 16:34:59:356	[DEBUG]	Validating InserterPlus
+2022-05-07 16:34:59:357	[DEBUG]	Validating Inserter
+2022-05-07 16:34:59:357	[DEBUG]	Validating SML
+2022-05-07 16:34:59:358	[DEBUG]	Validating SML
+2022-05-07 16:34:59:358	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:34:59:358	[DEBUG]	Validating SML
+2022-05-07 16:34:59:359	[DEBUG]	Validating BetterRadar
+2022-05-07 16:34:59:359	[DEBUG]	Validating SML
+2022-05-07 16:34:59:359	[DEBUG]	Validating MiniMap
+2022-05-07 16:34:59:360	[DEBUG]	Validating SML
+2022-05-07 16:34:59:360	[DEBUG]	Validating EarlyMap
+2022-05-07 16:34:59:361	[DEBUG]	Validating SML
+2022-05-07 16:34:59:361	[DEBUG]	Validating GridRuler
+2022-05-07 16:34:59:362	[DEBUG]	Validating SML
+2022-05-07 16:34:59:362	[DEBUG]	Validating RefinedPower
+2022-05-07 16:34:59:366	[DEBUG]	Validating ModularUI
+2022-05-07 16:34:59:566	[DEBUG]	Validating SML
+2022-05-07 16:34:59:567	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:34:59:770	[DEBUG]	Validating SML
+2022-05-07 16:34:59:770	[DEBUG]	Validating SML
+2022-05-07 16:34:59:770	[DEBUG]	Validating PowerSuit
+2022-05-07 16:34:59:772	[DEBUG]	Validating SML
+2022-05-07 16:34:59:773	[DEBUG]	Validating MK22k20
+2022-05-07 16:34:59:776	[DEBUG]	Validating SML
+2022-05-07 16:34:59:776	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:34:59:782	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:34:59:978	[DEBUG]	Validating SML
+2022-05-07 16:34:59:978	[DEBUG]	Validating SML
+2022-05-07 16:34:59:978	[DEBUG]	Validating minerplus
+2022-05-07 16:34:59:980	[DEBUG]	Validating SML
+2022-05-07 16:34:59:980	[DEBUG]	Validating LinearMotion
+2022-05-07 16:34:59:981	[DEBUG]	Validating SML
+2022-05-07 16:34:59:982	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:34:59:983	[DEBUG]	Validating SML
+2022-05-07 16:34:59:983	[DEBUG]	Validating ModularUI
+2022-05-07 16:34:59:983	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:34:59:983	[DEBUG]	Validating FloorHole
+2022-05-07 16:34:59:985	[DEBUG]	Validating SML
+2022-05-07 16:34:59:985	[DEBUG]	Validating MicroManage
+2022-05-07 16:34:59:987	[DEBUG]	Validating SML
+2022-05-07 16:34:59:988	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:34:59:988	[DEBUG]	Validating SML
+2022-05-07 16:34:59:989	[DEBUG]	Validating RandomStart
+2022-05-07 16:34:59:989	[DEBUG]	Validating SML
+2022-05-07 16:35:02:749	[DEBUG]	Setting profile to dcheva.run
+2022-05-07 16:35:02:980	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:35:03:189	[DEBUG]	Validating SML
+2022-05-07 16:35:03:189	[DEBUG]	Validating FactoryGame
+2022-05-07 16:35:03:189	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:35:03:189	[DEBUG]	Validating KBFL
+2022-05-07 16:35:03:189	[DEBUG]	Validating KUI
+2022-05-07 16:35:03:189	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:35:03:189	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:35:03:189	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:35:03:189	[DEBUG]	Validating UtilityMod
+2022-05-07 16:35:03:189	[DEBUG]	Validating KLevelUp
+2022-05-07 16:35:03:189	[DEBUG]	Validating StackOverload
+2022-05-07 16:35:03:189	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:35:03:189	[DEBUG]	Validating RandomStart
+2022-05-07 16:35:03:189	[DEBUG]	Validating MAMTips
+2022-05-07 16:35:03:189	[DEBUG]	Validating SS_Mod
+2022-05-07 16:35:03:189	[DEBUG]	Items: {"FasterManualCrafting":"1.1.0","SML":"3.3.0","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","ContainerScreen":"1.0.11","StackOverload":"2.0.5","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.12","KBFL":"1.11.2","KUI":"1.3.1","NukeTheWhales":"1.0.0","RandomStart":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5"}
+2022-05-07 16:35:03:198	[DEBUG]	Mismatches: {"install":{"KPrivateCodeLib":"1.0.12","KBFL":"1.11.2"},"uninstall":["KPrivateCodeLib","KBFL","BetterRadar","CheapTrains","DaisyChainPowerCables","EarlyMap","EfficiencyCheckerMod","FicsitFarming","FloorHole","GridRuler","Inserter","InserterPlus","LinearMotion","LoadBalancers","MarcioCommonLibs","MicroManage","minerplus","MiniMap","MK22k20","ModularUI","NoNewLabel","PersonalDrones","PowerSuit","RefinedPower","RefinedRDLib","ShowEnemiesHealth"]}
+2022-05-07 16:35:03:198	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:35:03:198	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:35:03:198	[DEBUG]	Removing BetterRadar from Satisfactory install
+2022-05-07 16:35:03:198	[DEBUG]	Removing CheapTrains from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing DaisyChainPowerCables from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing EarlyMap from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing EfficiencyCheckerMod from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing FicsitFarming from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing FloorHole from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing GridRuler from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing Inserter from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing InserterPlus from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing LinearMotion from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing LoadBalancers from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing MarcioCommonLibs from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing minerplus from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing MiniMap from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing MK22k20 from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing ModularUI from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing NoNewLabel from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing PersonalDrones from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing PowerSuit from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing RefinedPower from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing RefinedRDLib from Satisfactory install
+2022-05-07 16:35:03:199	[DEBUG]	Removing ShowEnemiesHealth from Satisfactory install
+2022-05-07 16:35:03:278	[DEBUG]	Copying KPrivateCodeLib@1.0.12 to Satisfactory install
+2022-05-07 16:35:03:278	[DEBUG]	Copying KBFL@1.11.2 to Satisfactory install
+2022-05-07 16:35:03:279	[DEBUG]	KPrivateCodeLib@1.0.12 is not downloaded. Downloading now.
+2022-05-07 16:35:03:279	[DEBUG]	KBFL@1.11.2 is not downloaded. Downloading now.
+2022-05-07 16:35:17:284	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:35:17:285	[DEBUG]	Validating SML
+2022-05-07 16:35:17:285	[DEBUG]	Validating FactoryGame
+2022-05-07 16:35:17:285	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:35:17:285	[DEBUG]	Validating SML
+2022-05-07 16:35:17:285	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:35:17:285	[DEBUG]	Validating SML
+2022-05-07 16:35:17:285	[DEBUG]	Validating UtilityMod
+2022-05-07 16:35:17:285	[DEBUG]	Validating SML
+2022-05-07 16:35:17:285	[DEBUG]	Validating KLevelUp
+2022-05-07 16:35:17:286	[DEBUG]	Validating SML
+2022-05-07 16:35:17:286	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:35:17:286	[DEBUG]	Validating KBFL
+2022-05-07 16:35:17:286	[DEBUG]	Validating SML
+2022-05-07 16:35:17:286	[DEBUG]	Validating KUI
+2022-05-07 16:35:17:286	[DEBUG]	Validating SML
+2022-05-07 16:35:17:286	[DEBUG]	Validating SML
+2022-05-07 16:35:17:287	[DEBUG]	Validating StackOverload
+2022-05-07 16:35:17:287	[DEBUG]	Validating SML
+2022-05-07 16:35:17:287	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:35:17:287	[DEBUG]	Validating SML
+2022-05-07 16:35:17:287	[DEBUG]	Validating RandomStart
+2022-05-07 16:35:17:288	[DEBUG]	Validating SML
+2022-05-07 16:35:17:288	[DEBUG]	Validating MAMTips
+2022-05-07 16:35:17:288	[DEBUG]	Validating SML
+2022-05-07 16:35:17:288	[DEBUG]	Validating SS_Mod
+2022-05-07 16:35:17:288	[DEBUG]	Validating SML
+2022-05-07 16:35:21:928	[DEBUG]	Setting profile to dcheva.30
+2022-05-07 16:35:22:148	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:35:22:602	[DEBUG]	Validating SML
+2022-05-07 16:35:22:602	[DEBUG]	Validating FactoryGame
+2022-05-07 16:35:22:602	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:35:22:603	[DEBUG]	Validating avMallLib
+2022-05-07 16:35:22:603	[DEBUG]	Validating StackOverload
+2022-05-07 16:35:22:603	[DEBUG]	Validating TenTimesAwesomePoints
+2022-05-07 16:35:22:603	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:35:22:603	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:35:22:603	[DEBUG]	Validating SatisfactoryHelper
+2022-05-07 16:35:22:603	[DEBUG]	Validating x3_splitter_merger_pole
+2022-05-07 16:35:22:603	[DEBUG]	Validating FlashlightSettings
+2022-05-07 16:35:22:603	[DEBUG]	Validating MAMTips
+2022-05-07 16:35:22:603	[DEBUG]	Validating BeltfedBiomassBurner
+2022-05-07 16:35:22:603	[DEBUG]	Validating FastForward
+2022-05-07 16:35:22:603	[DEBUG]	Validating NoFallingGifts
+2022-05-07 16:35:22:603	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:35:22:603	[DEBUG]	Validating NoEarlyAccess
+2022-05-07 16:35:22:603	[DEBUG]	Validating Cellphone
+2022-05-07 16:35:22:603	[DEBUG]	Validating SimpleCodex
+2022-05-07 16:35:22:603	[DEBUG]	Validating VanishGiraffer
+2022-05-07 16:35:22:603	[DEBUG]	Validating SpaceMarket
+2022-05-07 16:35:22:603	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:35:22:603	[DEBUG]	Validating PermaDay
+2022-05-07 16:35:22:603	[DEBUG]	Validating EasyCheat
+2022-05-07 16:35:22:603	[DEBUG]	Validating FicsitTrading
+2022-05-07 16:35:22:603	[DEBUG]	Validating NoFog
+2022-05-07 16:35:22:603	[DEBUG]	Validating WallPipeSupports
+2022-05-07 16:35:22:603	[DEBUG]	Validating WallHoleConveyor
+2022-05-07 16:35:22:603	[DEBUG]	Validating WallConveyorSupports
+2022-05-07 16:35:22:603	[DEBUG]	Validating UtilityMod
+2022-05-07 16:35:22:603	[DEBUG]	Validating AdvancedPersonalStorage
+2022-05-07 16:35:22:603	[DEBUG]	Validating Additional_300_Inventory_Slots
+2022-05-07 16:35:22:603	[DEBUG]	Validating SmallStorage
+2022-05-07 16:35:22:603	[DEBUG]	Validating RegenAllHealth
+2022-05-07 16:35:22:604	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","FlashlightSettings":"1.0.1","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","NoEarlyAccess":"1.0.2","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","UtilityMod":"0.5.4","AdvancedPersonalStorage":"1.0.0","Additional_300_Inventory_Slots":"5.0.3","SmallStorage":"2.2.2","avMallLib":"2.2.1","RegenAllHealth":"2.0.2","x3_splitter_merger_pole":"1.1.6","Cellphone":"1.0.6","MarcioCommonLibs":"1.1.1","EasyCheat":"1.0.8","MAMTips":"0.5.0","ContainerScreen":"1.0.11"}
+2022-05-07 16:35:22:607	[DEBUG]	Mismatches: {"install":{"TenTimesAwesomePoints":"1.0.1","SatisfactoryHelper":"2.0.3","FlashlightSettings":"1.0.1","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","NoEarlyAccess":"1.0.2","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","AdvancedPersonalStorage":"1.0.0","Additional_300_Inventory_Slots":"5.0.3","SmallStorage":"2.2.2","avMallLib":"2.2.1","RegenAllHealth":"2.0.2","x3_splitter_merger_pole":"1.1.6","Cellphone":"1.0.6","MarcioCommonLibs":"1.1.1","EasyCheat":"1.0.8"},"uninstall":["KBFL","KLevelUp","KPrivateCodeLib","KUI","NukeTheWhales","RandomStart","SS_Mod"]}
+2022-05-07 16:35:22:608	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing KUI from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing NukeTheWhales from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing RandomStart from Satisfactory install
+2022-05-07 16:35:22:608	[DEBUG]	Removing SS_Mod from Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying TenTimesAwesomePoints@1.0.1 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying SatisfactoryHelper@2.0.3 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying FlashlightSettings@1.0.1 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying BeltfedBiomassBurner@1.1.1 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying FastForward@1.0.0 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying NoFallingGifts@1.0.0 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying NoEarlyAccess@1.0.2 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying SimpleCodex@1.0.2 to Satisfactory install
+2022-05-07 16:35:22:632	[DEBUG]	Copying VanishGiraffer@1.0.1 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying SpaceMarket@2.0.1 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying DaisyChainPowerCables@2.0.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying PermaDay@1.0.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying FicsitTrading@2.0.0 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying NoFog@2.0.0 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying WallPipeSupports@2.1.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying WallHoleConveyor@2.0.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying WallConveyorSupports@1.1.0 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying AdvancedPersonalStorage@1.0.0 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying Additional_300_Inventory_Slots@5.0.3 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying SmallStorage@2.2.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying avMallLib@2.2.1 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying RegenAllHealth@2.0.2 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying x3_splitter_merger_pole@1.1.6 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying Cellphone@1.0.6 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying MarcioCommonLibs@1.1.1 to Satisfactory install
+2022-05-07 16:35:22:633	[DEBUG]	Copying EasyCheat@1.0.8 to Satisfactory install
+2022-05-07 16:35:22:654	[DEBUG]	TenTimesAwesomePoints@1.0.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:654	[DEBUG]	SatisfactoryHelper@2.0.3 is not downloaded. Downloading now.
+2022-05-07 16:35:22:654	[DEBUG]	FlashlightSettings@1.0.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:654	[DEBUG]	BeltfedBiomassBurner@1.1.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	FastForward@1.0.0 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	NoFallingGifts@1.0.0 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	NoEarlyAccess@1.0.2 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	SimpleCodex@1.0.2 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	VanishGiraffer@1.0.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	SpaceMarket@2.0.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	PermaDay@1.0.2 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	FicsitTrading@2.0.0 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	NoFog@2.0.0 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	WallPipeSupports@2.1.2 is not downloaded. Downloading now.
+2022-05-07 16:35:22:655	[DEBUG]	WallHoleConveyor@2.0.2 is not downloaded. Downloading now.
+2022-05-07 16:35:22:656	[DEBUG]	WallConveyorSupports@1.1.0 is not downloaded. Downloading now.
+2022-05-07 16:35:22:656	[DEBUG]	Additional_300_Inventory_Slots@5.0.3 is not downloaded. Downloading now.
+2022-05-07 16:35:22:656	[DEBUG]	avMallLib@2.2.1 is not downloaded. Downloading now.
+2022-05-07 16:35:22:656	[DEBUG]	EasyCheat@1.0.8 is not downloaded. Downloading now.
+2022-05-07 16:35:36:176	[DEBUG]	Validating StackOverload
+2022-05-07 16:35:36:177	[DEBUG]	Validating SML
+2022-05-07 16:35:36:177	[DEBUG]	Validating FactoryGame
+2022-05-07 16:35:36:177	[DEBUG]	Validating TenTimesAwesomePoints
+2022-05-07 16:35:36:177	[DEBUG]	Validating SML
+2022-05-07 16:35:36:177	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:35:36:178	[DEBUG]	Validating SML
+2022-05-07 16:35:36:178	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:35:36:178	[DEBUG]	Validating SML
+2022-05-07 16:35:36:178	[DEBUG]	Validating SatisfactoryHelper
+2022-05-07 16:35:36:179	[DEBUG]	Validating SML
+2022-05-07 16:35:36:179	[DEBUG]	Validating x3_splitter_merger_pole
+2022-05-07 16:35:36:180	[DEBUG]	Validating SML
+2022-05-07 16:35:36:180	[DEBUG]	Validating FlashlightSettings
+2022-05-07 16:35:36:181	[DEBUG]	Validating SML
+2022-05-07 16:35:36:181	[DEBUG]	Validating MAMTips
+2022-05-07 16:35:36:181	[DEBUG]	Validating SML
+2022-05-07 16:35:36:181	[DEBUG]	Validating BeltfedBiomassBurner
+2022-05-07 16:35:36:181	[DEBUG]	Validating SML
+2022-05-07 16:35:36:182	[DEBUG]	Validating FastForward
+2022-05-07 16:35:36:182	[DEBUG]	Validating SML
+2022-05-07 16:35:36:182	[DEBUG]	Validating NoFallingGifts
+2022-05-07 16:35:36:182	[DEBUG]	Validating SML
+2022-05-07 16:35:36:182	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:35:36:182	[DEBUG]	Validating SML
+2022-05-07 16:35:36:182	[DEBUG]	Validating NoEarlyAccess
+2022-05-07 16:35:36:183	[DEBUG]	Validating SML
+2022-05-07 16:35:36:183	[DEBUG]	Validating Cellphone
+2022-05-07 16:35:36:185	[DEBUG]	Validating SML
+2022-05-07 16:35:36:185	[DEBUG]	Validating SimpleCodex
+2022-05-07 16:35:36:186	[DEBUG]	Validating SML
+2022-05-07 16:35:36:186	[DEBUG]	Validating VanishGiraffer
+2022-05-07 16:35:36:186	[DEBUG]	Validating SML
+2022-05-07 16:35:36:186	[DEBUG]	Validating SpaceMarket
+2022-05-07 16:35:36:187	[DEBUG]	Validating SML
+2022-05-07 16:35:36:187	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:35:36:188	[DEBUG]	Validating SML
+2022-05-07 16:35:36:188	[DEBUG]	Validating PermaDay
+2022-05-07 16:35:36:189	[DEBUG]	Validating SML
+2022-05-07 16:35:36:189	[DEBUG]	Validating EasyCheat
+2022-05-07 16:35:36:191	[DEBUG]	Validating SML
+2022-05-07 16:35:36:191	[DEBUG]	Validating FicsitTrading
+2022-05-07 16:35:36:192	[DEBUG]	Validating SML
+2022-05-07 16:35:36:192	[DEBUG]	Validating NoFog
+2022-05-07 16:35:36:192	[DEBUG]	Validating SML
+2022-05-07 16:35:36:193	[DEBUG]	Validating WallPipeSupports
+2022-05-07 16:35:36:194	[DEBUG]	Validating SML
+2022-05-07 16:35:36:194	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:35:36:194	[DEBUG]	Validating SML
+2022-05-07 16:35:36:194	[DEBUG]	Validating WallHoleConveyor
+2022-05-07 16:35:36:195	[DEBUG]	Validating SML
+2022-05-07 16:35:36:197	[DEBUG]	Validating WallConveyorSupports
+2022-05-07 16:35:36:197	[DEBUG]	Validating SML
+2022-05-07 16:35:36:199	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:35:36:199	[DEBUG]	Validating UtilityMod
+2022-05-07 16:35:36:199	[DEBUG]	Validating SML
+2022-05-07 16:35:36:199	[DEBUG]	Validating AdvancedPersonalStorage
+2022-05-07 16:35:36:200	[DEBUG]	Validating SML
+2022-05-07 16:35:36:200	[DEBUG]	Validating Additional_300_Inventory_Slots
+2022-05-07 16:35:36:201	[DEBUG]	Validating SML
+2022-05-07 16:35:36:201	[DEBUG]	Validating SmallStorage
+2022-05-07 16:35:36:202	[DEBUG]	Validating SML
+2022-05-07 16:35:36:202	[DEBUG]	Validating avMallLib
+2022-05-07 16:35:36:465	[DEBUG]	Validating SML
+2022-05-07 16:35:36:465	[DEBUG]	Validating RegenAllHealth
+2022-05-07 16:35:36:466	[DEBUG]	Validating SML
+2022-05-07 16:35:38:857	[DEBUG]	Setting profile to dcheva.test
+2022-05-07 16:35:39:073	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:35:39:077	[DEBUG]	Validating SML
+2022-05-07 16:35:39:078	[DEBUG]	Validating FactoryGame
+2022-05-07 16:35:39:078	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:35:39:078	[DEBUG]	Validating KBFL
+2022-05-07 16:35:39:078	[DEBUG]	Validating KUI
+2022-05-07 16:35:39:078	[DEBUG]	Validating Inserter
+2022-05-07 16:35:39:078	[DEBUG]	Validating ModularUI
+2022-05-07 16:35:39:078	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:35:39:078	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:35:39:078	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:35:39:078	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:35:39:078	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:35:39:078	[DEBUG]	Validating UtilityMod
+2022-05-07 16:35:39:078	[DEBUG]	Validating KLevelUp
+2022-05-07 16:35:39:078	[DEBUG]	Validating StackOverload
+2022-05-07 16:35:39:078	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:35:39:078	[DEBUG]	Validating MAMTips
+2022-05-07 16:35:39:078	[DEBUG]	Validating SS_Mod
+2022-05-07 16:35:39:078	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:35:39:078	[DEBUG]	Validating CheapTrains
+2022-05-07 16:35:39:078	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:35:39:078	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:35:39:078	[DEBUG]	Validating InserterPlus
+2022-05-07 16:35:39:078	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:35:39:078	[DEBUG]	Validating BetterRadar
+2022-05-07 16:35:39:078	[DEBUG]	Validating MiniMap
+2022-05-07 16:35:39:078	[DEBUG]	Validating EarlyMap
+2022-05-07 16:35:39:078	[DEBUG]	Validating GridRuler
+2022-05-07 16:35:39:078	[DEBUG]	Validating RefinedPower
+2022-05-07 16:35:39:078	[DEBUG]	Validating PowerSuit
+2022-05-07 16:35:39:078	[DEBUG]	Validating MK22k20
+2022-05-07 16:35:39:078	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:35:39:078	[DEBUG]	Validating minerplus
+2022-05-07 16:35:39:078	[DEBUG]	Validating LinearMotion
+2022-05-07 16:35:39:078	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:35:39:078	[DEBUG]	Validating FloorHole
+2022-05-07 16:35:39:078	[DEBUG]	Validating MicroManage
+2022-05-07 16:35:39:078	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:35:39:078	[DEBUG]	Validating RandomStart
+2022-05-07 16:35:39:079	[DEBUG]	Items: {"FasterManualCrafting":"1.1.0","SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.13","KBFL":"1.11.3","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0"}
+2022-05-07 16:35:39:087	[DEBUG]	Mismatches: {"install":{"KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.13","KBFL":"1.11.3","KUI":"1.3.1","NukeTheWhales":"1.0.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","RandomStart":"1.0.0"},"uninstall":["Additional_300_Inventory_Slots","AdvancedPersonalStorage","avMallLib","BeltfedBiomassBurner","Cellphone","EasyCheat","FastForward","FicsitTrading","FlashlightSettings","NoEarlyAccess","NoFallingGifts","NoFog","PermaDay","RegenAllHealth","SatisfactoryHelper","SimpleCodex","SmallStorage","SpaceMarket","TenTimesAwesomePoints","VanishGiraffer","WallConveyorSupports","WallHoleConveyor","WallPipeSupports","x3_splitter_merger_pole"]}
+2022-05-07 16:35:39:087	[DEBUG]	Removing Additional_300_Inventory_Slots from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing AdvancedPersonalStorage from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing avMallLib from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing BeltfedBiomassBurner from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing Cellphone from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing EasyCheat from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing FastForward from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing FicsitTrading from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing FlashlightSettings from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing NoEarlyAccess from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing NoFallingGifts from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing NoFog from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing PermaDay from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing RegenAllHealth from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing SatisfactoryHelper from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing SimpleCodex from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing SmallStorage from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing SpaceMarket from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing TenTimesAwesomePoints from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing VanishGiraffer from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing WallConveyorSupports from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing WallHoleConveyor from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing WallPipeSupports from Satisfactory install
+2022-05-07 16:35:39:087	[DEBUG]	Removing x3_splitter_merger_pole from Satisfactory install
+2022-05-07 16:35:39:155	[DEBUG]	Copying KLevelUp@1.2.5 to Satisfactory install
+2022-05-07 16:35:39:155	[DEBUG]	Copying KPrivateCodeLib@1.0.13 to Satisfactory install
+2022-05-07 16:35:39:155	[DEBUG]	Copying KBFL@1.11.3 to Satisfactory install
+2022-05-07 16:35:39:155	[DEBUG]	Copying KUI@1.3.1 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying NukeTheWhales@1.0.0 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying SS_Mod@1.1.5 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying LoadBalancers@1.3.1 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying PersonalDrones@1.0.11 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying NoNewLabel@1.0.0 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying InserterPlus@0.4.0 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying Inserter@0.4.0 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying ShowEnemiesHealth@1.0.2 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying BetterRadar@0.1.0 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying MiniMap@1.0.11 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying EarlyMap@1.0.2 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying GridRuler@2.0.3 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying RefinedPower@3.0.9 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying ModularUI@2.0.8 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying RefinedRDLib@1.0.7 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying PowerSuit@0.8.4 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying MK22k20@5.1.5 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying EfficiencyCheckerMod@2.1.4 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying minerplus@3.2.13 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying LinearMotion@2.0.16 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying CheapTrains@3.1.1 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying FicsitFarming@4.0.3 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying FloorHole@2.0.11 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying MicroManage@0.9.11 to Satisfactory install
+2022-05-07 16:35:39:156	[DEBUG]	Copying RandomStart@1.0.0 to Satisfactory install
+2022-05-07 16:36:18:090	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:36:18:091	[DEBUG]	Validating SML
+2022-05-07 16:36:18:091	[DEBUG]	Validating FactoryGame
+2022-05-07 16:36:18:091	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:36:18:091	[DEBUG]	Validating SML
+2022-05-07 16:36:18:091	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:36:18:093	[DEBUG]	Validating SML
+2022-05-07 16:36:18:093	[DEBUG]	Validating UtilityMod
+2022-05-07 16:36:18:094	[DEBUG]	Validating SML
+2022-05-07 16:36:18:094	[DEBUG]	Validating KLevelUp
+2022-05-07 16:36:18:095	[DEBUG]	Validating SML
+2022-05-07 16:36:18:095	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:36:18:095	[DEBUG]	Validating KBFL
+2022-05-07 16:36:18:095	[DEBUG]	Validating SML
+2022-05-07 16:36:18:095	[DEBUG]	Validating KUI
+2022-05-07 16:36:18:095	[DEBUG]	Validating SML
+2022-05-07 16:36:18:095	[DEBUG]	Validating SML
+2022-05-07 16:36:18:096	[DEBUG]	Validating StackOverload
+2022-05-07 16:36:18:096	[DEBUG]	Validating SML
+2022-05-07 16:36:18:096	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:36:18:096	[DEBUG]	Validating SML
+2022-05-07 16:36:18:096	[DEBUG]	Validating MAMTips
+2022-05-07 16:36:18:096	[DEBUG]	Validating SML
+2022-05-07 16:36:18:096	[DEBUG]	Validating SS_Mod
+2022-05-07 16:36:18:097	[DEBUG]	Validating SML
+2022-05-07 16:36:18:097	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:36:18:098	[DEBUG]	Validating SML
+2022-05-07 16:36:18:098	[DEBUG]	Validating CheapTrains
+2022-05-07 16:36:18:099	[DEBUG]	Validating SML
+2022-05-07 16:36:18:099	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:36:18:099	[DEBUG]	Validating SML
+2022-05-07 16:36:18:099	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:36:18:099	[DEBUG]	Validating SML
+2022-05-07 16:36:18:099	[DEBUG]	Validating InserterPlus
+2022-05-07 16:36:18:100	[DEBUG]	Validating Inserter
+2022-05-07 16:36:18:100	[DEBUG]	Validating SML
+2022-05-07 16:36:18:100	[DEBUG]	Validating SML
+2022-05-07 16:36:18:100	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:36:18:101	[DEBUG]	Validating SML
+2022-05-07 16:36:18:101	[DEBUG]	Validating BetterRadar
+2022-05-07 16:36:18:101	[DEBUG]	Validating SML
+2022-05-07 16:36:18:101	[DEBUG]	Validating MiniMap
+2022-05-07 16:36:18:101	[DEBUG]	Validating SML
+2022-05-07 16:36:18:102	[DEBUG]	Validating EarlyMap
+2022-05-07 16:36:18:102	[DEBUG]	Validating SML
+2022-05-07 16:36:18:102	[DEBUG]	Validating GridRuler
+2022-05-07 16:36:18:102	[DEBUG]	Validating SML
+2022-05-07 16:36:18:102	[DEBUG]	Validating RefinedPower
+2022-05-07 16:36:18:103	[DEBUG]	Validating ModularUI
+2022-05-07 16:36:18:103	[DEBUG]	Validating SML
+2022-05-07 16:36:18:103	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:36:18:103	[DEBUG]	Validating SML
+2022-05-07 16:36:18:104	[DEBUG]	Validating SML
+2022-05-07 16:36:18:104	[DEBUG]	Validating PowerSuit
+2022-05-07 16:36:18:104	[DEBUG]	Validating SML
+2022-05-07 16:36:18:104	[DEBUG]	Validating MK22k20
+2022-05-07 16:36:18:105	[DEBUG]	Validating SML
+2022-05-07 16:36:18:105	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:36:18:106	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:36:18:106	[DEBUG]	Validating SML
+2022-05-07 16:36:18:106	[DEBUG]	Validating SML
+2022-05-07 16:36:18:106	[DEBUG]	Validating minerplus
+2022-05-07 16:36:18:106	[DEBUG]	Validating SML
+2022-05-07 16:36:18:106	[DEBUG]	Validating LinearMotion
+2022-05-07 16:36:18:107	[DEBUG]	Validating SML
+2022-05-07 16:36:18:107	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:36:18:107	[DEBUG]	Validating SML
+2022-05-07 16:36:18:107	[DEBUG]	Validating ModularUI
+2022-05-07 16:36:18:107	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:36:18:107	[DEBUG]	Validating FloorHole
+2022-05-07 16:36:18:108	[DEBUG]	Validating SML
+2022-05-07 16:36:18:108	[DEBUG]	Validating MicroManage
+2022-05-07 16:36:18:108	[DEBUG]	Validating SML
+2022-05-07 16:36:18:109	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:36:18:110	[DEBUG]	Validating SML
+2022-05-07 16:36:18:110	[DEBUG]	Validating RandomStart
+2022-05-07 16:36:18:110	[DEBUG]	Validating SML
+2022-05-07 16:41:04:436	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [FasterManualCrafting]
+2022-05-07 16:41:04:440	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:04:441	[DEBUG]	Validating SML
+2022-05-07 16:41:04:441	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:04:441	[DEBUG]	Validating KBFL
+2022-05-07 16:41:04:441	[DEBUG]	Validating KUI
+2022-05-07 16:41:04:441	[DEBUG]	Validating Inserter
+2022-05-07 16:41:04:441	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:04:441	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:04:441	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:04:441	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:04:442	[DEBUG]	Validating SML
+2022-05-07 16:41:04:443	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:04:443	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:04:443	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:04:443	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:04:443	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:04:443	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:04:443	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:04:443	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:04:443	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:04:443	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:04:443	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:04:443	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:04:443	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:04:443	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:04:443	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:04:443	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:04:443	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:04:443	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:04:443	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:04:443	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:04:443	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:04:443	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:04:443	[DEBUG]	Validating minerplus
+2022-05-07 16:41:04:443	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:04:443	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:04:443	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:04:443	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:04:443	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:04:443	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:04:445	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.13","KBFL":"1.11.3","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1"}
+2022-05-07 16:41:04:462	[DEBUG]	Mismatches: {"install":{"FasterManualCrafting":"1.1.1"},"uninstall":["FasterManualCrafting"]}
+2022-05-07 16:41:04:462	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-05-07 16:41:04:471	[DEBUG]	Copying FasterManualCrafting@1.1.1 to Satisfactory install
+2022-05-07 16:41:04:472	[DEBUG]	FasterManualCrafting@1.1.1 is not downloaded. Downloading now.
+2022-05-07 16:41:09:307	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [KPrivateCodeLib]
+2022-05-07 16:41:09:311	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:09:312	[DEBUG]	Validating SML
+2022-05-07 16:41:09:312	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:09:312	[DEBUG]	Validating KBFL
+2022-05-07 16:41:09:312	[DEBUG]	Validating SML
+2022-05-07 16:41:09:313	[DEBUG]	Validating KUI
+2022-05-07 16:41:09:313	[DEBUG]	Validating SML
+2022-05-07 16:41:09:313	[DEBUG]	Validating Inserter
+2022-05-07 16:41:09:313	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:09:313	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:09:313	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:09:313	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:09:313	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:09:313	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:09:313	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:09:314	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:09:314	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:09:314	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:09:314	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:09:314	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:09:314	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:09:314	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:09:314	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:09:314	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:09:314	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:09:314	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:09:314	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:09:314	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:09:314	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:09:314	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:09:314	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:09:314	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:09:314	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:09:314	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:09:314	[DEBUG]	Validating minerplus
+2022-05-07 16:41:09:314	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:09:314	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:09:314	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:09:314	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:09:314	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:09:314	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:09:315	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"}
+2022-05-07 16:41:09:323	[DEBUG]	Mismatches: {"install":{"KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"},"uninstall":["KPrivateCodeLib","KBFL"]}
+2022-05-07 16:41:09:323	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:41:09:323	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:41:09:342	[DEBUG]	Copying KPrivateCodeLib@1.1.0 to Satisfactory install
+2022-05-07 16:41:09:342	[DEBUG]	Copying KBFL@1.12.3 to Satisfactory install
+2022-05-07 16:41:09:343	[DEBUG]	KPrivateCodeLib@1.1.0 is not downloaded. Downloading now.
+2022-05-07 16:41:09:343	[DEBUG]	KBFL@1.12.3 is not downloaded. Downloading now.
+2022-05-07 16:41:17:626	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [KBFL]
+2022-05-07 16:41:17:628	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:17:629	[DEBUG]	Validating SML
+2022-05-07 16:41:17:629	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:17:629	[DEBUG]	Validating Inserter
+2022-05-07 16:41:17:629	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:17:629	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:17:629	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:17:629	[DEBUG]	Validating KBFL
+2022-05-07 16:41:17:629	[DEBUG]	Validating SML
+2022-05-07 16:41:17:630	[DEBUG]	Validating KUI
+2022-05-07 16:41:17:630	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:17:630	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:17:630	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:17:630	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:17:630	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:17:630	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:17:630	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:17:630	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:17:630	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:17:630	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:17:630	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:17:630	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:17:630	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:17:630	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:17:630	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:17:630	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:17:630	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:17:630	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:17:630	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:17:630	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:17:630	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:17:630	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:17:630	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:17:630	[DEBUG]	Validating minerplus
+2022-05-07 16:41:17:630	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:17:630	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:17:630	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:17:630	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:17:630	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:17:630	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:17:633	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","LoadBalancers":"1.3.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"}
+2022-05-07 16:41:17:641	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-05-07 16:41:19:119	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:19:120	[DEBUG]	Validating SML
+2022-05-07 16:41:19:120	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:19:120	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:19:120	[DEBUG]	Validating SML
+2022-05-07 16:41:19:120	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:19:121	[DEBUG]	Validating SML
+2022-05-07 16:41:19:121	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:19:121	[DEBUG]	Validating SML
+2022-05-07 16:41:19:121	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:19:121	[DEBUG]	Validating SML
+2022-05-07 16:41:19:121	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:19:121	[DEBUG]	Validating KBFL
+2022-05-07 16:41:19:122	[DEBUG]	Validating SML
+2022-05-07 16:41:19:122	[DEBUG]	Validating KUI
+2022-05-07 16:41:19:122	[DEBUG]	Validating SML
+2022-05-07 16:41:19:122	[DEBUG]	Validating SML
+2022-05-07 16:41:19:122	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:19:122	[DEBUG]	Validating SML
+2022-05-07 16:41:19:123	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:19:123	[DEBUG]	Validating SML
+2022-05-07 16:41:19:123	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:19:123	[DEBUG]	Validating SML
+2022-05-07 16:41:19:123	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:19:123	[DEBUG]	Validating SML
+2022-05-07 16:41:19:123	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:19:124	[DEBUG]	Validating SML
+2022-05-07 16:41:19:124	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:19:124	[DEBUG]	Validating SML
+2022-05-07 16:41:19:125	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:19:125	[DEBUG]	Validating SML
+2022-05-07 16:41:19:125	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:19:125	[DEBUG]	Validating SML
+2022-05-07 16:41:19:125	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:19:125	[DEBUG]	Validating Inserter
+2022-05-07 16:41:19:125	[DEBUG]	Validating SML
+2022-05-07 16:41:19:125	[DEBUG]	Validating SML
+2022-05-07 16:41:19:126	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:19:126	[DEBUG]	Validating SML
+2022-05-07 16:41:19:126	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:19:126	[DEBUG]	Validating SML
+2022-05-07 16:41:19:126	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:19:127	[DEBUG]	Validating SML
+2022-05-07 16:41:19:127	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:19:127	[DEBUG]	Validating SML
+2022-05-07 16:41:19:127	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:19:127	[DEBUG]	Validating SML
+2022-05-07 16:41:19:127	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:19:129	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:19:129	[DEBUG]	Validating SML
+2022-05-07 16:41:19:130	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:19:130	[DEBUG]	Validating SML
+2022-05-07 16:41:19:130	[DEBUG]	Validating SML
+2022-05-07 16:41:19:130	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:19:130	[DEBUG]	Validating SML
+2022-05-07 16:41:19:131	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:19:131	[DEBUG]	Validating SML
+2022-05-07 16:41:19:131	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:19:132	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:19:132	[DEBUG]	Validating SML
+2022-05-07 16:41:19:132	[DEBUG]	Validating SML
+2022-05-07 16:41:19:132	[DEBUG]	Validating minerplus
+2022-05-07 16:41:19:132	[DEBUG]	Validating SML
+2022-05-07 16:41:19:133	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:19:133	[DEBUG]	Validating SML
+2022-05-07 16:41:19:133	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:19:133	[DEBUG]	Validating SML
+2022-05-07 16:41:19:134	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:19:134	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:19:134	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:19:134	[DEBUG]	Validating SML
+2022-05-07 16:41:19:135	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:19:135	[DEBUG]	Validating SML
+2022-05-07 16:41:19:135	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:19:135	[DEBUG]	Validating SML
+2022-05-07 16:41:19:136	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:19:136	[DEBUG]	Validating SML
+2022-05-07 16:41:19:802	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [LoadBalancers]
+2022-05-07 16:41:19:805	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:19:805	[DEBUG]	Validating SML
+2022-05-07 16:41:19:806	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:19:806	[DEBUG]	Validating Inserter
+2022-05-07 16:41:19:806	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:19:806	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:19:806	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:19:806	[DEBUG]	Validating KBFL
+2022-05-07 16:41:19:806	[DEBUG]	Validating KUI
+2022-05-07 16:41:19:806	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:19:806	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:19:806	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:19:806	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:19:806	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:19:806	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:19:806	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:19:806	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:19:806	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:19:806	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:19:806	[DEBUG]	Validating SML
+2022-05-07 16:41:19:806	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:19:806	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:19:806	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:19:806	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:19:807	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:19:807	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:19:807	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:19:807	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:19:807	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:19:807	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:19:807	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:19:807	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:19:807	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:19:807	[DEBUG]	Validating minerplus
+2022-05-07 16:41:19:807	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:19:807	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:19:807	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:19:807	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:19:807	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:19:807	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:19:808	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","CheapTrains":"3.1.1","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3","LoadBalancers":"1.4.2"}
+2022-05-07 16:41:19:818	[DEBUG]	Mismatches: {"install":{"LoadBalancers":"1.4.2"},"uninstall":["LoadBalancers"]}
+2022-05-07 16:41:19:818	[DEBUG]	Removing LoadBalancers from Satisfactory install
+2022-05-07 16:41:19:829	[DEBUG]	Copying LoadBalancers@1.4.2 to Satisfactory install
+2022-05-07 16:41:19:830	[DEBUG]	LoadBalancers@1.4.2 is not downloaded. Downloading now.
+2022-05-07 16:41:24:696	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [CheapTrains]
+2022-05-07 16:41:24:699	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:24:700	[DEBUG]	Validating SML
+2022-05-07 16:41:24:700	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:24:700	[DEBUG]	Validating Inserter
+2022-05-07 16:41:24:700	[DEBUG]	Validating ModularUI
+2022-05-07 16:41:24:700	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:41:24:700	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:24:700	[DEBUG]	Validating KBFL
+2022-05-07 16:41:24:700	[DEBUG]	Validating KUI
+2022-05-07 16:41:24:700	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:24:700	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:24:700	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:24:700	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:24:700	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:24:700	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:24:700	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:24:700	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:24:700	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:24:700	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:41:24:700	[DEBUG]	Validating CheapTrains
+2022-05-07 16:41:24:700	[DEBUG]	Validating SML
+2022-05-07 16:41:24:700	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:41:24:701	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:41:24:701	[DEBUG]	Validating InserterPlus
+2022-05-07 16:41:24:701	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:41:24:701	[DEBUG]	Validating BetterRadar
+2022-05-07 16:41:24:701	[DEBUG]	Validating MiniMap
+2022-05-07 16:41:24:701	[DEBUG]	Validating EarlyMap
+2022-05-07 16:41:24:701	[DEBUG]	Validating GridRuler
+2022-05-07 16:41:24:701	[DEBUG]	Validating RefinedPower
+2022-05-07 16:41:24:701	[DEBUG]	Validating PowerSuit
+2022-05-07 16:41:24:701	[DEBUG]	Validating MK22k20
+2022-05-07 16:41:24:701	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:41:24:701	[DEBUG]	Validating minerplus
+2022-05-07 16:41:24:701	[DEBUG]	Validating LinearMotion
+2022-05-07 16:41:24:701	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:41:24:701	[DEBUG]	Validating FloorHole
+2022-05-07 16:41:24:701	[DEBUG]	Validating MicroManage
+2022-05-07 16:41:24:701	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:24:701	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:24:701	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3","LoadBalancers":"1.4.2","CheapTrains":"3.1.3"}
+2022-05-07 16:41:24:709	[DEBUG]	Mismatches: {"install":{"CheapTrains":"3.1.3"},"uninstall":["CheapTrains"]}
+2022-05-07 16:41:24:710	[DEBUG]	Removing CheapTrains from Satisfactory install
+2022-05-07 16:41:24:721	[DEBUG]	Copying CheapTrains@3.1.3 to Satisfactory install
+2022-05-07 16:41:24:721	[DEBUG]	CheapTrains@3.1.3 is not downloaded. Downloading now.
+2022-05-07 16:41:29:700	[DEBUG]	Setting profile to dcheva.run
+2022-05-07 16:41:29:931	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:41:29:933	[DEBUG]	Validating SML
+2022-05-07 16:41:29:933	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:29:933	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:29:933	[DEBUG]	Validating KBFL
+2022-05-07 16:41:29:933	[DEBUG]	Validating KUI
+2022-05-07 16:41:29:933	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:29:933	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:29:933	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:29:933	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:29:933	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:29:933	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:29:933	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:29:933	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:29:933	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:29:933	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:29:933	[DEBUG]	Items: {"FasterManualCrafting":"1.1.0","SML":"3.3.0","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","ContainerScreen":"1.0.11","StackOverload":"2.0.5","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.12","KBFL":"1.11.2","KUI":"1.3.1","NukeTheWhales":"1.0.0","RandomStart":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5"}
+2022-05-07 16:41:29:941	[DEBUG]	Mismatches: {"install":{"FasterManualCrafting":"1.1.0","KPrivateCodeLib":"1.0.12","KBFL":"1.11.2"},"uninstall":["FasterManualCrafting","KPrivateCodeLib","KBFL","BetterRadar","CheapTrains","DaisyChainPowerCables","EarlyMap","EfficiencyCheckerMod","FicsitFarming","FloorHole","GridRuler","Inserter","InserterPlus","LinearMotion","LoadBalancers","MarcioCommonLibs","MicroManage","minerplus","MiniMap","MK22k20","ModularUI","NoNewLabel","PersonalDrones","PowerSuit","RefinedPower","RefinedRDLib","ShowEnemiesHealth"]}
+2022-05-07 16:41:29:942	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing BetterRadar from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing CheapTrains from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing DaisyChainPowerCables from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing EarlyMap from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing EfficiencyCheckerMod from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing FicsitFarming from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing FloorHole from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing GridRuler from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing Inserter from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing InserterPlus from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing LinearMotion from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing LoadBalancers from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing MarcioCommonLibs from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing minerplus from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing MiniMap from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing MK22k20 from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing ModularUI from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing NoNewLabel from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing PersonalDrones from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing PowerSuit from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing RefinedPower from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing RefinedRDLib from Satisfactory install
+2022-05-07 16:41:29:942	[DEBUG]	Removing ShowEnemiesHealth from Satisfactory install
+2022-05-07 16:41:30:113	[DEBUG]	Copying FasterManualCrafting@1.1.0 to Satisfactory install
+2022-05-07 16:41:30:113	[DEBUG]	Copying KPrivateCodeLib@1.0.12 to Satisfactory install
+2022-05-07 16:41:30:113	[DEBUG]	Copying KBFL@1.11.2 to Satisfactory install
+2022-05-07 16:41:32:198	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:32:198	[DEBUG]	Validating SML
+2022-05-07 16:41:32:198	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:32:198	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:32:198	[DEBUG]	Validating SML
+2022-05-07 16:41:32:198	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:32:198	[DEBUG]	Validating SML
+2022-05-07 16:41:32:198	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:32:199	[DEBUG]	Validating KBFL
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating KUI
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:199	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:32:199	[DEBUG]	Validating SML
+2022-05-07 16:41:32:200	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:32:200	[DEBUG]	Validating SML
+2022-05-07 16:41:32:200	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:32:200	[DEBUG]	Validating SML
+2022-05-07 16:41:35:527	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [FasterManualCrafting]
+2022-05-07 16:41:35:528	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:35:528	[DEBUG]	Validating SML
+2022-05-07 16:41:35:528	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:35:528	[DEBUG]	Validating KBFL
+2022-05-07 16:41:35:528	[DEBUG]	Validating KUI
+2022-05-07 16:41:35:528	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:35:528	[DEBUG]	Validating SML
+2022-05-07 16:41:35:528	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:35:528	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:35:528	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:35:528	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:35:528	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:35:528	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:35:528	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:35:528	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:35:528	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:35:529	[DEBUG]	Items: {"SML":"3.3.0","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","ContainerScreen":"1.0.11","StackOverload":"2.0.5","KLevelUp":"1.2.5","KPrivateCodeLib":"1.0.12","KBFL":"1.11.2","KUI":"1.3.1","NukeTheWhales":"1.0.0","RandomStart":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","FasterManualCrafting":"1.1.1"}
+2022-05-07 16:41:35:532	[DEBUG]	Mismatches: {"install":{"FasterManualCrafting":"1.1.1"},"uninstall":["FasterManualCrafting"]}
+2022-05-07 16:41:35:532	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-05-07 16:41:35:544	[DEBUG]	Copying FasterManualCrafting@1.1.1 to Satisfactory install
+2022-05-07 16:41:37:404	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [KPrivateCodeLib]
+2022-05-07 16:41:37:405	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:37:405	[DEBUG]	Validating SML
+2022-05-07 16:41:37:405	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:37:406	[DEBUG]	Validating KBFL
+2022-05-07 16:41:37:406	[DEBUG]	Validating SML
+2022-05-07 16:41:37:408	[DEBUG]	Validating KUI
+2022-05-07 16:41:37:408	[DEBUG]	Validating SML
+2022-05-07 16:41:37:408	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:37:408	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:37:408	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:37:408	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:37:408	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:37:408	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:37:408	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:37:408	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:37:408	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:37:408	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:37:408	[DEBUG]	Items: {"SML":"3.3.0","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","ContainerScreen":"1.0.11","StackOverload":"2.0.5","KLevelUp":"1.2.5","KUI":"1.3.1","NukeTheWhales":"1.0.0","RandomStart":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"}
+2022-05-07 16:41:37:412	[DEBUG]	Mismatches: {"install":{"KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"},"uninstall":["KPrivateCodeLib","KBFL"]}
+2022-05-07 16:41:37:412	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:41:37:412	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:41:37:426	[DEBUG]	Copying KPrivateCodeLib@1.1.0 to Satisfactory install
+2022-05-07 16:41:37:426	[DEBUG]	Copying KBFL@1.12.3 to Satisfactory install
+2022-05-07 16:41:39:693	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [KBFL]
+2022-05-07 16:41:39:694	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:39:695	[DEBUG]	Validating SML
+2022-05-07 16:41:39:695	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:41:39:695	[DEBUG]	Validating KBFL
+2022-05-07 16:41:39:695	[DEBUG]	Validating SML
+2022-05-07 16:41:39:695	[DEBUG]	Validating KUI
+2022-05-07 16:41:39:695	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:39:695	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:39:695	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:39:695	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:39:695	[DEBUG]	Validating KLevelUp
+2022-05-07 16:41:39:695	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:39:695	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:41:39:695	[DEBUG]	Validating RandomStart
+2022-05-07 16:41:39:695	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:39:695	[DEBUG]	Validating SS_Mod
+2022-05-07 16:41:39:695	[DEBUG]	Items: {"SML":"3.3.0","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","ContainerScreen":"1.0.11","StackOverload":"2.0.5","KLevelUp":"1.2.5","KUI":"1.3.1","NukeTheWhales":"1.0.0","RandomStart":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3"}
+2022-05-07 16:41:39:699	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-05-07 16:41:44:374	[DEBUG]	Setting profile to dcheva.30
+2022-05-07 16:41:44:602	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:41:44:608	[DEBUG]	Validating SML
+2022-05-07 16:41:44:608	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:44:608	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:44:608	[DEBUG]	Validating avMallLib
+2022-05-07 16:41:44:608	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:44:608	[DEBUG]	Validating TenTimesAwesomePoints
+2022-05-07 16:41:44:608	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:44:608	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:44:608	[DEBUG]	Validating SatisfactoryHelper
+2022-05-07 16:41:44:609	[DEBUG]	Validating x3_splitter_merger_pole
+2022-05-07 16:41:44:609	[DEBUG]	Validating FlashlightSettings
+2022-05-07 16:41:44:609	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:44:609	[DEBUG]	Validating BeltfedBiomassBurner
+2022-05-07 16:41:44:609	[DEBUG]	Validating FastForward
+2022-05-07 16:41:44:609	[DEBUG]	Validating NoFallingGifts
+2022-05-07 16:41:44:609	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:44:609	[DEBUG]	Validating NoEarlyAccess
+2022-05-07 16:41:44:609	[DEBUG]	Validating Cellphone
+2022-05-07 16:41:44:609	[DEBUG]	Validating SimpleCodex
+2022-05-07 16:41:44:609	[DEBUG]	Validating VanishGiraffer
+2022-05-07 16:41:44:609	[DEBUG]	Validating SpaceMarket
+2022-05-07 16:41:44:609	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:44:609	[DEBUG]	Validating PermaDay
+2022-05-07 16:41:44:609	[DEBUG]	Validating EasyCheat
+2022-05-07 16:41:44:609	[DEBUG]	Validating FicsitTrading
+2022-05-07 16:41:44:609	[DEBUG]	Validating NoFog
+2022-05-07 16:41:44:609	[DEBUG]	Validating WallPipeSupports
+2022-05-07 16:41:44:609	[DEBUG]	Validating WallHoleConveyor
+2022-05-07 16:41:44:609	[DEBUG]	Validating WallConveyorSupports
+2022-05-07 16:41:44:609	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:44:609	[DEBUG]	Validating AdvancedPersonalStorage
+2022-05-07 16:41:44:609	[DEBUG]	Validating Additional_300_Inventory_Slots
+2022-05-07 16:41:44:609	[DEBUG]	Validating SmallStorage
+2022-05-07 16:41:44:609	[DEBUG]	Validating RegenAllHealth
+2022-05-07 16:41:44:609	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","FlashlightSettings":"1.0.1","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","NoEarlyAccess":"1.0.2","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","UtilityMod":"0.5.4","AdvancedPersonalStorage":"1.0.0","Additional_300_Inventory_Slots":"5.0.3","SmallStorage":"2.2.2","avMallLib":"2.2.1","RegenAllHealth":"2.0.2","x3_splitter_merger_pole":"1.1.6","Cellphone":"1.0.6","MarcioCommonLibs":"1.1.1","EasyCheat":"1.0.8","MAMTips":"0.5.0","ContainerScreen":"1.0.11"}
+2022-05-07 16:41:44:613	[DEBUG]	Mismatches: {"install":{"TenTimesAwesomePoints":"1.0.1","FasterManualCrafting":"1.1.0","SatisfactoryHelper":"2.0.3","FlashlightSettings":"1.0.1","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","NoEarlyAccess":"1.0.2","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","AdvancedPersonalStorage":"1.0.0","Additional_300_Inventory_Slots":"5.0.3","SmallStorage":"2.2.2","avMallLib":"2.2.1","RegenAllHealth":"2.0.2","x3_splitter_merger_pole":"1.1.6","Cellphone":"1.0.6","MarcioCommonLibs":"1.1.1","EasyCheat":"1.0.8"},"uninstall":["FasterManualCrafting","KBFL","KLevelUp","KPrivateCodeLib","KUI","NukeTheWhales","RandomStart","SS_Mod"]}
+2022-05-07 16:41:44:613	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing KBFL from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing KUI from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing NukeTheWhales from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing RandomStart from Satisfactory install
+2022-05-07 16:41:44:613	[DEBUG]	Removing SS_Mod from Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying TenTimesAwesomePoints@1.0.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying FasterManualCrafting@1.1.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying SatisfactoryHelper@2.0.3 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying FlashlightSettings@1.0.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying BeltfedBiomassBurner@1.1.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying FastForward@1.0.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying NoFallingGifts@1.0.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying NoEarlyAccess@1.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying SimpleCodex@1.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying VanishGiraffer@1.0.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying SpaceMarket@2.0.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying DaisyChainPowerCables@2.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying PermaDay@1.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying FicsitTrading@2.0.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying NoFog@2.0.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying WallPipeSupports@2.1.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying WallHoleConveyor@2.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying WallConveyorSupports@1.1.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying AdvancedPersonalStorage@1.0.0 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying Additional_300_Inventory_Slots@5.0.3 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying SmallStorage@2.2.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying avMallLib@2.2.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying RegenAllHealth@2.0.2 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying x3_splitter_merger_pole@1.1.6 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying Cellphone@1.0.6 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying MarcioCommonLibs@1.1.1 to Satisfactory install
+2022-05-07 16:41:44:656	[DEBUG]	Copying EasyCheat@1.0.8 to Satisfactory install
+2022-05-07 16:41:48:765	[DEBUG]	Validating StackOverload
+2022-05-07 16:41:48:766	[DEBUG]	Validating SML
+2022-05-07 16:41:48:766	[DEBUG]	Validating FactoryGame
+2022-05-07 16:41:48:766	[DEBUG]	Validating TenTimesAwesomePoints
+2022-05-07 16:41:48:766	[DEBUG]	Validating SML
+2022-05-07 16:41:48:766	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:41:48:766	[DEBUG]	Validating SML
+2022-05-07 16:41:48:766	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:41:48:767	[DEBUG]	Validating SML
+2022-05-07 16:41:48:767	[DEBUG]	Validating SatisfactoryHelper
+2022-05-07 16:41:48:767	[DEBUG]	Validating SML
+2022-05-07 16:41:48:767	[DEBUG]	Validating x3_splitter_merger_pole
+2022-05-07 16:41:48:767	[DEBUG]	Validating SML
+2022-05-07 16:41:48:767	[DEBUG]	Validating FlashlightSettings
+2022-05-07 16:41:48:767	[DEBUG]	Validating SML
+2022-05-07 16:41:48:767	[DEBUG]	Validating MAMTips
+2022-05-07 16:41:48:767	[DEBUG]	Validating SML
+2022-05-07 16:41:48:767	[DEBUG]	Validating BeltfedBiomassBurner
+2022-05-07 16:41:48:768	[DEBUG]	Validating SML
+2022-05-07 16:41:48:768	[DEBUG]	Validating FastForward
+2022-05-07 16:41:48:768	[DEBUG]	Validating SML
+2022-05-07 16:41:48:768	[DEBUG]	Validating NoFallingGifts
+2022-05-07 16:41:48:768	[DEBUG]	Validating SML
+2022-05-07 16:41:48:768	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:41:48:768	[DEBUG]	Validating SML
+2022-05-07 16:41:48:768	[DEBUG]	Validating NoEarlyAccess
+2022-05-07 16:41:48:769	[DEBUG]	Validating SML
+2022-05-07 16:41:48:769	[DEBUG]	Validating Cellphone
+2022-05-07 16:41:48:769	[DEBUG]	Validating SML
+2022-05-07 16:41:48:769	[DEBUG]	Validating SimpleCodex
+2022-05-07 16:41:48:769	[DEBUG]	Validating SML
+2022-05-07 16:41:48:769	[DEBUG]	Validating VanishGiraffer
+2022-05-07 16:41:48:770	[DEBUG]	Validating SML
+2022-05-07 16:41:48:770	[DEBUG]	Validating SpaceMarket
+2022-05-07 16:41:48:770	[DEBUG]	Validating SML
+2022-05-07 16:41:48:770	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:41:48:770	[DEBUG]	Validating SML
+2022-05-07 16:41:48:770	[DEBUG]	Validating PermaDay
+2022-05-07 16:41:48:771	[DEBUG]	Validating SML
+2022-05-07 16:41:48:771	[DEBUG]	Validating EasyCheat
+2022-05-07 16:41:48:771	[DEBUG]	Validating SML
+2022-05-07 16:41:48:771	[DEBUG]	Validating FicsitTrading
+2022-05-07 16:41:48:771	[DEBUG]	Validating SML
+2022-05-07 16:41:48:771	[DEBUG]	Validating NoFog
+2022-05-07 16:41:48:772	[DEBUG]	Validating SML
+2022-05-07 16:41:48:772	[DEBUG]	Validating WallPipeSupports
+2022-05-07 16:41:48:772	[DEBUG]	Validating SML
+2022-05-07 16:41:48:772	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:48:773	[DEBUG]	Validating SML
+2022-05-07 16:41:48:773	[DEBUG]	Validating WallHoleConveyor
+2022-05-07 16:41:48:774	[DEBUG]	Validating SML
+2022-05-07 16:41:48:774	[DEBUG]	Validating WallConveyorSupports
+2022-05-07 16:41:48:774	[DEBUG]	Validating SML
+2022-05-07 16:41:48:774	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:41:48:775	[DEBUG]	Validating UtilityMod
+2022-05-07 16:41:48:775	[DEBUG]	Validating SML
+2022-05-07 16:41:48:775	[DEBUG]	Validating AdvancedPersonalStorage
+2022-05-07 16:41:48:775	[DEBUG]	Validating SML
+2022-05-07 16:41:48:775	[DEBUG]	Validating Additional_300_Inventory_Slots
+2022-05-07 16:41:48:776	[DEBUG]	Validating SML
+2022-05-07 16:41:48:776	[DEBUG]	Validating SmallStorage
+2022-05-07 16:41:48:776	[DEBUG]	Validating SML
+2022-05-07 16:41:48:776	[DEBUG]	Validating avMallLib
+2022-05-07 16:41:48:776	[DEBUG]	Validating SML
+2022-05-07 16:41:48:776	[DEBUG]	Validating RegenAllHealth
+2022-05-07 16:41:48:777	[DEBUG]	Validating SML
+2022-05-07 16:42:00:817	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [FasterManualCrafting]
+2022-05-07 16:42:00:819	[DEBUG]	Validating SML
+2022-05-07 16:42:00:819	[DEBUG]	Validating FactoryGame
+2022-05-07 16:42:00:820	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:42:00:820	[DEBUG]	Validating avMallLib
+2022-05-07 16:42:00:820	[DEBUG]	Validating StackOverload
+2022-05-07 16:42:00:820	[DEBUG]	Validating TenTimesAwesomePoints
+2022-05-07 16:42:00:820	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:42:00:820	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:42:00:820	[DEBUG]	Validating SML
+2022-05-07 16:42:00:820	[DEBUG]	Validating SatisfactoryHelper
+2022-05-07 16:42:00:820	[DEBUG]	Validating x3_splitter_merger_pole
+2022-05-07 16:42:00:820	[DEBUG]	Validating FlashlightSettings
+2022-05-07 16:42:00:820	[DEBUG]	Validating MAMTips
+2022-05-07 16:42:00:820	[DEBUG]	Validating BeltfedBiomassBurner
+2022-05-07 16:42:00:820	[DEBUG]	Validating FastForward
+2022-05-07 16:42:00:820	[DEBUG]	Validating NoFallingGifts
+2022-05-07 16:42:00:820	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:42:00:820	[DEBUG]	Validating NoEarlyAccess
+2022-05-07 16:42:00:820	[DEBUG]	Validating Cellphone
+2022-05-07 16:42:00:820	[DEBUG]	Validating SimpleCodex
+2022-05-07 16:42:00:820	[DEBUG]	Validating VanishGiraffer
+2022-05-07 16:42:00:820	[DEBUG]	Validating SpaceMarket
+2022-05-07 16:42:00:820	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:42:00:820	[DEBUG]	Validating PermaDay
+2022-05-07 16:42:00:820	[DEBUG]	Validating EasyCheat
+2022-05-07 16:42:00:820	[DEBUG]	Validating FicsitTrading
+2022-05-07 16:42:00:820	[DEBUG]	Validating NoFog
+2022-05-07 16:42:00:820	[DEBUG]	Validating WallPipeSupports
+2022-05-07 16:42:00:820	[DEBUG]	Validating WallHoleConveyor
+2022-05-07 16:42:00:820	[DEBUG]	Validating WallConveyorSupports
+2022-05-07 16:42:00:820	[DEBUG]	Validating UtilityMod
+2022-05-07 16:42:00:820	[DEBUG]	Validating AdvancedPersonalStorage
+2022-05-07 16:42:00:820	[DEBUG]	Validating Additional_300_Inventory_Slots
+2022-05-07 16:42:00:820	[DEBUG]	Validating SmallStorage
+2022-05-07 16:42:00:820	[DEBUG]	Validating RegenAllHealth
+2022-05-07 16:42:00:821	[DEBUG]	Items: {"StackOverload":"2.0.5","SML":"3.3.0","TenTimesAwesomePoints":"1.0.1","SmartFoundations":"17.0.11","SatisfactoryHelper":"2.0.3","FlashlightSettings":"1.0.1","BeltfedBiomassBurner":"1.1.1","FastForward":"1.0.0","NoFallingGifts":"1.0.0","NoEarlyAccess":"1.0.2","SimpleCodex":"1.0.2","VanishGiraffer":"1.0.1","SpaceMarket":"2.0.1","DaisyChainPowerCables":"2.0.2","PermaDay":"1.0.2","FicsitTrading":"2.0.0","NoFog":"2.0.0","WallPipeSupports":"2.1.2","WallHoleConveyor":"2.0.2","WallConveyorSupports":"1.1.0","UtilityMod":"0.5.4","AdvancedPersonalStorage":"1.0.0","Additional_300_Inventory_Slots":"5.0.3","SmallStorage":"2.2.2","avMallLib":"2.2.1","RegenAllHealth":"2.0.2","x3_splitter_merger_pole":"1.1.6","Cellphone":"1.0.6","MarcioCommonLibs":"1.1.1","EasyCheat":"1.0.8","MAMTips":"0.5.0","ContainerScreen":"1.0.11","FasterManualCrafting":"1.1.1"}
+2022-05-07 16:42:00:828	[DEBUG]	Mismatches: {"install":{"FasterManualCrafting":"1.1.1"},"uninstall":["FasterManualCrafting"]}
+2022-05-07 16:42:00:828	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-05-07 16:42:00:842	[DEBUG]	Copying FasterManualCrafting@1.1.1 to Satisfactory install
+2022-05-07 16:42:05:094	[DEBUG]	Setting profile to dcheva.test
+2022-05-07 16:42:05:322	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-05-07 16:42:05:325	[DEBUG]	Validating FactoryGame
+2022-05-07 16:42:05:325	[DEBUG]	Validating SML
+2022-05-07 16:42:05:329	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:42:05:329	[DEBUG]	Validating Inserter
+2022-05-07 16:42:05:329	[DEBUG]	Validating ModularUI
+2022-05-07 16:42:05:329	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:42:05:329	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:42:05:329	[DEBUG]	Validating KBFL
+2022-05-07 16:42:05:329	[DEBUG]	Validating KUI
+2022-05-07 16:42:05:329	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:42:05:329	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:42:05:329	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:42:05:329	[DEBUG]	Validating UtilityMod
+2022-05-07 16:42:05:329	[DEBUG]	Validating KLevelUp
+2022-05-07 16:42:05:329	[DEBUG]	Validating StackOverload
+2022-05-07 16:42:05:329	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:42:05:329	[DEBUG]	Validating MAMTips
+2022-05-07 16:42:05:329	[DEBUG]	Validating SS_Mod
+2022-05-07 16:42:05:329	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:42:05:329	[DEBUG]	Validating CheapTrains
+2022-05-07 16:42:05:329	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:42:05:329	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:42:05:329	[DEBUG]	Validating InserterPlus
+2022-05-07 16:42:05:329	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:42:05:329	[DEBUG]	Validating BetterRadar
+2022-05-07 16:42:05:329	[DEBUG]	Validating MiniMap
+2022-05-07 16:42:05:329	[DEBUG]	Validating EarlyMap
+2022-05-07 16:42:05:329	[DEBUG]	Validating GridRuler
+2022-05-07 16:42:05:329	[DEBUG]	Validating RefinedPower
+2022-05-07 16:42:05:329	[DEBUG]	Validating PowerSuit
+2022-05-07 16:42:05:329	[DEBUG]	Validating MK22k20
+2022-05-07 16:42:05:329	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:42:05:329	[DEBUG]	Validating minerplus
+2022-05-07 16:42:05:329	[DEBUG]	Validating LinearMotion
+2022-05-07 16:42:05:330	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:42:05:330	[DEBUG]	Validating FloorHole
+2022-05-07 16:42:05:330	[DEBUG]	Validating MicroManage
+2022-05-07 16:42:05:330	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:42:05:330	[DEBUG]	Validating RandomStart
+2022-05-07 16:42:05:331	[DEBUG]	Items: {"SML":"3.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","UtilityMod":"0.5.4","KLevelUp":"1.2.5","KUI":"1.3.1","StackOverload":"2.0.5","NukeTheWhales":"1.0.0","MAMTips":"0.5.0","SS_Mod":"1.1.5","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","MarcioCommonLibs":"1.1.1","minerplus":"3.2.13","LinearMotion":"2.0.16","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","DaisyChainPowerCables":"2.0.2","RandomStart":"1.0.0","FasterManualCrafting":"1.1.1","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3","LoadBalancers":"1.4.2","CheapTrains":"3.1.3"}
+2022-05-07 16:42:05:339	[DEBUG]	Mismatches: {"install":{"KLevelUp":"1.2.5","KUI":"1.3.1","NukeTheWhales":"1.0.0","SS_Mod":"1.1.5","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","InserterPlus":"0.4.0","Inserter":"0.4.0","ShowEnemiesHealth":"1.0.2","BetterRadar":"0.1.0","MiniMap":"1.0.11","EarlyMap":"1.0.2","GridRuler":"2.0.3","RefinedPower":"3.0.9","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","PowerSuit":"0.8.4","MK22k20":"5.1.5","EfficiencyCheckerMod":"2.1.4","minerplus":"3.2.13","LinearMotion":"2.0.16","FicsitFarming":"4.0.3","FloorHole":"2.0.11","MicroManage":"0.9.11","RandomStart":"1.0.0","KPrivateCodeLib":"1.1.0","KBFL":"1.12.3","LoadBalancers":"1.4.2","CheapTrains":"3.1.3"},"uninstall":["Additional_300_Inventory_Slots","AdvancedPersonalStorage","avMallLib","BeltfedBiomassBurner","Cellphone","EasyCheat","FastForward","FicsitTrading","FlashlightSettings","NoEarlyAccess","NoFallingGifts","NoFog","PermaDay","RegenAllHealth","SatisfactoryHelper","SimpleCodex","SmallStorage","SpaceMarket","TenTimesAwesomePoints","VanishGiraffer","WallConveyorSupports","WallHoleConveyor","WallPipeSupports","x3_splitter_merger_pole"]}
+2022-05-07 16:42:05:339	[DEBUG]	Removing Additional_300_Inventory_Slots from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing AdvancedPersonalStorage from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing avMallLib from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing BeltfedBiomassBurner from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing Cellphone from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing EasyCheat from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing FastForward from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing FicsitTrading from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing FlashlightSettings from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing NoEarlyAccess from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing NoFallingGifts from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing NoFog from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing PermaDay from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing RegenAllHealth from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing SatisfactoryHelper from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing SimpleCodex from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing SmallStorage from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing SpaceMarket from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing TenTimesAwesomePoints from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing VanishGiraffer from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing WallConveyorSupports from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing WallHoleConveyor from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing WallPipeSupports from Satisfactory install
+2022-05-07 16:42:05:339	[DEBUG]	Removing x3_splitter_merger_pole from Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying KLevelUp@1.2.5 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying KUI@1.3.1 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying NukeTheWhales@1.0.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying SS_Mod@1.1.5 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying PersonalDrones@1.0.11 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying NoNewLabel@1.0.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying InserterPlus@0.4.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying Inserter@0.4.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying ShowEnemiesHealth@1.0.2 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying BetterRadar@0.1.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying MiniMap@1.0.11 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying EarlyMap@1.0.2 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying GridRuler@2.0.3 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying RefinedPower@3.0.9 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying ModularUI@2.0.8 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying RefinedRDLib@1.0.7 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying PowerSuit@0.8.4 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying MK22k20@5.1.5 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying EfficiencyCheckerMod@2.1.4 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying minerplus@3.2.13 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying LinearMotion@2.0.16 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying FicsitFarming@4.0.3 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying FloorHole@2.0.11 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying MicroManage@0.9.11 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying RandomStart@1.0.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying KPrivateCodeLib@1.1.0 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying KBFL@1.12.3 to Satisfactory install
+2022-05-07 16:42:05:411	[DEBUG]	Copying LoadBalancers@1.4.2 to Satisfactory install
+2022-05-07 16:42:05:412	[DEBUG]	Copying CheapTrains@3.1.3 to Satisfactory install
+2022-05-07 16:42:47:077	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:42:47:077	[DEBUG]	Validating SML
+2022-05-07 16:42:47:078	[DEBUG]	Validating FactoryGame
+2022-05-07 16:42:47:078	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:42:47:078	[DEBUG]	Validating SML
+2022-05-07 16:42:47:078	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:42:47:078	[DEBUG]	Validating SML
+2022-05-07 16:42:47:078	[DEBUG]	Validating UtilityMod
+2022-05-07 16:42:47:079	[DEBUG]	Validating SML
+2022-05-07 16:42:47:079	[DEBUG]	Validating KLevelUp
+2022-05-07 16:42:47:079	[DEBUG]	Validating SML
+2022-05-07 16:42:47:079	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:42:47:079	[DEBUG]	Validating KBFL
+2022-05-07 16:42:47:079	[DEBUG]	Validating SML
+2022-05-07 16:42:47:079	[DEBUG]	Validating KUI
+2022-05-07 16:42:47:079	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating StackOverload
+2022-05-07 16:42:47:080	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:42:47:080	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating MAMTips
+2022-05-07 16:42:47:080	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating SS_Mod
+2022-05-07 16:42:47:080	[DEBUG]	Validating SML
+2022-05-07 16:42:47:080	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:42:47:081	[DEBUG]	Validating SML
+2022-05-07 16:42:47:081	[DEBUG]	Validating CheapTrains
+2022-05-07 16:42:47:081	[DEBUG]	Validating SML
+2022-05-07 16:42:47:081	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:42:47:081	[DEBUG]	Validating SML
+2022-05-07 16:42:47:082	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:42:47:082	[DEBUG]	Validating SML
+2022-05-07 16:42:47:082	[DEBUG]	Validating InserterPlus
+2022-05-07 16:42:47:083	[DEBUG]	Validating Inserter
+2022-05-07 16:42:47:083	[DEBUG]	Validating SML
+2022-05-07 16:42:47:083	[DEBUG]	Validating SML
+2022-05-07 16:42:47:083	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:42:47:083	[DEBUG]	Validating SML
+2022-05-07 16:42:47:083	[DEBUG]	Validating BetterRadar
+2022-05-07 16:42:47:083	[DEBUG]	Validating SML
+2022-05-07 16:42:47:084	[DEBUG]	Validating MiniMap
+2022-05-07 16:42:47:084	[DEBUG]	Validating SML
+2022-05-07 16:42:47:084	[DEBUG]	Validating EarlyMap
+2022-05-07 16:42:47:084	[DEBUG]	Validating SML
+2022-05-07 16:42:47:084	[DEBUG]	Validating GridRuler
+2022-05-07 16:42:47:085	[DEBUG]	Validating SML
+2022-05-07 16:42:47:085	[DEBUG]	Validating RefinedPower
+2022-05-07 16:42:47:085	[DEBUG]	Validating ModularUI
+2022-05-07 16:42:47:085	[DEBUG]	Validating SML
+2022-05-07 16:42:47:086	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:42:47:086	[DEBUG]	Validating SML
+2022-05-07 16:42:47:086	[DEBUG]	Validating SML
+2022-05-07 16:42:47:086	[DEBUG]	Validating PowerSuit
+2022-05-07 16:42:47:086	[DEBUG]	Validating SML
+2022-05-07 16:42:47:086	[DEBUG]	Validating MK22k20
+2022-05-07 16:42:47:087	[DEBUG]	Validating SML
+2022-05-07 16:42:47:087	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:42:47:088	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:42:47:088	[DEBUG]	Validating SML
+2022-05-07 16:42:47:089	[DEBUG]	Validating SML
+2022-05-07 16:42:47:089	[DEBUG]	Validating minerplus
+2022-05-07 16:42:47:089	[DEBUG]	Validating SML
+2022-05-07 16:42:47:089	[DEBUG]	Validating LinearMotion
+2022-05-07 16:42:47:089	[DEBUG]	Validating SML
+2022-05-07 16:42:47:090	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:42:47:090	[DEBUG]	Validating SML
+2022-05-07 16:42:47:091	[DEBUG]	Validating ModularUI
+2022-05-07 16:42:47:091	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:42:47:091	[DEBUG]	Validating FloorHole
+2022-05-07 16:42:47:091	[DEBUG]	Validating SML
+2022-05-07 16:42:47:091	[DEBUG]	Validating MicroManage
+2022-05-07 16:42:47:091	[DEBUG]	Validating SML
+2022-05-07 16:42:47:092	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:42:47:092	[DEBUG]	Validating SML
+2022-05-07 16:42:47:092	[DEBUG]	Validating RandomStart
+2022-05-07 16:42:47:092	[DEBUG]	Validating SML
+2022-05-07 16:47:47:789	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:47:47:790	[DEBUG]	Validating SML
+2022-05-07 16:47:47:790	[DEBUG]	Validating FactoryGame
+2022-05-07 16:47:47:790	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:47:47:790	[DEBUG]	Validating SML
+2022-05-07 16:47:47:790	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:47:47:791	[DEBUG]	Validating SML
+2022-05-07 16:47:47:791	[DEBUG]	Validating UtilityMod
+2022-05-07 16:47:47:793	[DEBUG]	Validating SML
+2022-05-07 16:47:47:793	[DEBUG]	Validating KLevelUp
+2022-05-07 16:47:47:794	[DEBUG]	Validating SML
+2022-05-07 16:47:47:794	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:47:47:795	[DEBUG]	Validating KBFL
+2022-05-07 16:47:47:795	[DEBUG]	Validating SML
+2022-05-07 16:47:47:795	[DEBUG]	Validating KUI
+2022-05-07 16:47:47:796	[DEBUG]	Validating SML
+2022-05-07 16:47:47:796	[DEBUG]	Validating SML
+2022-05-07 16:47:47:796	[DEBUG]	Validating StackOverload
+2022-05-07 16:47:47:796	[DEBUG]	Validating SML
+2022-05-07 16:47:47:797	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:47:47:797	[DEBUG]	Validating SML
+2022-05-07 16:47:47:797	[DEBUG]	Validating MAMTips
+2022-05-07 16:47:47:798	[DEBUG]	Validating SML
+2022-05-07 16:47:47:798	[DEBUG]	Validating SS_Mod
+2022-05-07 16:47:47:798	[DEBUG]	Validating SML
+2022-05-07 16:47:47:798	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:47:47:799	[DEBUG]	Validating SML
+2022-05-07 16:47:47:799	[DEBUG]	Validating CheapTrains
+2022-05-07 16:47:47:800	[DEBUG]	Validating SML
+2022-05-07 16:47:47:800	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:47:47:800	[DEBUG]	Validating SML
+2022-05-07 16:47:47:800	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:47:47:800	[DEBUG]	Validating SML
+2022-05-07 16:47:47:800	[DEBUG]	Validating InserterPlus
+2022-05-07 16:47:47:801	[DEBUG]	Validating Inserter
+2022-05-07 16:47:47:801	[DEBUG]	Validating SML
+2022-05-07 16:47:47:801	[DEBUG]	Validating SML
+2022-05-07 16:47:47:801	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:47:47:801	[DEBUG]	Validating SML
+2022-05-07 16:47:47:803	[DEBUG]	Validating BetterRadar
+2022-05-07 16:47:47:804	[DEBUG]	Validating SML
+2022-05-07 16:47:47:804	[DEBUG]	Validating MiniMap
+2022-05-07 16:47:47:804	[DEBUG]	Validating SML
+2022-05-07 16:47:47:804	[DEBUG]	Validating EarlyMap
+2022-05-07 16:47:47:804	[DEBUG]	Validating SML
+2022-05-07 16:47:47:804	[DEBUG]	Validating GridRuler
+2022-05-07 16:47:47:804	[DEBUG]	Validating SML
+2022-05-07 16:47:47:805	[DEBUG]	Validating RefinedPower
+2022-05-07 16:47:47:805	[DEBUG]	Validating ModularUI
+2022-05-07 16:47:47:805	[DEBUG]	Validating SML
+2022-05-07 16:47:47:806	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:47:47:806	[DEBUG]	Validating SML
+2022-05-07 16:47:47:806	[DEBUG]	Validating SML
+2022-05-07 16:47:47:806	[DEBUG]	Validating PowerSuit
+2022-05-07 16:47:47:807	[DEBUG]	Validating SML
+2022-05-07 16:47:47:807	[DEBUG]	Validating MK22k20
+2022-05-07 16:47:47:808	[DEBUG]	Validating SML
+2022-05-07 16:47:47:808	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:47:47:809	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:47:47:809	[DEBUG]	Validating SML
+2022-05-07 16:47:47:809	[DEBUG]	Validating SML
+2022-05-07 16:47:47:810	[DEBUG]	Validating minerplus
+2022-05-07 16:47:47:810	[DEBUG]	Validating SML
+2022-05-07 16:47:47:811	[DEBUG]	Validating LinearMotion
+2022-05-07 16:47:47:812	[DEBUG]	Validating SML
+2022-05-07 16:47:47:812	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:47:47:812	[DEBUG]	Validating SML
+2022-05-07 16:47:47:813	[DEBUG]	Validating ModularUI
+2022-05-07 16:47:47:813	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:47:47:813	[DEBUG]	Validating FloorHole
+2022-05-07 16:47:47:813	[DEBUG]	Validating SML
+2022-05-07 16:47:47:813	[DEBUG]	Validating MicroManage
+2022-05-07 16:47:47:813	[DEBUG]	Validating SML
+2022-05-07 16:47:47:814	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:47:47:814	[DEBUG]	Validating SML
+2022-05-07 16:47:47:815	[DEBUG]	Validating RandomStart
+2022-05-07 16:47:47:815	[DEBUG]	Validating SML
+2022-05-07 16:52:58:565	[DEBUG]	Validating FasterManualCrafting
+2022-05-07 16:52:58:565	[DEBUG]	Validating SML
+2022-05-07 16:52:58:566	[DEBUG]	Validating FactoryGame
+2022-05-07 16:52:58:566	[DEBUG]	Validating ContainerScreen
+2022-05-07 16:52:58:566	[DEBUG]	Validating SML
+2022-05-07 16:52:58:566	[DEBUG]	Validating SmartFoundations
+2022-05-07 16:52:58:570	[DEBUG]	Validating SML
+2022-05-07 16:52:58:570	[DEBUG]	Validating UtilityMod
+2022-05-07 16:52:58:571	[DEBUG]	Validating SML
+2022-05-07 16:52:58:572	[DEBUG]	Validating KLevelUp
+2022-05-07 16:52:58:572	[DEBUG]	Validating SML
+2022-05-07 16:52:58:573	[DEBUG]	Validating KPrivateCodeLib
+2022-05-07 16:52:58:573	[DEBUG]	Validating KBFL
+2022-05-07 16:52:58:574	[DEBUG]	Validating SML
+2022-05-07 16:52:58:574	[DEBUG]	Validating KUI
+2022-05-07 16:52:58:575	[DEBUG]	Validating SML
+2022-05-07 16:52:58:575	[DEBUG]	Validating SML
+2022-05-07 16:52:58:575	[DEBUG]	Validating StackOverload
+2022-05-07 16:52:58:578	[DEBUG]	Validating SML
+2022-05-07 16:52:58:579	[DEBUG]	Validating NukeTheWhales
+2022-05-07 16:52:58:579	[DEBUG]	Validating SML
+2022-05-07 16:52:58:579	[DEBUG]	Validating MAMTips
+2022-05-07 16:52:58:580	[DEBUG]	Validating SML
+2022-05-07 16:52:58:580	[DEBUG]	Validating SS_Mod
+2022-05-07 16:52:58:580	[DEBUG]	Validating SML
+2022-05-07 16:52:58:581	[DEBUG]	Validating LoadBalancers
+2022-05-07 16:52:58:582	[DEBUG]	Validating SML
+2022-05-07 16:52:58:582	[DEBUG]	Validating CheapTrains
+2022-05-07 16:52:58:585	[DEBUG]	Validating SML
+2022-05-07 16:52:58:585	[DEBUG]	Validating PersonalDrones
+2022-05-07 16:52:58:586	[DEBUG]	Validating SML
+2022-05-07 16:52:58:586	[DEBUG]	Validating NoNewLabel
+2022-05-07 16:52:58:586	[DEBUG]	Validating SML
+2022-05-07 16:52:58:586	[DEBUG]	Validating InserterPlus
+2022-05-07 16:52:58:587	[DEBUG]	Validating Inserter
+2022-05-07 16:52:58:587	[DEBUG]	Validating SML
+2022-05-07 16:52:58:587	[DEBUG]	Validating SML
+2022-05-07 16:52:58:587	[DEBUG]	Validating ShowEnemiesHealth
+2022-05-07 16:52:58:587	[DEBUG]	Validating SML
+2022-05-07 16:52:58:587	[DEBUG]	Validating BetterRadar
+2022-05-07 16:52:58:587	[DEBUG]	Validating SML
+2022-05-07 16:52:58:588	[DEBUG]	Validating MiniMap
+2022-05-07 16:52:58:588	[DEBUG]	Validating SML
+2022-05-07 16:52:58:588	[DEBUG]	Validating EarlyMap
+2022-05-07 16:52:58:588	[DEBUG]	Validating SML
+2022-05-07 16:52:58:588	[DEBUG]	Validating GridRuler
+2022-05-07 16:52:58:588	[DEBUG]	Validating SML
+2022-05-07 16:52:58:588	[DEBUG]	Validating RefinedPower
+2022-05-07 16:52:58:590	[DEBUG]	Validating ModularUI
+2022-05-07 16:52:58:590	[DEBUG]	Validating SML
+2022-05-07 16:52:58:590	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:52:58:590	[DEBUG]	Validating SML
+2022-05-07 16:52:58:590	[DEBUG]	Validating SML
+2022-05-07 16:52:58:591	[DEBUG]	Validating PowerSuit
+2022-05-07 16:52:58:591	[DEBUG]	Validating SML
+2022-05-07 16:52:58:591	[DEBUG]	Validating MK22k20
+2022-05-07 16:52:58:593	[DEBUG]	Validating SML
+2022-05-07 16:52:58:593	[DEBUG]	Validating EfficiencyCheckerMod
+2022-05-07 16:52:58:593	[DEBUG]	Validating MarcioCommonLibs
+2022-05-07 16:52:58:593	[DEBUG]	Validating SML
+2022-05-07 16:52:58:594	[DEBUG]	Validating SML
+2022-05-07 16:52:58:594	[DEBUG]	Validating minerplus
+2022-05-07 16:52:58:595	[DEBUG]	Validating SML
+2022-05-07 16:52:58:596	[DEBUG]	Validating LinearMotion
+2022-05-07 16:52:58:597	[DEBUG]	Validating SML
+2022-05-07 16:52:58:597	[DEBUG]	Validating FicsitFarming
+2022-05-07 16:52:58:598	[DEBUG]	Validating SML
+2022-05-07 16:52:58:598	[DEBUG]	Validating ModularUI
+2022-05-07 16:52:58:598	[DEBUG]	Validating RefinedRDLib
+2022-05-07 16:52:58:598	[DEBUG]	Validating FloorHole
+2022-05-07 16:52:58:598	[DEBUG]	Validating SML
+2022-05-07 16:52:58:599	[DEBUG]	Validating MicroManage
+2022-05-07 16:52:58:599	[DEBUG]	Validating SML
+2022-05-07 16:52:58:600	[DEBUG]	Validating DaisyChainPowerCables
+2022-05-07 16:52:58:600	[DEBUG]	Validating SML
+2022-05-07 16:52:58:601	[DEBUG]	Validating RandomStart
+2022-05-07 16:52:58:601	[DEBUG]	Validating SML

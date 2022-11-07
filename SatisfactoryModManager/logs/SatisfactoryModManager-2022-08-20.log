@@ -1,0 +1,896 @@
+2022-08-20 00:59:29:081	[DEBUG]	Loading mod cache
+2022-08-20 00:59:50:104	[DEBUG]	Loading mod cache
+2022-08-20 00:59:50:150	[DEBUG]	Epic Games Launcher is not installed
+2022-08-20 00:59:50:486	[DEBUG]	Setting profile to Off-e6
+2022-08-20 00:59:50:684	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-08-20 01:00:12:044	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:12:296	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:12:297	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:12:297	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:12:297	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:32:806	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:33:048	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:33:298	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:33:298	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:33:299	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:00:33:299	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:16:17:798	[DEBUG]	Loading mod cache
+2022-08-20 01:16:38:819	[DEBUG]	Loading mod cache
+2022-08-20 01:16:38:865	[DEBUG]	Epic Games Launcher is not installed
+2022-08-20 01:16:39:177	[DEBUG]	Setting profile to Off-e6
+2022-08-20 01:16:39:343	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-08-20 01:17:00:433	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:00:652	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:00:653	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:00:653	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:00:653	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:195	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:436	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:651	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:652	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:652	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:21:654	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:42:199	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:42:437	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:42:652	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:17:42:654	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:03:662	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:03:965	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:03:965	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:03:967	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:03:967	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:205	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:662	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:24:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:45:208	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:45:664	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:45:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:45:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:18:45:969	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:07:275	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:07:276	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:07:277	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:07:277	[ERROR]	Network error. Please try again later.
+Trace
+Error: Network error. Please try again later.
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2831284)
+    at async Object.e.getModVersion (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:110:215)
+    at async u (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1267)
+    at async Object.e.versionExistsOnFicsitApp (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:2671)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28164
+    at async Promise.all (index 2)
+    at async Array.filterAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:62380)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28127)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-08-20 01:19:07:278	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"1.0.1","NoEarlyAccess":"1.0.2"}
+2022-08-20 01:19:07:305	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-08-20 01:19:07:311	[ERROR - FRONTEND]	Error while loading profile: Network error. Please try again later.
+Trace
+Error: Error while loading profile: Network error. Please try again later.
+    at w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48833)
+2022-08-20 01:19:07:537	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:27:211	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:27:667	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:28:277	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:28:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:28:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:28:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:48:215	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:48:669	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:49:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:49:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:49:279	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:19:49:280	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:21:12:224	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:28:27:032	[ERROR - FRONTEND]	
+2022-08-20 01:29:36:534	[INFO]	Disabling InventorySpace2
+2022-08-20 01:29:36:755	[DEBUG]	install: [], uninstall: [], enable: [], disable: [InventorySpace2], update: []
+2022-08-20 01:29:40:768	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:29:57:769	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:29:58:064	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:29:58:064	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:29:58:065	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:29:58:065	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:00:111	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:18:772	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:19:066	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:19:066	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:19:066	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:19:067	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)
+2022-08-20 01:30:21:114	[ERROR]	Error getting data from ficsit.app: Failed to fetch. Trace:
+Error: Failed to fetch
+    at new e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1287955)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1266938
+    at n (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242971)
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242896
+    at new Promise (<anonymous>)
+    at Object.then (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242862)
+    at Object.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1242981)
+    at B (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301460)
+    at b (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1301917)
+    at t.e.error (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1302502)

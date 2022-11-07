@@ -1,0 +1,897 @@
+2022-06-15 05:16:24:621	[DEBUG]	Loading mod cache
+2022-06-15 05:16:25:166	[DEBUG]	Loading mod cache
+2022-06-15 05:16:25:237	[DEBUG]	Epic Games Launcher is not installed
+2022-06-15 05:16:25:569	[DEBUG]	Setting profile to Dee Covan
+2022-06-15 05:16:25:745	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:16:26:325	[DEBUG]	Validating SatisfactoryPlus
+2022-06-15 05:16:27:336	[DEBUG]	Validating AB_FluidExtras
+2022-06-15 05:16:27:721	[DEBUG]	Validating SML
+2022-06-15 05:16:28:114	[DEBUG]	Validating FactoryGame
+2022-06-15 05:16:28:114	[DEBUG]	Validating FicsitFarming
+2022-06-15 05:16:28:500	[DEBUG]	Validating SML
+2022-06-15 05:16:28:500	[DEBUG]	Validating ModularUI
+2022-06-15 05:16:28:873	[DEBUG]	Validating SML
+2022-06-15 05:16:28:873	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:16:29:241	[DEBUG]	Validating SML
+2022-06-15 05:16:29:241	[DEBUG]	Validating KLib
+2022-06-15 05:16:29:650	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:16:30:034	[DEBUG]	Validating KBFL
+2022-06-15 05:16:30:447	[DEBUG]	Validating SML
+2022-06-15 05:16:30:447	[DEBUG]	Validating KUI
+2022-06-15 05:16:30:822	[DEBUG]	Validating SML
+2022-06-15 05:16:30:823	[DEBUG]	Validating SML
+2022-06-15 05:16:30:823	[DEBUG]	Validating SML
+2022-06-15 05:16:30:823	[DEBUG]	Validating ModularUI
+2022-06-15 05:16:30:823	[DEBUG]	Validating RefinedPower
+2022-06-15 05:16:31:278	[DEBUG]	Validating ModularUI
+2022-06-15 05:16:31:278	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:16:31:278	[DEBUG]	Validating SML
+2022-06-15 05:16:31:278	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:16:31:278	[DEBUG]	Validating SML
+2022-06-15 05:16:31:278	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:16:31:641	[DEBUG]	Validating SML
+2022-06-15 05:16:31:641	[DEBUG]	Validating KLevelUp
+2022-06-15 05:16:32:026	[DEBUG]	Validating SML
+2022-06-15 05:16:32:027	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:16:32:027	[DEBUG]	Validating ContainerScreen
+2022-06-15 05:16:32:416	[DEBUG]	Validating SML
+2022-06-15 05:16:32:416	[DEBUG]	Validating UtilityMod
+2022-06-15 05:16:32:785	[DEBUG]	Validating SML
+2022-06-15 05:16:32:785	[DEBUG]	Validating SmartFoundations
+2022-06-15 05:16:33:232	[DEBUG]	Validating SML
+2022-06-15 05:16:33:232	[DEBUG]	Validating TFIT
+2022-06-15 05:16:33:594	[DEBUG]	Validating SML
+2022-06-15 05:16:33:595	[DEBUG]	Validating DoubleJump
+2022-06-15 05:16:33:957	[DEBUG]	Validating SML
+2022-06-15 05:16:33:957	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:16:34:312	[DEBUG]	Validating SML
+2022-06-15 05:16:34:312	[DEBUG]	Validating EarlyHover
+2022-06-15 05:16:34:670	[DEBUG]	Validating SML
+2022-06-15 05:16:34:670	[DEBUG]	Validating LoadBalancers
+2022-06-15 05:16:35:055	[DEBUG]	Validating SML
+2022-06-15 05:16:35:055	[DEBUG]	Validating SatisfactoryHelper
+2022-06-15 05:16:35:421	[DEBUG]	Validating SML
+2022-06-15 05:16:35:421	[DEBUG]	Validating PersonalDrones
+2022-06-15 05:16:35:802	[DEBUG]	Validating SML
+2022-06-15 05:16:35:803	[DEBUG]	Validating DumbPrints
+2022-06-15 05:16:36:169	[DEBUG]	Validating SML
+2022-06-15 05:16:36:169	[DEBUG]	Validating MAMTips
+2022-06-15 05:16:36:549	[DEBUG]	Validating SML
+2022-06-15 05:16:36:550	[DEBUG]	Validating PermaDay
+2022-06-15 05:16:36:915	[DEBUG]	Validating SML
+2022-06-15 05:16:36:915	[DEBUG]	Validating RegenAllHealth
+2022-06-15 05:16:37:288	[DEBUG]	Validating SML
+2022-06-15 05:16:37:288	[DEBUG]	Validating NoneEquipment
+2022-06-15 05:16:37:655	[DEBUG]	Validating SML
+2022-06-15 05:16:37:655	[DEBUG]	Validating PowerChecker
+2022-06-15 05:16:38:043	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:16:38:403	[DEBUG]	Validating SML
+2022-06-15 05:16:38:403	[DEBUG]	Validating SML
+2022-06-15 05:16:38:403	[DEBUG]	Validating EfficiencyCheckerMod
+2022-06-15 05:16:38:843	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:16:38:843	[DEBUG]	Validating SML
+2022-06-15 05:16:38:844	[DEBUG]	Items: {"SatisfactoryPlus":"0.7.5","AB_FluidExtras":"0.7.1","SML":"3.3.1","FicsitFarming":"4.0.3","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","KLib":"2.0.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1","RefinedPower":"3.0.9","FasterManualCrafting":"1.1.1","KLevelUp":"1.3.0","ContainerScreen":"1.0.11","UtilityMod":"0.5.4","SmartFoundations":"17.0.11","TFIT":"1.0.5","DoubleJump":"1.0.1","InventorySpace2":"2.0.1","EarlyHover":"1.0.3","LoadBalancers":"1.5.1","SatisfactoryHelper":"2.0.3","PersonalDrones":"1.0.11","DumbPrints":"0.0.4","MAMTips":"0.5.0","PermaDay":"1.0.2","RegenAllHealth":"2.0.2","NoneEquipment":"2.0.5","PowerChecker":"2.1.5","MarcioCommonLibs":"1.1.1","EfficiencyCheckerMod":"2.1.4"}
+2022-06-15 05:16:38:862	[DEBUG]	Mismatches: {"install":{"SatisfactoryPlus":"0.7.5","KLib":"2.0.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1","KLevelUp":"1.3.0"},"uninstall":["SatisfactoryPlus","KLib","KPrivateCodeLib","KBFL","KUI","KLevelUp"]}
+2022-06-15 05:16:38:862	[DEBUG]	Removing SatisfactoryPlus from Satisfactory install
+2022-06-15 05:16:38:862	[DEBUG]	Removing KLib from Satisfactory install
+2022-06-15 05:16:38:862	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-06-15 05:16:38:862	[DEBUG]	Removing KBFL from Satisfactory install
+2022-06-15 05:16:38:862	[DEBUG]	Removing KUI from Satisfactory install
+2022-06-15 05:16:38:862	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-06-15 05:16:38:930	[DEBUG]	Copying SatisfactoryPlus@0.7.5 to Satisfactory install
+2022-06-15 05:16:38:931	[DEBUG]	Copying KLib@2.0.0 to Satisfactory install
+2022-06-15 05:16:38:931	[DEBUG]	Copying KPrivateCodeLib@1.3.0 to Satisfactory install
+2022-06-15 05:16:38:931	[DEBUG]	Copying KBFL@1.12.12 to Satisfactory install
+2022-06-15 05:16:38:931	[DEBUG]	Copying KUI@1.4.1 to Satisfactory install
+2022-06-15 05:16:38:931	[DEBUG]	Copying KLevelUp@1.3.0 to Satisfactory install
+2022-06-15 05:16:38:933	[DEBUG]	SatisfactoryPlus@0.7.5 is not downloaded. Downloading now.
+2022-06-15 05:16:38:933	[DEBUG]	KLib@2.0.0 is not downloaded. Downloading now.
+2022-06-15 05:16:38:933	[DEBUG]	KPrivateCodeLib@1.3.0 is not downloaded. Downloading now.
+2022-06-15 05:16:38:933	[DEBUG]	KBFL@1.12.12 is not downloaded. Downloading now.
+2022-06-15 05:16:38:933	[DEBUG]	KUI@1.4.1 is not downloaded. Downloading now.
+2022-06-15 05:16:38:933	[DEBUG]	KLevelUp@1.3.0 is not downloaded. Downloading now.
+2022-06-15 05:18:05:332	[DEBUG]	Validating SatisfactoryPlus
+2022-06-15 05:18:05:333	[DEBUG]	Validating AB_FluidExtras
+2022-06-15 05:18:05:333	[DEBUG]	Validating SML
+2022-06-15 05:18:05:333	[DEBUG]	Validating FactoryGame
+2022-06-15 05:18:05:333	[DEBUG]	Validating FicsitFarming
+2022-06-15 05:18:05:333	[DEBUG]	Validating SML
+2022-06-15 05:18:05:333	[DEBUG]	Validating ModularUI
+2022-06-15 05:18:05:334	[DEBUG]	Validating SML
+2022-06-15 05:18:05:334	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:18:05:334	[DEBUG]	Validating SML
+2022-06-15 05:18:05:334	[DEBUG]	Validating KLib
+2022-06-15 05:18:05:334	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:18:05:334	[DEBUG]	Validating KBFL
+2022-06-15 05:18:05:335	[DEBUG]	Validating SML
+2022-06-15 05:18:05:335	[DEBUG]	Validating KUI
+2022-06-15 05:18:05:335	[DEBUG]	Validating SML
+2022-06-15 05:18:05:335	[DEBUG]	Validating SML
+2022-06-15 05:18:05:335	[DEBUG]	Validating SML
+2022-06-15 05:18:05:336	[DEBUG]	Validating ModularUI
+2022-06-15 05:18:05:336	[DEBUG]	Validating RefinedPower
+2022-06-15 05:18:05:336	[DEBUG]	Validating ModularUI
+2022-06-15 05:18:05:336	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:18:05:336	[DEBUG]	Validating SML
+2022-06-15 05:18:05:336	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:18:05:336	[DEBUG]	Validating SML
+2022-06-15 05:18:05:336	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:18:05:337	[DEBUG]	Validating SML
+2022-06-15 05:18:05:337	[DEBUG]	Validating KLevelUp
+2022-06-15 05:18:05:337	[DEBUG]	Validating SML
+2022-06-15 05:18:05:337	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:18:05:337	[DEBUG]	Validating ContainerScreen
+2022-06-15 05:18:05:338	[DEBUG]	Validating SML
+2022-06-15 05:18:05:338	[DEBUG]	Validating UtilityMod
+2022-06-15 05:18:05:338	[DEBUG]	Validating SML
+2022-06-15 05:18:05:338	[DEBUG]	Validating SmartFoundations
+2022-06-15 05:18:05:338	[DEBUG]	Validating SML
+2022-06-15 05:18:05:339	[DEBUG]	Validating TFIT
+2022-06-15 05:18:05:339	[DEBUG]	Validating SML
+2022-06-15 05:18:05:339	[DEBUG]	Validating DoubleJump
+2022-06-15 05:18:05:339	[DEBUG]	Validating SML
+2022-06-15 05:18:05:339	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:18:05:340	[DEBUG]	Validating SML
+2022-06-15 05:18:05:340	[DEBUG]	Validating EarlyHover
+2022-06-15 05:18:05:340	[DEBUG]	Validating SML
+2022-06-15 05:18:05:340	[DEBUG]	Validating LoadBalancers
+2022-06-15 05:18:05:340	[DEBUG]	Validating SML
+2022-06-15 05:18:05:341	[DEBUG]	Validating SatisfactoryHelper
+2022-06-15 05:18:05:341	[DEBUG]	Validating SML
+2022-06-15 05:18:05:341	[DEBUG]	Validating PersonalDrones
+2022-06-15 05:18:05:341	[DEBUG]	Validating SML
+2022-06-15 05:18:05:341	[DEBUG]	Validating DumbPrints
+2022-06-15 05:18:05:341	[DEBUG]	Validating SML
+2022-06-15 05:18:05:342	[DEBUG]	Validating MAMTips
+2022-06-15 05:18:05:342	[DEBUG]	Validating SML
+2022-06-15 05:18:05:342	[DEBUG]	Validating PermaDay
+2022-06-15 05:18:05:342	[DEBUG]	Validating SML
+2022-06-15 05:18:05:342	[DEBUG]	Validating RegenAllHealth
+2022-06-15 05:18:05:343	[DEBUG]	Validating SML
+2022-06-15 05:18:05:343	[DEBUG]	Validating NoneEquipment
+2022-06-15 05:18:05:343	[DEBUG]	Validating SML
+2022-06-15 05:18:05:343	[DEBUG]	Validating PowerChecker
+2022-06-15 05:18:05:343	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:18:05:343	[DEBUG]	Validating SML
+2022-06-15 05:18:05:344	[DEBUG]	Validating SML
+2022-06-15 05:18:05:344	[DEBUG]	Validating EfficiencyCheckerMod
+2022-06-15 05:18:05:344	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:18:05:345	[DEBUG]	Validating SML
+2022-06-15 05:18:08:226	[DEBUG]	Setting profile to modded
+2022-06-15 05:18:08:472	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:18:08:473	[DEBUG]	Items: {}
+2022-06-15 05:18:08:484	[DEBUG]	Mismatches: {"install":{},"uninstall":["SML","AB_FluidExtras","ContainerScreen","DoubleJump","DumbPrints","EarlyHover","EfficiencyCheckerMod","FasterManualCrafting","FicsitFarming","InventorySpace2","KBFL","KLevelUp","KLib","KPrivateCodeLib","KUI","LoadBalancers","MAMTips","MarcioCommonLibs","ModularUI","NoneEquipment","PermaDay","PersonalDrones","PowerChecker","RefinedPower","RefinedRDLib","RegenAllHealth","SatisfactoryHelper","SatisfactoryPlus","SmartFoundations","TFIT","UtilityMod"]}
+2022-06-15 05:18:08:484	[DEBUG]	Removing SML from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing AB_FluidExtras from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing ContainerScreen from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing DoubleJump from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing DumbPrints from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing EarlyHover from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing EfficiencyCheckerMod from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing FicsitFarming from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing InventorySpace2 from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing KBFL from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-06-15 05:18:08:484	[DEBUG]	Removing KLib from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing KUI from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing LoadBalancers from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing MAMTips from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing MarcioCommonLibs from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing ModularUI from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing NoneEquipment from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing PermaDay from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing PersonalDrones from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing PowerChecker from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing RefinedPower from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing RefinedRDLib from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing RegenAllHealth from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing SatisfactoryHelper from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing SatisfactoryPlus from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing TFIT from Satisfactory install
+2022-06-15 05:18:08:485	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-06-15 05:18:08:712	[DEBUG]	Removing SML from Satisfactory install
+2022-06-15 05:18:08:712	[DEBUG]	Uninstalling SML
+2022-06-15 05:18:22:819	[DEBUG]	Setting profile to Experimental 6
+2022-06-15 05:18:23:019	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:18:23:023	[DEBUG]	Items: {}
+2022-06-15 05:18:23:024	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-06-15 05:18:37:231	[INFO]	Installing UtilityMod
+2022-06-15 05:18:37:462	[DEBUG]	install: [UtilityMod], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:18:37:463	[DEBUG]	Validating UtilityMod
+2022-06-15 05:18:37:463	[DEBUG]	Validating SML
+2022-06-15 05:18:37:463	[DEBUG]	Validating FactoryGame
+2022-06-15 05:18:37:463	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1"}
+2022-06-15 05:18:37:464	[DEBUG]	Mismatches: {"install":{"SML":"3.3.1","UtilityMod":"0.5.4"},"uninstall":[]}
+2022-06-15 05:18:37:464	[DEBUG]	Copying SML to Satisfactory install
+2022-06-15 05:18:37:464	[DEBUG]	Installing SML@3.3.1
+2022-06-15 05:18:38:435	[DEBUG]	Copying UtilityMod@0.5.4 to Satisfactory install
+2022-06-15 05:18:57:133	[INFO]	Installing InventorySpace2
+2022-06-15 05:18:57:369	[DEBUG]	install: [InventorySpace2], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:18:57:370	[DEBUG]	Validating SML
+2022-06-15 05:18:57:370	[DEBUG]	Validating FactoryGame
+2022-06-15 05:18:57:370	[DEBUG]	Validating UtilityMod
+2022-06-15 05:18:57:370	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:18:57:371	[DEBUG]	Validating SML
+2022-06-15 05:18:57:371	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 05:18:57:372	[DEBUG]	Mismatches: {"install":{"InventorySpace2":"2.0.1"},"uninstall":[]}
+2022-06-15 05:18:57:374	[DEBUG]	Copying InventorySpace2@2.0.1 to Satisfactory install
+2022-06-15 05:19:06:765	[INFO]	Installing FasterManualCrafting
+2022-06-15 05:19:06:998	[DEBUG]	install: [FasterManualCrafting], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:19:07:000	[DEBUG]	Validating SML
+2022-06-15 05:19:07:000	[DEBUG]	Validating FactoryGame
+2022-06-15 05:19:07:000	[DEBUG]	Validating UtilityMod
+2022-06-15 05:19:07:000	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:19:07:000	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:19:07:000	[DEBUG]	Validating SML
+2022-06-15 05:19:07:000	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","FasterManualCrafting":"1.1.1"}
+2022-06-15 05:19:07:002	[DEBUG]	Mismatches: {"install":{"FasterManualCrafting":"1.1.1"},"uninstall":[]}
+2022-06-15 05:19:07:003	[DEBUG]	Copying FasterManualCrafting@1.1.1 to Satisfactory install
+2022-06-15 05:19:32:099	[DEBUG]	Setting profile to Dee Covan
+2022-06-15 05:19:32:304	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:19:32:310	[DEBUG]	Validating AB_FluidExtras
+2022-06-15 05:19:32:310	[DEBUG]	Validating FicsitFarming
+2022-06-15 05:19:32:310	[DEBUG]	Validating KLib
+2022-06-15 05:19:32:310	[DEBUG]	Validating ModularUI
+2022-06-15 05:19:32:310	[DEBUG]	Validating RefinedPower
+2022-06-15 05:19:32:310	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:19:32:310	[DEBUG]	Validating SML
+2022-06-15 05:19:32:311	[DEBUG]	Validating FactoryGame
+2022-06-15 05:19:32:311	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:19:32:311	[DEBUG]	Validating KBFL
+2022-06-15 05:19:32:311	[DEBUG]	Validating KUI
+2022-06-15 05:19:32:311	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:19:32:311	[DEBUG]	Validating SatisfactoryPlus
+2022-06-15 05:19:32:311	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:19:32:311	[DEBUG]	Validating KLevelUp
+2022-06-15 05:19:32:311	[DEBUG]	Validating ContainerScreen
+2022-06-15 05:19:32:311	[DEBUG]	Validating UtilityMod
+2022-06-15 05:19:32:311	[DEBUG]	Validating SmartFoundations
+2022-06-15 05:19:32:311	[DEBUG]	Validating TFIT
+2022-06-15 05:19:32:311	[DEBUG]	Validating DoubleJump
+2022-06-15 05:19:32:311	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:19:32:311	[DEBUG]	Validating EarlyHover
+2022-06-15 05:19:32:311	[DEBUG]	Validating LoadBalancers
+2022-06-15 05:19:32:311	[DEBUG]	Validating SatisfactoryHelper
+2022-06-15 05:19:32:311	[DEBUG]	Validating PersonalDrones
+2022-06-15 05:19:32:311	[DEBUG]	Validating DumbPrints
+2022-06-15 05:19:32:312	[DEBUG]	Validating MAMTips
+2022-06-15 05:19:32:312	[DEBUG]	Validating PermaDay
+2022-06-15 05:19:32:312	[DEBUG]	Validating RegenAllHealth
+2022-06-15 05:19:32:312	[DEBUG]	Validating NoneEquipment
+2022-06-15 05:19:32:312	[DEBUG]	Validating PowerChecker
+2022-06-15 05:19:32:312	[DEBUG]	Validating EfficiencyCheckerMod
+2022-06-15 05:19:32:313	[DEBUG]	Items: {"SatisfactoryPlus":"0.7.5","AB_FluidExtras":"0.7.1","SML":"3.3.1","FicsitFarming":"4.0.3","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","KLib":"2.0.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1","RefinedPower":"3.0.9","FasterManualCrafting":"1.1.1","KLevelUp":"1.3.0","ContainerScreen":"1.0.11","UtilityMod":"0.5.4","SmartFoundations":"17.0.11","TFIT":"1.0.5","DoubleJump":"1.0.1","InventorySpace2":"2.0.1","EarlyHover":"1.0.3","LoadBalancers":"1.5.1","SatisfactoryHelper":"2.0.3","PersonalDrones":"1.0.11","DumbPrints":"0.0.4","MAMTips":"0.5.0","PermaDay":"1.0.2","RegenAllHealth":"2.0.2","NoneEquipment":"2.0.5","PowerChecker":"2.1.5","MarcioCommonLibs":"1.1.1","EfficiencyCheckerMod":"2.1.4"}
+2022-06-15 05:19:32:316	[DEBUG]	Mismatches: {"install":{"SatisfactoryPlus":"0.7.5","AB_FluidExtras":"0.7.1","FicsitFarming":"4.0.3","ModularUI":"2.0.8","RefinedRDLib":"1.0.7","KLib":"2.0.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1","RefinedPower":"3.0.9","KLevelUp":"1.3.0","ContainerScreen":"1.0.11","SmartFoundations":"17.0.11","TFIT":"1.0.5","DoubleJump":"1.0.1","EarlyHover":"1.0.3","LoadBalancers":"1.5.1","SatisfactoryHelper":"2.0.3","PersonalDrones":"1.0.11","DumbPrints":"0.0.4","MAMTips":"0.5.0","PermaDay":"1.0.2","RegenAllHealth":"2.0.2","NoneEquipment":"2.0.5","PowerChecker":"2.1.5","MarcioCommonLibs":"1.1.1","EfficiencyCheckerMod":"2.1.4"},"uninstall":[]}
+2022-06-15 05:19:32:318	[DEBUG]	Copying SatisfactoryPlus@0.7.5 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying AB_FluidExtras@0.7.1 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying FicsitFarming@4.0.3 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying ModularUI@2.0.8 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying RefinedRDLib@1.0.7 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying KLib@2.0.0 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying KPrivateCodeLib@1.3.0 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying KBFL@1.12.12 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying KUI@1.4.1 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying RefinedPower@3.0.9 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying KLevelUp@1.3.0 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying ContainerScreen@1.0.11 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying SmartFoundations@17.0.11 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying TFIT@1.0.5 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying DoubleJump@1.0.1 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying EarlyHover@1.0.3 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying LoadBalancers@1.5.1 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying SatisfactoryHelper@2.0.3 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying PersonalDrones@1.0.11 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying DumbPrints@0.0.4 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying MAMTips@0.5.0 to Satisfactory install
+2022-06-15 05:19:32:318	[DEBUG]	Copying PermaDay@1.0.2 to Satisfactory install
+2022-06-15 05:19:32:319	[DEBUG]	Copying RegenAllHealth@2.0.2 to Satisfactory install
+2022-06-15 05:19:32:319	[DEBUG]	Copying NoneEquipment@2.0.5 to Satisfactory install
+2022-06-15 05:19:32:319	[DEBUG]	Copying PowerChecker@2.1.5 to Satisfactory install
+2022-06-15 05:19:32:319	[DEBUG]	Copying MarcioCommonLibs@1.1.1 to Satisfactory install
+2022-06-15 05:19:32:319	[DEBUG]	Copying EfficiencyCheckerMod@2.1.4 to Satisfactory install
+2022-06-15 05:20:24:214	[DEBUG]	Validating SatisfactoryPlus
+2022-06-15 05:20:24:215	[DEBUG]	Validating AB_FluidExtras
+2022-06-15 05:20:24:215	[DEBUG]	Validating SML
+2022-06-15 05:20:24:215	[DEBUG]	Validating FactoryGame
+2022-06-15 05:20:24:215	[DEBUG]	Validating FicsitFarming
+2022-06-15 05:20:24:215	[DEBUG]	Validating SML
+2022-06-15 05:20:24:215	[DEBUG]	Validating ModularUI
+2022-06-15 05:20:24:215	[DEBUG]	Validating SML
+2022-06-15 05:20:24:215	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:20:24:216	[DEBUG]	Validating SML
+2022-06-15 05:20:24:216	[DEBUG]	Validating KLib
+2022-06-15 05:20:24:216	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:20:24:216	[DEBUG]	Validating KBFL
+2022-06-15 05:20:24:216	[DEBUG]	Validating SML
+2022-06-15 05:20:24:216	[DEBUG]	Validating KUI
+2022-06-15 05:20:24:217	[DEBUG]	Validating SML
+2022-06-15 05:20:24:217	[DEBUG]	Validating SML
+2022-06-15 05:20:24:217	[DEBUG]	Validating SML
+2022-06-15 05:20:24:217	[DEBUG]	Validating ModularUI
+2022-06-15 05:20:24:217	[DEBUG]	Validating RefinedPower
+2022-06-15 05:20:24:218	[DEBUG]	Validating ModularUI
+2022-06-15 05:20:24:218	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:20:24:218	[DEBUG]	Validating SML
+2022-06-15 05:20:24:218	[DEBUG]	Validating RefinedRDLib
+2022-06-15 05:20:24:218	[DEBUG]	Validating SML
+2022-06-15 05:20:24:218	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:20:24:218	[DEBUG]	Validating SML
+2022-06-15 05:20:24:218	[DEBUG]	Validating KLevelUp
+2022-06-15 05:20:24:218	[DEBUG]	Validating SML
+2022-06-15 05:20:24:219	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 05:20:24:219	[DEBUG]	Validating ContainerScreen
+2022-06-15 05:20:24:219	[DEBUG]	Validating SML
+2022-06-15 05:20:24:219	[DEBUG]	Validating UtilityMod
+2022-06-15 05:20:24:219	[DEBUG]	Validating SML
+2022-06-15 05:20:24:220	[DEBUG]	Validating SmartFoundations
+2022-06-15 05:20:24:220	[DEBUG]	Validating SML
+2022-06-15 05:20:24:220	[DEBUG]	Validating TFIT
+2022-06-15 05:20:24:220	[DEBUG]	Validating SML
+2022-06-15 05:20:24:220	[DEBUG]	Validating DoubleJump
+2022-06-15 05:20:24:221	[DEBUG]	Validating SML
+2022-06-15 05:20:24:221	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:20:24:221	[DEBUG]	Validating SML
+2022-06-15 05:20:24:221	[DEBUG]	Validating EarlyHover
+2022-06-15 05:20:24:222	[DEBUG]	Validating SML
+2022-06-15 05:20:24:222	[DEBUG]	Validating LoadBalancers
+2022-06-15 05:20:24:222	[DEBUG]	Validating SML
+2022-06-15 05:20:24:222	[DEBUG]	Validating SatisfactoryHelper
+2022-06-15 05:20:24:222	[DEBUG]	Validating SML
+2022-06-15 05:20:24:223	[DEBUG]	Validating PersonalDrones
+2022-06-15 05:20:24:223	[DEBUG]	Validating SML
+2022-06-15 05:20:24:223	[DEBUG]	Validating DumbPrints
+2022-06-15 05:20:24:223	[DEBUG]	Validating SML
+2022-06-15 05:20:24:223	[DEBUG]	Validating MAMTips
+2022-06-15 05:20:24:223	[DEBUG]	Validating SML
+2022-06-15 05:20:24:224	[DEBUG]	Validating PermaDay
+2022-06-15 05:20:24:224	[DEBUG]	Validating SML
+2022-06-15 05:20:24:224	[DEBUG]	Validating RegenAllHealth
+2022-06-15 05:20:24:224	[DEBUG]	Validating SML
+2022-06-15 05:20:24:225	[DEBUG]	Validating NoneEquipment
+2022-06-15 05:20:24:225	[DEBUG]	Validating SML
+2022-06-15 05:20:24:226	[DEBUG]	Validating PowerChecker
+2022-06-15 05:20:24:226	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:20:24:226	[DEBUG]	Validating SML
+2022-06-15 05:20:24:227	[DEBUG]	Validating SML
+2022-06-15 05:20:24:227	[DEBUG]	Validating EfficiencyCheckerMod
+2022-06-15 05:20:24:227	[DEBUG]	Validating MarcioCommonLibs
+2022-06-15 05:20:24:227	[DEBUG]	Validating SML
+2022-06-15 05:21:03:771	[DEBUG]	Setting profile to Experimental 6
+2022-06-15 05:21:04:023	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 05:21:04:024	[DEBUG]	Validating SML
+2022-06-15 05:21:04:024	[DEBUG]	Validating FactoryGame
+2022-06-15 05:21:04:024	[DEBUG]	Validating UtilityMod
+2022-06-15 05:21:04:024	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:21:04:024	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:21:04:024	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","FasterManualCrafting":"1.1.1"}
+2022-06-15 05:21:04:035	[DEBUG]	Mismatches: {"install":{},"uninstall":["AB_FluidExtras","ContainerScreen","DoubleJump","DumbPrints","EarlyHover","EfficiencyCheckerMod","FicsitFarming","KBFL","KLevelUp","KLib","KPrivateCodeLib","KUI","LoadBalancers","MAMTips","MarcioCommonLibs","ModularUI","NoneEquipment","PermaDay","PersonalDrones","PowerChecker","RefinedPower","RefinedRDLib","RegenAllHealth","SatisfactoryHelper","SatisfactoryPlus","SmartFoundations","TFIT"]}
+2022-06-15 05:21:04:036	[DEBUG]	Removing AB_FluidExtras from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing ContainerScreen from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing DoubleJump from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing DumbPrints from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing EarlyHover from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing EfficiencyCheckerMod from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing FicsitFarming from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing KBFL from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing KLib from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing KUI from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing LoadBalancers from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing MAMTips from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing MarcioCommonLibs from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing ModularUI from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing NoneEquipment from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing PermaDay from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing PersonalDrones from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing PowerChecker from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing RefinedPower from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing RefinedRDLib from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing RegenAllHealth from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing SatisfactoryHelper from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing SatisfactoryPlus from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-06-15 05:21:04:036	[DEBUG]	Removing TFIT from Satisfactory install
+2022-06-15 05:21:04:875	[DEBUG]	Validating UtilityMod
+2022-06-15 05:21:04:875	[DEBUG]	Validating SML
+2022-06-15 05:21:04:875	[DEBUG]	Validating FactoryGame
+2022-06-15 05:21:04:875	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:21:04:875	[DEBUG]	Validating SML
+2022-06-15 05:21:04:875	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:21:04:875	[DEBUG]	Validating SML
+2022-06-15 05:21:45:736	[WARN]	isRunning timed out, using fallback method.
+2022-06-15 05:26:06:203	[DEBUG]	Validating UtilityMod
+2022-06-15 05:26:06:204	[DEBUG]	Validating SML
+2022-06-15 05:26:06:204	[DEBUG]	Validating FactoryGame
+2022-06-15 05:26:06:205	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:26:06:205	[DEBUG]	Validating SML
+2022-06-15 05:26:06:205	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:26:06:206	[DEBUG]	Validating SML
+2022-06-15 05:31:07:546	[DEBUG]	Validating UtilityMod
+2022-06-15 05:31:07:547	[DEBUG]	Validating SML
+2022-06-15 05:31:07:547	[DEBUG]	Validating FactoryGame
+2022-06-15 05:31:07:547	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:31:07:547	[DEBUG]	Validating SML
+2022-06-15 05:31:07:547	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:31:07:548	[DEBUG]	Validating SML
+2022-06-15 05:36:08:937	[DEBUG]	Validating UtilityMod
+2022-06-15 05:36:08:938	[DEBUG]	Validating SML
+2022-06-15 05:36:08:938	[DEBUG]	Validating FactoryGame
+2022-06-15 05:36:08:938	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:36:08:939	[DEBUG]	Validating SML
+2022-06-15 05:36:08:939	[DEBUG]	Validating FasterManualCrafting
+2022-06-15 05:36:08:939	[DEBUG]	Validating SML
+2022-06-15 05:38:03:411	[INFO]	Uninstalling FasterManualCrafting
+2022-06-15 05:38:03:443	[DEBUG]	install: [], uninstall: [FasterManualCrafting], enable: [], disable: [], update: []
+2022-06-15 05:38:03:445	[DEBUG]	Validating SML
+2022-06-15 05:38:03:445	[DEBUG]	Validating FactoryGame
+2022-06-15 05:38:03:445	[DEBUG]	Validating UtilityMod
+2022-06-15 05:38:03:445	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:38:03:445	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 05:38:03:448	[DEBUG]	Mismatches: {"install":{},"uninstall":["FasterManualCrafting"]}
+2022-06-15 05:38:03:448	[DEBUG]	Removing FasterManualCrafting from Satisfactory install
+2022-06-15 05:41:10:338	[DEBUG]	Validating UtilityMod
+2022-06-15 05:41:10:339	[DEBUG]	Validating SML
+2022-06-15 05:41:10:339	[DEBUG]	Validating FactoryGame
+2022-06-15 05:41:10:339	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:41:10:339	[DEBUG]	Validating SML
+2022-06-15 05:46:11:757	[DEBUG]	Validating UtilityMod
+2022-06-15 05:46:11:757	[DEBUG]	Validating SML
+2022-06-15 05:46:11:757	[DEBUG]	Validating FactoryGame
+2022-06-15 05:46:11:757	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:46:11:758	[DEBUG]	Validating SML
+2022-06-15 05:51:13:174	[DEBUG]	Validating UtilityMod
+2022-06-15 05:51:13:174	[DEBUG]	Validating SML
+2022-06-15 05:51:13:175	[DEBUG]	Validating FactoryGame
+2022-06-15 05:51:13:175	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:51:13:175	[DEBUG]	Validating SML
+2022-06-15 05:56:14:578	[DEBUG]	Validating UtilityMod
+2022-06-15 05:56:14:578	[DEBUG]	Validating SML
+2022-06-15 05:56:14:579	[DEBUG]	Validating FactoryGame
+2022-06-15 05:56:14:579	[DEBUG]	Validating InventorySpace2
+2022-06-15 05:56:14:579	[DEBUG]	Validating SML
+2022-06-15 06:01:16:081	[DEBUG]	Validating UtilityMod
+2022-06-15 06:01:16:081	[DEBUG]	Validating SML
+2022-06-15 06:01:16:082	[DEBUG]	Validating FactoryGame
+2022-06-15 06:01:16:082	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:01:16:082	[DEBUG]	Validating SML
+2022-06-15 06:06:17:481	[DEBUG]	Validating UtilityMod
+2022-06-15 06:06:17:482	[DEBUG]	Validating SML
+2022-06-15 06:06:17:482	[DEBUG]	Validating FactoryGame
+2022-06-15 06:06:17:482	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:06:17:482	[DEBUG]	Validating SML
+2022-06-15 06:11:18:888	[DEBUG]	Validating UtilityMod
+2022-06-15 06:11:18:888	[DEBUG]	Validating SML
+2022-06-15 06:11:18:888	[DEBUG]	Validating FactoryGame
+2022-06-15 06:11:18:888	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:11:18:888	[DEBUG]	Validating SML
+2022-06-15 06:16:20:288	[DEBUG]	Validating UtilityMod
+2022-06-15 06:16:20:289	[DEBUG]	Validating SML
+2022-06-15 06:16:20:289	[DEBUG]	Validating FactoryGame
+2022-06-15 06:16:20:289	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:16:20:289	[DEBUG]	Validating SML
+2022-06-15 06:21:21:714	[DEBUG]	Validating UtilityMod
+2022-06-15 06:21:21:715	[DEBUG]	Validating SML
+2022-06-15 06:21:21:715	[DEBUG]	Validating FactoryGame
+2022-06-15 06:21:21:715	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:21:21:715	[DEBUG]	Validating SML
+2022-06-15 06:26:23:111	[DEBUG]	Validating UtilityMod
+2022-06-15 06:26:23:111	[DEBUG]	Validating SML
+2022-06-15 06:26:23:112	[DEBUG]	Validating FactoryGame
+2022-06-15 06:26:23:112	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:26:23:113	[DEBUG]	Validating SML
+2022-06-15 06:31:22:870	[DEBUG]	Validating UtilityMod
+2022-06-15 06:31:22:870	[DEBUG]	Validating SML
+2022-06-15 06:31:22:871	[DEBUG]	Validating FactoryGame
+2022-06-15 06:31:22:871	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:31:22:871	[DEBUG]	Validating SML
+2022-06-15 06:36:23:746	[DEBUG]	Validating UtilityMod
+2022-06-15 06:36:23:747	[DEBUG]	Validating SML
+2022-06-15 06:36:23:750	[DEBUG]	Validating FactoryGame
+2022-06-15 06:36:23:750	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:36:23:751	[DEBUG]	Validating SML
+2022-06-15 06:41:25:136	[DEBUG]	Validating UtilityMod
+2022-06-15 06:41:25:137	[DEBUG]	Validating SML
+2022-06-15 06:41:25:137	[DEBUG]	Validating FactoryGame
+2022-06-15 06:41:25:137	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:41:25:137	[DEBUG]	Validating SML
+2022-06-15 06:46:26:528	[DEBUG]	Validating UtilityMod
+2022-06-15 06:46:26:528	[DEBUG]	Validating SML
+2022-06-15 06:46:26:528	[DEBUG]	Validating FactoryGame
+2022-06-15 06:46:26:528	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:46:26:529	[DEBUG]	Validating SML
+2022-06-15 06:51:27:929	[DEBUG]	Validating UtilityMod
+2022-06-15 06:51:27:929	[DEBUG]	Validating SML
+2022-06-15 06:51:27:930	[DEBUG]	Validating FactoryGame
+2022-06-15 06:51:27:930	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:51:27:930	[DEBUG]	Validating SML
+2022-06-15 06:56:29:310	[DEBUG]	Validating UtilityMod
+2022-06-15 06:56:29:311	[DEBUG]	Validating SML
+2022-06-15 06:56:29:311	[DEBUG]	Validating FactoryGame
+2022-06-15 06:56:29:311	[DEBUG]	Validating InventorySpace2
+2022-06-15 06:56:29:311	[DEBUG]	Validating SML
+2022-06-15 07:01:30:732	[DEBUG]	Validating UtilityMod
+2022-06-15 07:01:30:732	[DEBUG]	Validating SML
+2022-06-15 07:01:30:732	[DEBUG]	Validating FactoryGame
+2022-06-15 07:01:30:732	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:01:30:732	[DEBUG]	Validating SML
+2022-06-15 07:06:32:142	[DEBUG]	Validating UtilityMod
+2022-06-15 07:06:32:142	[DEBUG]	Validating SML
+2022-06-15 07:06:32:143	[DEBUG]	Validating FactoryGame
+2022-06-15 07:06:32:143	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:06:32:143	[DEBUG]	Validating SML
+2022-06-15 07:11:33:583	[DEBUG]	Validating UtilityMod
+2022-06-15 07:11:33:586	[DEBUG]	Validating SML
+2022-06-15 07:11:33:587	[DEBUG]	Validating FactoryGame
+2022-06-15 07:11:33:587	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:11:33:587	[DEBUG]	Validating SML
+2022-06-15 07:16:34:461	[DEBUG]	Validating UtilityMod
+2022-06-15 07:16:34:462	[DEBUG]	Validating SML
+2022-06-15 07:16:34:462	[DEBUG]	Validating FactoryGame
+2022-06-15 07:16:34:462	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:16:34:462	[DEBUG]	Validating SML
+2022-06-15 07:21:35:863	[DEBUG]	Validating UtilityMod
+2022-06-15 07:21:35:864	[DEBUG]	Validating SML
+2022-06-15 07:21:35:864	[DEBUG]	Validating FactoryGame
+2022-06-15 07:21:35:864	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:21:35:864	[DEBUG]	Validating SML
+2022-06-15 07:26:37:080	[DEBUG]	Validating UtilityMod
+2022-06-15 07:26:37:081	[DEBUG]	Validating SML
+2022-06-15 07:26:37:081	[DEBUG]	Validating FactoryGame
+2022-06-15 07:26:37:081	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:26:37:081	[DEBUG]	Validating SML
+2022-06-15 07:31:38:044	[DEBUG]	Validating UtilityMod
+2022-06-15 07:31:38:044	[DEBUG]	Validating SML
+2022-06-15 07:31:38:044	[DEBUG]	Validating FactoryGame
+2022-06-15 07:31:38:044	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:31:38:044	[DEBUG]	Validating SML
+2022-06-15 07:36:39:490	[DEBUG]	Validating UtilityMod
+2022-06-15 07:36:39:490	[DEBUG]	Validating SML
+2022-06-15 07:36:39:491	[DEBUG]	Validating FactoryGame
+2022-06-15 07:36:39:491	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:36:39:491	[DEBUG]	Validating SML
+2022-06-15 07:41:40:887	[DEBUG]	Validating UtilityMod
+2022-06-15 07:41:40:887	[DEBUG]	Validating SML
+2022-06-15 07:41:40:888	[DEBUG]	Validating FactoryGame
+2022-06-15 07:41:40:888	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:41:40:888	[DEBUG]	Validating SML
+2022-06-15 07:46:42:286	[DEBUG]	Validating UtilityMod
+2022-06-15 07:46:42:286	[DEBUG]	Validating SML
+2022-06-15 07:46:42:287	[DEBUG]	Validating FactoryGame
+2022-06-15 07:46:42:287	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:46:42:287	[DEBUG]	Validating SML
+2022-06-15 07:51:43:698	[DEBUG]	Validating UtilityMod
+2022-06-15 07:51:43:698	[DEBUG]	Validating SML
+2022-06-15 07:51:43:699	[DEBUG]	Validating FactoryGame
+2022-06-15 07:51:43:699	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:51:43:699	[DEBUG]	Validating SML
+2022-06-15 07:56:45:112	[DEBUG]	Validating UtilityMod
+2022-06-15 07:56:45:112	[DEBUG]	Validating SML
+2022-06-15 07:56:45:112	[DEBUG]	Validating FactoryGame
+2022-06-15 07:56:45:112	[DEBUG]	Validating InventorySpace2
+2022-06-15 07:56:45:112	[DEBUG]	Validating SML
+2022-06-15 08:01:46:006	[DEBUG]	Validating UtilityMod
+2022-06-15 08:01:46:006	[DEBUG]	Validating SML
+2022-06-15 08:01:46:006	[DEBUG]	Validating FactoryGame
+2022-06-15 08:01:46:006	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:01:46:007	[DEBUG]	Validating SML
+2022-06-15 08:06:47:287	[DEBUG]	Validating UtilityMod
+2022-06-15 08:06:47:288	[DEBUG]	Validating SML
+2022-06-15 08:06:47:289	[DEBUG]	Validating FactoryGame
+2022-06-15 08:06:47:289	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:06:47:289	[DEBUG]	Validating SML
+2022-06-15 08:11:48:670	[DEBUG]	Validating UtilityMod
+2022-06-15 08:11:48:670	[DEBUG]	Validating SML
+2022-06-15 08:11:48:670	[DEBUG]	Validating FactoryGame
+2022-06-15 08:11:48:670	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:11:48:671	[DEBUG]	Validating SML
+2022-06-15 08:16:49:916	[DEBUG]	Validating UtilityMod
+2022-06-15 08:16:49:917	[DEBUG]	Validating SML
+2022-06-15 08:16:49:917	[DEBUG]	Validating FactoryGame
+2022-06-15 08:16:49:917	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:16:49:917	[DEBUG]	Validating SML
+2022-06-15 08:21:51:302	[DEBUG]	Validating UtilityMod
+2022-06-15 08:21:51:303	[DEBUG]	Validating SML
+2022-06-15 08:21:51:303	[DEBUG]	Validating FactoryGame
+2022-06-15 08:21:51:303	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:21:51:303	[DEBUG]	Validating SML
+2022-06-15 08:26:52:696	[DEBUG]	Validating UtilityMod
+2022-06-15 08:26:52:698	[DEBUG]	Validating SML
+2022-06-15 08:26:52:699	[DEBUG]	Validating FactoryGame
+2022-06-15 08:26:52:699	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:26:52:699	[DEBUG]	Validating SML
+2022-06-15 08:31:54:095	[DEBUG]	Validating UtilityMod
+2022-06-15 08:31:54:095	[DEBUG]	Validating SML
+2022-06-15 08:31:54:096	[DEBUG]	Validating FactoryGame
+2022-06-15 08:31:54:096	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:31:54:096	[DEBUG]	Validating SML
+2022-06-15 08:36:55:478	[DEBUG]	Validating UtilityMod
+2022-06-15 08:36:55:479	[DEBUG]	Validating SML
+2022-06-15 08:36:55:480	[DEBUG]	Validating FactoryGame
+2022-06-15 08:36:55:480	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:36:55:480	[DEBUG]	Validating SML
+2022-06-15 08:41:57:101	[DEBUG]	Validating UtilityMod
+2022-06-15 08:41:57:103	[DEBUG]	Validating SML
+2022-06-15 08:41:57:103	[DEBUG]	Validating FactoryGame
+2022-06-15 08:41:57:103	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:41:57:103	[DEBUG]	Validating SML
+2022-06-15 08:46:58:046	[DEBUG]	Validating UtilityMod
+2022-06-15 08:46:58:046	[DEBUG]	Validating SML
+2022-06-15 08:46:58:047	[DEBUG]	Validating FactoryGame
+2022-06-15 08:46:58:047	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:46:58:047	[DEBUG]	Validating SML
+2022-06-15 08:51:59:287	[DEBUG]	Validating UtilityMod
+2022-06-15 08:51:59:289	[DEBUG]	Validating SML
+2022-06-15 08:51:59:289	[DEBUG]	Validating FactoryGame
+2022-06-15 08:51:59:289	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:51:59:289	[DEBUG]	Validating SML
+2022-06-15 08:57:00:557	[DEBUG]	Validating UtilityMod
+2022-06-15 08:57:00:558	[DEBUG]	Validating SML
+2022-06-15 08:57:00:558	[DEBUG]	Validating FactoryGame
+2022-06-15 08:57:00:558	[DEBUG]	Validating InventorySpace2
+2022-06-15 08:57:00:558	[DEBUG]	Validating SML
+2022-06-15 09:02:01:974	[DEBUG]	Validating UtilityMod
+2022-06-15 09:02:01:974	[DEBUG]	Validating SML
+2022-06-15 09:02:01:975	[DEBUG]	Validating FactoryGame
+2022-06-15 09:02:01:975	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:02:01:975	[DEBUG]	Validating SML
+2022-06-15 09:07:03:421	[DEBUG]	Validating UtilityMod
+2022-06-15 09:07:03:422	[DEBUG]	Validating SML
+2022-06-15 09:07:03:422	[DEBUG]	Validating FactoryGame
+2022-06-15 09:07:03:422	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:07:03:422	[DEBUG]	Validating SML
+2022-06-15 09:12:04:003	[DEBUG]	Validating UtilityMod
+2022-06-15 09:12:04:004	[DEBUG]	Validating SML
+2022-06-15 09:12:04:004	[DEBUG]	Validating FactoryGame
+2022-06-15 09:12:04:004	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:12:04:004	[DEBUG]	Validating SML
+2022-06-15 09:17:05:286	[DEBUG]	Validating UtilityMod
+2022-06-15 09:17:05:287	[DEBUG]	Validating SML
+2022-06-15 09:17:05:287	[DEBUG]	Validating FactoryGame
+2022-06-15 09:17:05:287	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:17:05:287	[DEBUG]	Validating SML
+2022-06-15 09:22:06:710	[DEBUG]	Validating UtilityMod
+2022-06-15 09:22:06:710	[DEBUG]	Validating SML
+2022-06-15 09:22:06:710	[DEBUG]	Validating FactoryGame
+2022-06-15 09:22:06:710	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:22:06:710	[DEBUG]	Validating SML
+2022-06-15 09:27:07:454	[DEBUG]	Validating UtilityMod
+2022-06-15 09:27:07:455	[DEBUG]	Validating SML
+2022-06-15 09:27:07:455	[DEBUG]	Validating FactoryGame
+2022-06-15 09:27:07:455	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:27:07:455	[DEBUG]	Validating SML
+2022-06-15 09:32:08:356	[DEBUG]	Validating UtilityMod
+2022-06-15 09:32:08:356	[DEBUG]	Validating SML
+2022-06-15 09:32:08:357	[DEBUG]	Validating FactoryGame
+2022-06-15 09:32:08:357	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:32:08:357	[DEBUG]	Validating SML
+2022-06-15 09:37:08:938	[DEBUG]	Validating UtilityMod
+2022-06-15 09:37:08:939	[DEBUG]	Validating SML
+2022-06-15 09:37:08:939	[DEBUG]	Validating FactoryGame
+2022-06-15 09:37:08:939	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:37:08:940	[DEBUG]	Validating SML
+2022-06-15 09:42:10:352	[DEBUG]	Validating UtilityMod
+2022-06-15 09:42:10:353	[DEBUG]	Validating SML
+2022-06-15 09:42:10:353	[DEBUG]	Validating FactoryGame
+2022-06-15 09:42:10:353	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:42:10:354	[DEBUG]	Validating SML
+2022-06-15 09:47:11:281	[DEBUG]	Validating UtilityMod
+2022-06-15 09:47:11:281	[DEBUG]	Validating SML
+2022-06-15 09:47:11:282	[DEBUG]	Validating FactoryGame
+2022-06-15 09:47:11:282	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:47:11:282	[DEBUG]	Validating SML
+2022-06-15 09:52:12:531	[DEBUG]	Validating UtilityMod
+2022-06-15 09:52:12:532	[DEBUG]	Validating SML
+2022-06-15 09:52:12:532	[DEBUG]	Validating FactoryGame
+2022-06-15 09:52:12:532	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:52:12:533	[DEBUG]	Validating SML
+2022-06-15 09:57:13:943	[DEBUG]	Validating UtilityMod
+2022-06-15 09:57:13:944	[DEBUG]	Validating SML
+2022-06-15 09:57:13:944	[DEBUG]	Validating FactoryGame
+2022-06-15 09:57:13:944	[DEBUG]	Validating InventorySpace2
+2022-06-15 09:57:13:944	[DEBUG]	Validating SML
+2022-06-15 10:02:15:215	[DEBUG]	Validating UtilityMod
+2022-06-15 10:02:15:215	[DEBUG]	Validating SML
+2022-06-15 10:02:15:215	[DEBUG]	Validating FactoryGame
+2022-06-15 10:02:15:215	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:02:15:216	[DEBUG]	Validating SML
+2022-06-15 10:07:16:495	[DEBUG]	Validating UtilityMod
+2022-06-15 10:07:16:496	[DEBUG]	Validating SML
+2022-06-15 10:07:16:496	[DEBUG]	Validating FactoryGame
+2022-06-15 10:07:16:496	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:07:16:496	[DEBUG]	Validating SML
+2022-06-15 10:12:17:288	[DEBUG]	Validating UtilityMod
+2022-06-15 10:12:17:288	[DEBUG]	Validating SML
+2022-06-15 10:12:17:289	[DEBUG]	Validating FactoryGame
+2022-06-15 10:12:17:289	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:12:17:289	[DEBUG]	Validating SML
+2022-06-15 10:17:18:559	[DEBUG]	Validating UtilityMod
+2022-06-15 10:17:18:559	[DEBUG]	Validating SML
+2022-06-15 10:17:18:560	[DEBUG]	Validating FactoryGame
+2022-06-15 10:17:18:560	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:17:18:560	[DEBUG]	Validating SML
+2022-06-15 10:22:19:161	[DEBUG]	Validating UtilityMod
+2022-06-15 10:22:19:162	[DEBUG]	Validating SML
+2022-06-15 10:22:19:162	[DEBUG]	Validating FactoryGame
+2022-06-15 10:22:19:162	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:22:19:162	[DEBUG]	Validating SML
+2022-06-15 10:27:20:583	[DEBUG]	Validating UtilityMod
+2022-06-15 10:27:20:583	[DEBUG]	Validating SML
+2022-06-15 10:27:20:583	[DEBUG]	Validating FactoryGame
+2022-06-15 10:27:20:583	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:27:20:584	[DEBUG]	Validating SML
+2022-06-15 10:32:21:969	[DEBUG]	Validating UtilityMod
+2022-06-15 10:32:21:970	[DEBUG]	Validating SML
+2022-06-15 10:32:21:970	[DEBUG]	Validating FactoryGame
+2022-06-15 10:32:21:970	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:32:21:970	[DEBUG]	Validating SML
+2022-06-15 10:37:23:216	[DEBUG]	Validating UtilityMod
+2022-06-15 10:37:23:216	[DEBUG]	Validating SML
+2022-06-15 10:37:23:217	[DEBUG]	Validating FactoryGame
+2022-06-15 10:37:23:217	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:37:23:217	[DEBUG]	Validating SML
+2022-06-15 10:42:24:644	[DEBUG]	Validating UtilityMod
+2022-06-15 10:42:24:644	[DEBUG]	Validating SML
+2022-06-15 10:42:24:645	[DEBUG]	Validating FactoryGame
+2022-06-15 10:42:24:645	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:42:24:645	[DEBUG]	Validating SML
+2022-06-15 10:47:26:076	[DEBUG]	Validating UtilityMod
+2022-06-15 10:47:26:076	[DEBUG]	Validating SML
+2022-06-15 10:47:26:077	[DEBUG]	Validating FactoryGame
+2022-06-15 10:47:26:077	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:47:26:077	[DEBUG]	Validating SML
+2022-06-15 10:52:27:508	[DEBUG]	Validating UtilityMod
+2022-06-15 10:52:27:509	[DEBUG]	Validating SML
+2022-06-15 10:52:27:509	[DEBUG]	Validating FactoryGame
+2022-06-15 10:52:27:509	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:52:27:509	[DEBUG]	Validating SML
+2022-06-15 10:57:28:930	[DEBUG]	Validating UtilityMod
+2022-06-15 10:57:28:930	[DEBUG]	Validating SML
+2022-06-15 10:57:28:931	[DEBUG]	Validating FactoryGame
+2022-06-15 10:57:28:931	[DEBUG]	Validating InventorySpace2
+2022-06-15 10:57:28:931	[DEBUG]	Validating SML
+2022-06-15 11:02:30:362	[DEBUG]	Validating UtilityMod
+2022-06-15 11:02:30:363	[DEBUG]	Validating SML
+2022-06-15 11:02:30:363	[DEBUG]	Validating FactoryGame
+2022-06-15 11:02:30:363	[DEBUG]	Validating InventorySpace2
+2022-06-15 11:02:30:363	[DEBUG]	Validating SML
+2022-06-15 11:07:31:813	[DEBUG]	Validating UtilityMod
+2022-06-15 11:07:31:813	[DEBUG]	Validating SML
+2022-06-15 11:07:31:814	[DEBUG]	Validating FactoryGame
+2022-06-15 11:07:31:814	[DEBUG]	Validating InventorySpace2
+2022-06-15 11:07:31:814	[DEBUG]	Validating SML
+2022-06-15 11:12:32:969	[DEBUG]	Validating UtilityMod
+2022-06-15 11:12:32:969	[DEBUG]	Validating SML
+2022-06-15 11:12:32:970	[DEBUG]	Validating FactoryGame
+2022-06-15 11:12:32:970	[DEBUG]	Validating InventorySpace2
+2022-06-15 11:12:32:970	[DEBUG]	Validating SML
+2022-06-15 11:17:34:097	[DEBUG]	Validating UtilityMod
+2022-06-15 11:17:34:098	[DEBUG]	Validating SML
+2022-06-15 11:17:34:098	[DEBUG]	Validating FactoryGame
+2022-06-15 11:17:34:098	[DEBUG]	Validating InventorySpace2
+2022-06-15 11:17:34:098	[DEBUG]	Validating SML
+2022-06-15 11:22:35:041	[DEBUG]	Validating UtilityMod
+2022-06-15 11:22:35:042	[DEBUG]	Validating SML
+2022-06-15 11:22:35:042	[DEBUG]	Validating FactoryGame
+2022-06-15 11:22:35:042	[DEBUG]	Validating InventorySpace2
+2022-06-15 11:22:35:042	[DEBUG]	Validating SML
+2022-06-15 15:45:35:870	[DEBUG]	Loading mod cache
+2022-06-15 15:45:36:517	[DEBUG]	Loading mod cache
+2022-06-15 15:45:36:614	[DEBUG]	Epic Games Launcher is not installed
+2022-06-15 15:45:36:931	[DEBUG]	Setting profile to Experimental 6
+2022-06-15 15:45:37:112	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 15:45:38:049	[DEBUG]	Validating SML
+2022-06-15 15:45:38:049	[DEBUG]	Validating FactoryGame
+2022-06-15 15:45:38:050	[DEBUG]	Validating UtilityMod
+2022-06-15 15:45:38:050	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:45:38:050	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 15:45:38:055	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-06-15 15:45:40:014	[DEBUG]	Validating UtilityMod
+2022-06-15 15:45:40:016	[DEBUG]	Validating SML
+2022-06-15 15:45:40:016	[DEBUG]	Validating FactoryGame
+2022-06-15 15:45:40:016	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:45:40:017	[DEBUG]	Validating SML
+2022-06-15 15:46:13:575	[INFO]	Installing KLevelUp
+2022-06-15 15:46:13:826	[DEBUG]	install: [KLevelUp], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 15:46:14:031	[DEBUG]	Validating SML
+2022-06-15 15:46:14:031	[DEBUG]	Validating FactoryGame
+2022-06-15 15:46:14:031	[DEBUG]	Validating UtilityMod
+2022-06-15 15:46:14:031	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:46:14:031	[DEBUG]	Validating KLevelUp
+2022-06-15 15:46:14:223	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 15:46:14:642	[DEBUG]	Validating KBFL
+2022-06-15 15:46:15:045	[DEBUG]	Validating SML
+2022-06-15 15:46:15:045	[DEBUG]	Validating KUI
+2022-06-15 15:46:15:431	[DEBUG]	Validating SML
+2022-06-15 15:46:15:431	[DEBUG]	Validating SML
+2022-06-15 15:46:15:431	[DEBUG]	Validating SML
+2022-06-15 15:46:15:431	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","KLevelUp":"1.3.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1"}
+2022-06-15 15:46:15:434	[DEBUG]	Mismatches: {"install":{"KLevelUp":"1.3.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1"},"uninstall":[]}
+2022-06-15 15:46:15:435	[DEBUG]	Copying KLevelUp@1.3.0 to Satisfactory install
+2022-06-15 15:46:15:435	[DEBUG]	Copying KPrivateCodeLib@1.3.0 to Satisfactory install
+2022-06-15 15:46:15:435	[DEBUG]	Copying KBFL@1.12.12 to Satisfactory install
+2022-06-15 15:46:15:435	[DEBUG]	Copying KUI@1.4.1 to Satisfactory install
+2022-06-15 15:47:36:750	[INFO]	Installing KLevelUp@1.3.0
+2022-06-15 15:47:36:991	[DEBUG]	install: [KLevelUp@1.3.0], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 15:47:36:993	[DEBUG]	Validating SML
+2022-06-15 15:47:36:993	[DEBUG]	Validating FactoryGame
+2022-06-15 15:47:36:993	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 15:47:36:993	[DEBUG]	Validating KBFL
+2022-06-15 15:47:36:993	[DEBUG]	Validating KUI
+2022-06-15 15:47:36:994	[DEBUG]	Validating UtilityMod
+2022-06-15 15:47:36:994	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:47:36:994	[DEBUG]	Validating KLevelUp
+2022-06-15 15:47:36:994	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","KLevelUp":"1.3.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1"}
+2022-06-15 15:47:36:997	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-06-15 15:47:48:446	[INFO]	Uninstalling KLevelUp
+2022-06-15 15:47:48:688	[DEBUG]	install: [], uninstall: [KLevelUp], enable: [], disable: [], update: []
+2022-06-15 15:47:48:689	[DEBUG]	Validating SML
+2022-06-15 15:47:48:690	[DEBUG]	Validating FactoryGame
+2022-06-15 15:47:48:690	[DEBUG]	Validating KBFL
+2022-06-15 15:47:48:690	[DEBUG]	Validating KUI
+2022-06-15 15:47:48:690	[DEBUG]	Validating UtilityMod
+2022-06-15 15:47:48:690	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:47:48:690	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 15:47:48:693	[DEBUG]	Mismatches: {"install":{},"uninstall":["KBFL","KLevelUp","KPrivateCodeLib","KUI"]}
+2022-06-15 15:47:48:693	[DEBUG]	Removing KBFL from Satisfactory install
+2022-06-15 15:47:48:693	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-06-15 15:47:48:693	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-06-15 15:47:48:693	[DEBUG]	Removing KUI from Satisfactory install
+2022-06-15 15:50:40:562	[DEBUG]	Validating UtilityMod
+2022-06-15 15:50:40:562	[DEBUG]	Validating SML
+2022-06-15 15:50:40:562	[DEBUG]	Validating FactoryGame
+2022-06-15 15:50:40:563	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:50:40:563	[DEBUG]	Validating SML
+2022-06-15 15:51:15:286	[INFO]	Installing KLevelUp
+2022-06-15 15:51:15:515	[DEBUG]	install: [KLevelUp], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 15:51:15:517	[DEBUG]	Validating SML
+2022-06-15 15:51:15:517	[DEBUG]	Validating FactoryGame
+2022-06-15 15:51:15:517	[DEBUG]	Validating UtilityMod
+2022-06-15 15:51:15:517	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:51:15:517	[DEBUG]	Validating KLevelUp
+2022-06-15 15:51:15:518	[DEBUG]	Validating KPrivateCodeLib
+2022-06-15 15:51:15:518	[DEBUG]	Validating KBFL
+2022-06-15 15:51:15:519	[DEBUG]	Validating SML
+2022-06-15 15:51:15:519	[DEBUG]	Validating KUI
+2022-06-15 15:51:15:520	[DEBUG]	Validating SML
+2022-06-15 15:51:15:520	[DEBUG]	Validating SML
+2022-06-15 15:51:15:520	[DEBUG]	Validating SML
+2022-06-15 15:51:15:521	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","KLevelUp":"1.3.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1"}
+2022-06-15 15:51:15:523	[DEBUG]	Mismatches: {"install":{"KLevelUp":"1.3.0","KPrivateCodeLib":"1.3.0","KBFL":"1.12.12","KUI":"1.4.1"},"uninstall":[]}
+2022-06-15 15:51:15:524	[DEBUG]	Copying KLevelUp@1.3.0 to Satisfactory install
+2022-06-15 15:51:15:524	[DEBUG]	Copying KPrivateCodeLib@1.3.0 to Satisfactory install
+2022-06-15 15:51:15:524	[DEBUG]	Copying KBFL@1.12.12 to Satisfactory install
+2022-06-15 15:51:15:524	[DEBUG]	Copying KUI@1.4.1 to Satisfactory install
+2022-06-15 15:53:20:389	[INFO]	Uninstalling KLevelUp
+2022-06-15 15:53:20:595	[DEBUG]	install: [], uninstall: [KLevelUp], enable: [], disable: [], update: []
+2022-06-15 15:53:20:599	[DEBUG]	Validating SML
+2022-06-15 15:53:20:599	[DEBUG]	Validating FactoryGame
+2022-06-15 15:53:20:599	[DEBUG]	Validating KBFL
+2022-06-15 15:53:20:599	[DEBUG]	Validating KUI
+2022-06-15 15:53:20:599	[DEBUG]	Validating UtilityMod
+2022-06-15 15:53:20:599	[DEBUG]	Validating InventorySpace2
+2022-06-15 15:53:20:599	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 15:53:20:603	[DEBUG]	Mismatches: {"install":{},"uninstall":["KBFL","KLevelUp","KPrivateCodeLib","KUI"]}
+2022-06-15 15:53:20:603	[DEBUG]	Removing KBFL from Satisfactory install
+2022-06-15 15:53:20:603	[DEBUG]	Removing KLevelUp from Satisfactory install
+2022-06-15 15:53:20:603	[DEBUG]	Removing KPrivateCodeLib from Satisfactory install
+2022-06-15 15:53:20:603	[DEBUG]	Removing KUI from Satisfactory install
+2022-06-15 20:41:19:078	[DEBUG]	Loading mod cache
+2022-06-15 20:41:19:588	[DEBUG]	Loading mod cache
+2022-06-15 20:41:19:648	[DEBUG]	Epic Games Launcher is not installed
+2022-06-15 20:41:19:944	[DEBUG]	Setting profile to Experimental 6
+2022-06-15 20:41:20:116	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-06-15 20:41:20:854	[DEBUG]	Validating SML
+2022-06-15 20:41:20:854	[DEBUG]	Validating FactoryGame
+2022-06-15 20:41:20:854	[DEBUG]	Validating UtilityMod
+2022-06-15 20:41:20:854	[DEBUG]	Validating InventorySpace2
+2022-06-15 20:41:20:855	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1"}
+2022-06-15 20:41:20:859	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-06-15 20:41:22:671	[DEBUG]	Validating UtilityMod
+2022-06-15 20:41:22:672	[DEBUG]	Validating SML
+2022-06-15 20:41:22:673	[DEBUG]	Validating FactoryGame
+2022-06-15 20:41:22:673	[DEBUG]	Validating InventorySpace2
+2022-06-15 20:41:22:673	[DEBUG]	Validating SML

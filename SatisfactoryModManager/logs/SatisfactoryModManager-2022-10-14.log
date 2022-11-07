@@ -1,0 +1,85 @@
+2022-10-14 06:49:53:039	[DEBUG]	Loading mod cache
+2022-10-14 06:49:54:135	[DEBUG]	Loading mod cache
+2022-10-14 06:49:54:242	[DEBUG]	Epic Games Launcher is not installed
+2022-10-14 06:49:54:674	[DEBUG]	Setting profile to Off-e6
+2022-10-14 06:49:54:873	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-10-14 06:50:03:510	[DEBUG]	Validating SML
+2022-10-14 06:50:03:510	[DEBUG]	Validating FactoryGame
+2022-10-14 06:50:03:510	[DEBUG]	Validating EquipmentAutomation
+2022-10-14 06:50:03:510	[DEBUG]	Validating UtilityMod
+2022-10-14 06:50:03:511	[DEBUG]	Validating InventorySpace2
+2022-10-14 06:50:03:511	[DEBUG]	Validating PersonalDrones
+2022-10-14 06:50:03:511	[DEBUG]	Validating NoNewLabel
+2022-10-14 06:50:03:511	[DEBUG]	Validating TenTimesAwesomePoints
+2022-10-14 06:50:03:511	[DEBUG]	Validating UndergroundBelts
+2022-10-14 06:50:03:511	[DEBUG]	Validating OrganizedCrates
+2022-10-14 06:50:03:511	[DEBUG]	Validating ShowEnemiesHealth
+2022-10-14 06:50:03:511	[DEBUG]	Validating AlienArtifactsPoints
+2022-10-14 06:50:03:511	[DEBUG]	Validating MicroManage
+2022-10-14 06:50:03:511	[DEBUG]	Validating NoEarlyAccess
+2022-10-14 06:50:03:511	[DEBUG]	Validating CloneMurder
+2022-10-14 06:50:03:511	[DEBUG]	Validating SatisfactoryHelper
+2022-10-14 06:50:03:511	[DEBUG]	Validating FicsitDeskJob
+2022-10-14 06:50:03:511	[DEBUG]	Validating FlashlightSettings
+2022-10-14 06:50:03:511	[DEBUG]	Validating EquipmentAutomationPlus
+2022-10-14 06:50:03:511	[DEBUG]	Validating ContainerScreen
+2022-10-14 06:50:03:511	[DEBUG]	Validating StackOverload
+2022-10-14 06:50:03:511	[DEBUG]	Validating RandomStart
+2022-10-14 06:50:03:511	[DEBUG]	Validating DeepMining
+2022-10-14 06:50:03:511	[DEBUG]	Validating NoFog
+2022-10-14 06:50:03:878	[DEBUG]	Validating SML
+2022-10-14 06:50:03:878	[DEBUG]	Validating RoadSplineTool
+2022-10-14 06:50:04:338	[DEBUG]	Validating SML
+2022-10-14 06:50:04:339	[DEBUG]	Items: {"UtilityMod":"0.6.2","InventorySpace2":"2.0.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","NoEarlyAccess":"1.0.2","CloneMurder":"1.0.0","SML":"3.3.2","SatisfactoryHelper":"2.0.4","FicsitDeskJob":"1.0.0","FlashlightSettings":"1.0.1","EquipmentAutomationPlus":"2.1.0","EquipmentAutomation":"2.1.0","MicroManage":"1.0.3","ContainerScreen":"1.0.14","StackOverload":"2.0.5","DeepMining":"2.0.1","RandomStart":"1.0.1","NoFog":"2.0.0","RoadSplineTool":"1.0.4"}
+2022-10-14 06:50:04:368	[DEBUG]	Mismatches: {"install":{"NoFog":"2.0.0","RoadSplineTool":"1.0.4"},"uninstall":[]}
+2022-10-14 06:50:04:375	[DEBUG]	Copying NoFog@2.0.0 to Satisfactory install
+2022-10-14 06:50:04:375	[DEBUG]	Copying RoadSplineTool@1.0.4 to Satisfactory install
+2022-10-14 06:50:04:375	[DEBUG]	NoFog@2.0.0 is not downloaded. Downloading now.
+2022-10-14 06:50:04:376	[DEBUG]	RoadSplineTool@1.0.4 is not downloaded. Downloading now.
+2022-10-14 06:50:13:290	[DEBUG]	Validating UtilityMod
+2022-10-14 06:50:13:478	[DEBUG]	Validating SML
+2022-10-14 06:50:13:663	[DEBUG]	Validating FactoryGame
+2022-10-14 06:50:13:663	[DEBUG]	Validating InventorySpace2
+2022-10-14 06:50:13:664	[DEBUG]	Validating SML
+2022-10-14 06:50:13:664	[DEBUG]	Validating PersonalDrones
+2022-10-14 06:50:13:851	[DEBUG]	Validating SML
+2022-10-14 06:50:13:851	[DEBUG]	Validating NoNewLabel
+2022-10-14 06:50:13:852	[DEBUG]	Validating SML
+2022-10-14 06:50:13:852	[DEBUG]	Validating TenTimesAwesomePoints
+2022-10-14 06:50:13:852	[DEBUG]	Validating SML
+2022-10-14 06:50:13:852	[DEBUG]	Validating UndergroundBelts
+2022-10-14 06:50:13:854	[DEBUG]	Validating SML
+2022-10-14 06:50:13:854	[DEBUG]	Validating OrganizedCrates
+2022-10-14 06:50:13:856	[DEBUG]	Validating SML
+2022-10-14 06:50:13:856	[DEBUG]	Validating ShowEnemiesHealth
+2022-10-14 06:50:13:857	[DEBUG]	Validating SML
+2022-10-14 06:50:13:857	[DEBUG]	Validating AlienArtifactsPoints
+2022-10-14 06:50:13:857	[DEBUG]	Validating SML
+2022-10-14 06:50:13:857	[DEBUG]	Validating MicroManage
+2022-10-14 06:50:13:860	[DEBUG]	Validating SML
+2022-10-14 06:50:13:860	[DEBUG]	Validating NoEarlyAccess
+2022-10-14 06:50:13:861	[DEBUG]	Validating SML
+2022-10-14 06:50:13:861	[DEBUG]	Validating CloneMurder
+2022-10-14 06:50:13:861	[DEBUG]	Validating SML
+2022-10-14 06:50:13:861	[DEBUG]	Validating SatisfactoryHelper
+2022-10-14 06:50:13:862	[DEBUG]	Validating SML
+2022-10-14 06:50:13:863	[DEBUG]	Validating FicsitDeskJob
+2022-10-14 06:50:13:863	[DEBUG]	Validating SML
+2022-10-14 06:50:13:863	[DEBUG]	Validating FlashlightSettings
+2022-10-14 06:50:13:864	[DEBUG]	Validating SML
+2022-10-14 06:50:13:864	[DEBUG]	Validating EquipmentAutomationPlus
+2022-10-14 06:50:13:865	[DEBUG]	Validating SML
+2022-10-14 06:50:13:865	[DEBUG]	Validating EquipmentAutomation
+2022-10-14 06:50:13:866	[DEBUG]	Validating SML
+2022-10-14 06:50:13:866	[DEBUG]	Validating ContainerScreen
+2022-10-14 06:50:13:868	[DEBUG]	Validating SML
+2022-10-14 06:50:13:868	[DEBUG]	Validating StackOverload
+2022-10-14 06:50:13:870	[DEBUG]	Validating SML
+2022-10-14 06:50:13:870	[DEBUG]	Validating RandomStart
+2022-10-14 06:50:13:870	[DEBUG]	Validating SML
+2022-10-14 06:50:13:870	[DEBUG]	Validating DeepMining
+2022-10-14 06:50:13:872	[DEBUG]	Validating SML
+2022-10-14 06:50:13:872	[DEBUG]	Validating NoFog
+2022-10-14 06:50:13:872	[DEBUG]	Validating SML
+2022-10-14 06:50:13:872	[DEBUG]	Validating RoadSplineTool
+2022-10-14 06:50:13:873	[DEBUG]	Validating SML

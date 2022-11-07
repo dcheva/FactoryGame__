@@ -1,0 +1,116 @@
+2022-07-11 23:58:03:156	[DEBUG]	Loading mod cache
+2022-07-11 23:58:03:774	[DEBUG]	Loading mod cache
+2022-07-11 23:58:03:838	[DEBUG]	Epic Games Launcher is not installed
+2022-07-11 23:58:04:115	[DEBUG]	Setting profile to Experimental 6
+2022-07-11 23:58:04:279	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-07-11 23:58:05:638	[DEBUG]	Validating SML
+2022-07-11 23:58:05:638	[DEBUG]	Validating FactoryGame
+2022-07-11 23:58:05:639	[DEBUG]	Validating UtilityMod
+2022-07-11 23:58:05:639	[DEBUG]	Validating InventorySpace2
+2022-07-11 23:58:05:639	[DEBUG]	Validating ContainerScreen
+2022-07-11 23:58:05:639	[DEBUG]	Validating PersonalDrones
+2022-07-11 23:58:05:639	[DEBUG]	Validating NoNewLabel
+2022-07-11 23:58:05:639	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-11 23:58:05:639	[DEBUG]	Validating NoEarlyAccess
+2022-07-11 23:58:05:639	[DEBUG]	Validating FlexSplines
+2022-07-11 23:58:05:639	[DEBUG]	Validating UndergroundBelts
+2022-07-11 23:58:05:639	[DEBUG]	Validating SpySat
+2022-07-11 23:58:05:639	[DEBUG]	Validating IconSign
+2022-07-11 23:58:05:639	[DEBUG]	Validating LaserBeacons
+2022-07-11 23:58:05:639	[DEBUG]	Validating OrganizedCrates
+2022-07-11 23:58:05:639	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-11 23:58:05:639	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-11 23:58:05:639	[DEBUG]	Validating RandomStart
+2022-07-11 23:58:05:639	[DEBUG]	Items: {"UtilityMod":"0.5.4","SML":"3.3.1","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","FlexSplines":"1.0.6","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0"}
+2022-07-11 23:58:05:663	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-07-11 23:58:08:247	[DEBUG]	Validating UtilityMod
+2022-07-11 23:58:08:249	[DEBUG]	Validating SML
+2022-07-11 23:58:08:439	[DEBUG]	Validating FactoryGame
+2022-07-11 23:58:08:439	[DEBUG]	Validating InventorySpace2
+2022-07-11 23:58:08:440	[DEBUG]	Validating SML
+2022-07-11 23:58:08:440	[DEBUG]	Validating ContainerScreen
+2022-07-11 23:58:08:441	[DEBUG]	Validating SML
+2022-07-11 23:58:08:441	[DEBUG]	Validating PersonalDrones
+2022-07-11 23:58:08:442	[DEBUG]	Validating SML
+2022-07-11 23:58:08:442	[DEBUG]	Validating NoNewLabel
+2022-07-11 23:58:08:442	[DEBUG]	Validating SML
+2022-07-11 23:58:08:442	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-11 23:58:08:443	[DEBUG]	Validating SML
+2022-07-11 23:58:08:443	[DEBUG]	Validating NoEarlyAccess
+2022-07-11 23:58:08:443	[DEBUG]	Validating SML
+2022-07-11 23:58:08:443	[DEBUG]	Validating FlexSplines
+2022-07-11 23:58:08:630	[DEBUG]	Validating SML
+2022-07-11 23:58:08:630	[DEBUG]	Validating UndergroundBelts
+2022-07-11 23:58:08:632	[DEBUG]	Validating SML
+2022-07-11 23:58:08:632	[DEBUG]	Validating SpySat
+2022-07-11 23:58:08:632	[DEBUG]	Validating SML
+2022-07-11 23:58:08:633	[DEBUG]	Validating IconSign
+2022-07-11 23:58:08:633	[DEBUG]	Validating SML
+2022-07-11 23:58:08:633	[DEBUG]	Validating LaserBeacons
+2022-07-11 23:58:08:634	[DEBUG]	Validating SML
+2022-07-11 23:58:08:634	[DEBUG]	Validating OrganizedCrates
+2022-07-11 23:58:08:635	[DEBUG]	Validating SML
+2022-07-11 23:58:08:635	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-11 23:58:08:636	[DEBUG]	Validating SML
+2022-07-11 23:58:08:636	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-11 23:58:08:636	[DEBUG]	Validating SML
+2022-07-11 23:58:08:636	[DEBUG]	Validating RandomStart
+2022-07-11 23:58:08:637	[DEBUG]	Validating SML
+2022-07-11 23:58:22:709	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [SML, FlexSplines]
+2022-07-11 23:58:22:713	[DEBUG]	Validating SML
+2022-07-11 23:58:22:714	[DEBUG]	Validating FactoryGame
+2022-07-11 23:58:22:714	[DEBUG]	Validating UtilityMod
+2022-07-11 23:58:22:714	[DEBUG]	Validating InventorySpace2
+2022-07-11 23:58:22:714	[DEBUG]	Validating ContainerScreen
+2022-07-11 23:58:22:714	[DEBUG]	Validating PersonalDrones
+2022-07-11 23:58:22:714	[DEBUG]	Validating NoNewLabel
+2022-07-11 23:58:22:714	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-11 23:58:22:715	[DEBUG]	Validating NoEarlyAccess
+2022-07-11 23:58:22:715	[DEBUG]	Validating FlexSplines
+2022-07-11 23:58:22:716	[DEBUG]	Validating SML
+2022-07-11 23:58:22:716	[DEBUG]	Validating UndergroundBelts
+2022-07-11 23:58:22:716	[DEBUG]	Validating SpySat
+2022-07-11 23:58:22:716	[DEBUG]	Validating IconSign
+2022-07-11 23:58:22:716	[DEBUG]	Validating LaserBeacons
+2022-07-11 23:58:22:716	[DEBUG]	Validating OrganizedCrates
+2022-07-11 23:58:22:716	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-11 23:58:22:716	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-11 23:58:22:716	[DEBUG]	Validating RandomStart
+2022-07-11 23:58:22:716	[DEBUG]	Items: {"UtilityMod":"0.5.4","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SML":"3.3.2","FlexSplines":"1.0.7"}
+2022-07-11 23:58:22:721	[DEBUG]	Mismatches: {"install":{"SML":"3.3.2","FlexSplines":"1.0.7"},"uninstall":["SML","FlexSplines"]}
+2022-07-11 23:58:22:722	[DEBUG]	Removing SML from Satisfactory install
+2022-07-11 23:58:22:722	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-07-11 23:58:22:735	[DEBUG]	Removing SML from Satisfactory install
+2022-07-11 23:58:22:735	[DEBUG]	Uninstalling SML
+2022-07-11 23:58:22:741	[DEBUG]	Copying SML to Satisfactory install
+2022-07-11 23:58:22:741	[DEBUG]	Installing SML@3.3.2
+2022-07-11 23:58:22:741	[DEBUG]	SML@3.3.2 is not cached. Downloading
+2022-07-11 23:58:27:151	[DEBUG]	Copying FlexSplines@1.0.7 to Satisfactory install
+2022-07-11 23:58:27:152	[DEBUG]	FlexSplines@1.0.7 is not downloaded. Downloading now.
+2022-07-11 23:58:54:284	[INFO]	Installing SmartFoundations
+2022-07-11 23:58:54:518	[DEBUG]	install: [SmartFoundations], uninstall: [], enable: [], disable: [], update: []
+2022-07-11 23:58:54:721	[DEBUG]	Validating SML
+2022-07-11 23:58:54:722	[DEBUG]	Validating FactoryGame
+2022-07-11 23:58:54:722	[DEBUG]	Validating UtilityMod
+2022-07-11 23:58:54:722	[DEBUG]	Validating InventorySpace2
+2022-07-11 23:58:54:722	[DEBUG]	Validating ContainerScreen
+2022-07-11 23:58:54:722	[DEBUG]	Validating PersonalDrones
+2022-07-11 23:58:54:722	[DEBUG]	Validating NoNewLabel
+2022-07-11 23:58:54:722	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-11 23:58:54:722	[DEBUG]	Validating NoEarlyAccess
+2022-07-11 23:58:54:722	[DEBUG]	Validating FlexSplines
+2022-07-11 23:58:54:722	[DEBUG]	Validating UndergroundBelts
+2022-07-11 23:58:54:722	[DEBUG]	Validating SpySat
+2022-07-11 23:58:54:722	[DEBUG]	Validating IconSign
+2022-07-11 23:58:54:722	[DEBUG]	Validating LaserBeacons
+2022-07-11 23:58:54:722	[DEBUG]	Validating OrganizedCrates
+2022-07-11 23:58:54:722	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-11 23:58:54:722	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-11 23:58:54:722	[DEBUG]	Validating RandomStart
+2022-07-11 23:58:54:722	[DEBUG]	Validating SmartFoundations
+2022-07-11 23:58:54:917	[DEBUG]	Validating SML
+2022-07-11 23:58:54:917	[DEBUG]	Items: {"UtilityMod":"0.5.4","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SML":"3.3.2","FlexSplines":"1.0.7","SmartFoundations":"18.0.1"}
+2022-07-11 23:58:54:923	[DEBUG]	Mismatches: {"install":{"SmartFoundations":"18.0.1"},"uninstall":[]}
+2022-07-11 23:58:54:928	[DEBUG]	Copying SmartFoundations@18.0.1 to Satisfactory install
+2022-07-11 23:58:54:928	[DEBUG]	SmartFoundations@18.0.1 is not downloaded. Downloading now.
+

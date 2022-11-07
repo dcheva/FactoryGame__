@@ -1,0 +1,75 @@
+
+2022-08-05 00:01:16:773	[DEBUG]	Validating UtilityMod
+2022-08-05 00:01:16:774	[DEBUG]	Validating SML
+2022-08-05 00:01:16:774	[DEBUG]	Validating FactoryGame
+2022-08-05 00:01:16:774	[DEBUG]	Validating InventorySpace2
+2022-08-05 00:01:16:774	[DEBUG]	Validating SML
+2022-08-05 00:01:16:774	[DEBUG]	Validating ContainerScreen
+2022-08-05 00:01:16:775	[DEBUG]	Validating SML
+2022-08-05 00:01:16:775	[DEBUG]	Validating PersonalDrones
+2022-08-05 00:01:16:775	[DEBUG]	Validating SML
+2022-08-05 00:01:16:775	[DEBUG]	Validating NoNewLabel
+2022-08-05 00:01:16:775	[DEBUG]	Validating SML
+2022-08-05 00:01:16:775	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-05 00:01:16:775	[DEBUG]	Validating SML
+2022-08-05 00:01:16:775	[DEBUG]	Validating NoEarlyAccess
+2022-08-05 00:01:16:775	[DEBUG]	Validating SML
+2022-08-05 00:01:16:776	[DEBUG]	Validating FlexSplines
+2022-08-05 00:01:16:776	[DEBUG]	Validating SML
+2022-08-05 00:01:16:776	[DEBUG]	Validating UndergroundBelts
+2022-08-05 00:01:16:776	[DEBUG]	Validating SML
+2022-08-05 00:01:16:776	[DEBUG]	Validating SpySat
+2022-08-05 00:01:16:776	[DEBUG]	Validating SML
+2022-08-05 00:01:16:776	[DEBUG]	Validating LaserBeacons
+2022-08-05 00:01:16:777	[DEBUG]	Validating SML
+2022-08-05 00:01:16:777	[DEBUG]	Validating OrganizedCrates
+2022-08-05 00:01:16:777	[DEBUG]	Validating SML
+2022-08-05 00:01:16:777	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-05 00:01:16:777	[DEBUG]	Validating SML
+2022-08-05 00:01:16:777	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-05 00:01:16:778	[DEBUG]	Validating SML
+2022-08-05 00:01:16:778	[DEBUG]	Validating RandomStart
+2022-08-05 00:01:16:778	[DEBUG]	Validating SML
+2022-08-05 00:01:16:778	[DEBUG]	Validating SmartFoundations
+2022-08-05 00:01:16:779	[DEBUG]	Validating SML
+2022-08-05 00:01:16:779	[DEBUG]	Validating MicroManage
+2022-08-05 00:01:16:780	[DEBUG]	Validating SML
+2022-08-05 00:01:18:154	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [SmartFoundations]
+2022-08-05 00:01:18:157	[DEBUG]	Validating SML
+2022-08-05 00:01:18:158	[DEBUG]	Validating FactoryGame
+2022-08-05 00:01:18:158	[DEBUG]	Validating UtilityMod
+2022-08-05 00:01:18:158	[DEBUG]	Validating InventorySpace2
+2022-08-05 00:01:18:158	[DEBUG]	Validating ContainerScreen
+2022-08-05 00:01:18:158	[DEBUG]	Validating PersonalDrones
+2022-08-05 00:01:18:158	[DEBUG]	Validating NoNewLabel
+2022-08-05 00:01:18:158	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-05 00:01:18:158	[DEBUG]	Validating NoEarlyAccess
+2022-08-05 00:01:18:158	[DEBUG]	Validating FlexSplines
+2022-08-05 00:01:18:158	[DEBUG]	Validating UndergroundBelts
+2022-08-05 00:01:18:158	[DEBUG]	Validating SpySat
+2022-08-05 00:01:18:158	[DEBUG]	Validating LaserBeacons
+2022-08-05 00:01:18:158	[DEBUG]	Validating OrganizedCrates
+2022-08-05 00:01:18:158	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-05 00:01:18:158	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-05 00:01:18:158	[DEBUG]	Validating RandomStart
+2022-08-05 00:01:18:158	[DEBUG]	Validating SmartFoundations
+2022-08-05 00:01:18:158	[DEBUG]	Validating SML
+2022-08-05 00:01:18:158	[DEBUG]	Validating MicroManage
+2022-08-05 00:01:18:159	[DEBUG]	Items: {"InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","UndergroundBelts":"3.0.7","SpySat":"1.0.4","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SML":"3.3.2","FlexSplines":"1.0.9","UtilityMod":"0.6.1","MicroManage":"1.0.1","SmartFoundations":"18.12.15"}
+2022-08-05 00:01:18:164	[DEBUG]	Mismatches: {"install":{"SmartFoundations":"18.12.15"},"uninstall":["SmartFoundations"]}
+2022-08-05 00:01:18:164	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-08-05 00:01:18:172	[DEBUG]	Copying SmartFoundations@18.12.15 to Satisfactory install
+2022-08-05 00:01:18:173	[DEBUG]	SmartFoundations@18.12.15 is not downloaded. Downloading now.
+2022-08-05 00:01:31:710	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-05 00:01:31:710	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-05 00:01:31:710	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-05 00:01:31:710	[INFO]	Mod LaserBeacons@1.0.4 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod NoEarlyAccess@1.0.2 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod SpySat@1.0.4 not found in cache when setting as in use.
+2022-08-05 00:01:31:711	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-05 00:01:31:712	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.

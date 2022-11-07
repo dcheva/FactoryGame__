@@ -1,0 +1,284 @@
+2022-09-20 00:13:04:642	[DEBUG]	Loading mod cache
+2022-09-20 00:13:05:225	[DEBUG]	Loading mod cache
+2022-09-20 00:13:05:260	[DEBUG]	Epic Games Launcher is not installed
+2022-09-20 00:13:38:370	[DEBUG]	Validating UtilityMod
+2022-09-20 00:13:38:372	[DEBUG]	Validating SML
+2022-09-20 00:13:38:557	[DEBUG]	Validating FactoryGame
+2022-09-20 00:13:38:557	[DEBUG]	Validating InventorySpace2
+2022-09-20 00:13:38:557	[DEBUG]	Validating SML
+2022-09-20 00:13:38:558	[DEBUG]	Validating ContainerScreen
+2022-09-20 00:13:38:559	[DEBUG]	Validating SML
+2022-09-20 00:13:38:559	[DEBUG]	Validating PersonalDrones
+2022-09-20 00:13:38:561	[DEBUG]	Validating SML
+2022-09-20 00:13:38:561	[DEBUG]	Validating NoNewLabel
+2022-09-20 00:13:38:561	[DEBUG]	Validating SML
+2022-09-20 00:13:38:561	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 00:13:38:562	[DEBUG]	Validating SML
+2022-09-20 00:13:38:562	[DEBUG]	Validating FlexSplines
+2022-09-20 00:13:38:563	[DEBUG]	Validating SML
+2022-09-20 00:13:38:563	[DEBUG]	Validating UndergroundBelts
+2022-09-20 00:13:38:564	[DEBUG]	Validating SML
+2022-09-20 00:13:38:564	[DEBUG]	Validating OrganizedCrates
+2022-09-20 00:13:38:565	[DEBUG]	Validating SML
+2022-09-20 00:13:38:565	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 00:13:38:566	[DEBUG]	Validating SML
+2022-09-20 00:13:38:566	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 00:13:38:566	[DEBUG]	Validating SML
+2022-09-20 00:13:38:566	[DEBUG]	Validating RandomStart
+2022-09-20 00:13:38:567	[DEBUG]	Validating SML
+2022-09-20 00:13:38:567	[DEBUG]	Validating NoFog
+2022-09-20 00:13:38:567	[DEBUG]	Validating SML
+2022-09-20 00:13:38:567	[DEBUG]	Validating MicroManage
+2022-09-20 00:13:38:570	[DEBUG]	Validating SML
+2022-09-20 00:13:38:570	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 00:13:38:571	[DEBUG]	Validating SML
+2022-09-20 00:13:38:571	[DEBUG]	Validating CloneMurder
+2022-09-20 00:13:38:571	[DEBUG]	Validating SML
+2022-09-20 00:13:38:571	[DEBUG]	Validating SmartFoundations
+2022-09-20 00:13:38:576	[DEBUG]	Validating SML
+2022-09-20 00:13:38:577	[DEBUG]	Validating NogsResearch
+2022-09-20 00:13:38:578	[DEBUG]	Validating SML
+2022-09-20 00:13:38:578	[DEBUG]	Validating MAMTips
+2022-09-20 00:13:38:579	[DEBUG]	Validating SML
+2022-09-20 21:49:23:877	[DEBUG]	Loading mod cache
+2022-09-20 21:49:24:485	[DEBUG]	Loading mod cache
+2022-09-20 21:49:24:572	[DEBUG]	Epic Games Launcher is not installed
+2022-09-20 21:49:24:998	[DEBUG]	Setting profile to Off-e6
+2022-09-20 21:49:25:143	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-09-20 21:49:31:459	[DEBUG]	Validating SML
+2022-09-20 21:49:31:459	[DEBUG]	Validating FactoryGame
+2022-09-20 21:49:31:459	[DEBUG]	Validating MAMTips
+2022-09-20 21:49:31:459	[DEBUG]	Validating UtilityMod
+2022-09-20 21:49:31:459	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:49:31:459	[DEBUG]	Validating ContainerScreen
+2022-09-20 21:49:31:459	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:49:31:459	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:49:31:459	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:49:31:459	[DEBUG]	Validating FlexSplines
+2022-09-20 21:49:31:459	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:49:31:459	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:49:31:459	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:49:31:459	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:49:31:459	[DEBUG]	Validating RandomStart
+2022-09-20 21:49:31:459	[DEBUG]	Validating NoFog
+2022-09-20 21:49:31:459	[DEBUG]	Validating MicroManage
+2022-09-20 21:49:31:459	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:49:31:459	[DEBUG]	Validating CloneMurder
+2022-09-20 21:49:31:459	[DEBUG]	Validating SmartFoundations
+2022-09-20 21:49:31:460	[DEBUG]	Validating NogsResearch
+2022-09-20 21:49:31:460	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","NoFog":"2.0.0","NoEarlyAccess":"1.0.2","ContainerScreen":"1.0.14","MicroManage":"1.0.2","CloneMurder":"1.0.0","RandomStart":"1.0.1","SmartFoundations":"18.14.87","NogsResearch":"1.0.2","MAMTips":"0.6.0"}
+2022-09-20 21:49:31:488	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-09-20 21:49:31:503	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:31:504	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:31:505	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:31:505	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:31:505	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-09-20 21:49:31:505	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-09-20 21:49:31:505	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-09-20 21:49:31:506	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:31:506	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-09-20 21:49:34:389	[DEBUG]	Validating UtilityMod
+2022-09-20 21:49:34:390	[DEBUG]	Validating SML
+2022-09-20 21:49:34:391	[DEBUG]	Validating FactoryGame
+2022-09-20 21:49:34:391	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:49:34:391	[DEBUG]	Validating SML
+2022-09-20 21:49:34:391	[DEBUG]	Validating ContainerScreen
+2022-09-20 21:49:34:393	[DEBUG]	Validating SML
+2022-09-20 21:49:34:393	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:49:34:394	[DEBUG]	Validating SML
+2022-09-20 21:49:34:394	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:49:34:394	[DEBUG]	Validating SML
+2022-09-20 21:49:34:394	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:49:34:394	[DEBUG]	Validating SML
+2022-09-20 21:49:34:394	[DEBUG]	Validating FlexSplines
+2022-09-20 21:49:34:395	[DEBUG]	Validating SML
+2022-09-20 21:49:34:395	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:49:34:396	[DEBUG]	Validating SML
+2022-09-20 21:49:34:396	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:49:34:397	[DEBUG]	Validating SML
+2022-09-20 21:49:34:397	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:49:34:398	[DEBUG]	Validating SML
+2022-09-20 21:49:34:398	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:49:34:398	[DEBUG]	Validating SML
+2022-09-20 21:49:34:398	[DEBUG]	Validating RandomStart
+2022-09-20 21:49:34:399	[DEBUG]	Validating SML
+2022-09-20 21:49:34:399	[DEBUG]	Validating NoFog
+2022-09-20 21:49:34:399	[DEBUG]	Validating SML
+2022-09-20 21:49:34:399	[DEBUG]	Validating MicroManage
+2022-09-20 21:49:34:591	[DEBUG]	Validating SML
+2022-09-20 21:49:34:591	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:49:34:592	[DEBUG]	Validating SML
+2022-09-20 21:49:34:592	[DEBUG]	Validating CloneMurder
+2022-09-20 21:49:34:592	[DEBUG]	Validating SML
+2022-09-20 21:49:34:592	[DEBUG]	Validating SmartFoundations
+2022-09-20 21:49:34:596	[DEBUG]	Validating SML
+2022-09-20 21:49:34:596	[DEBUG]	Validating NogsResearch
+2022-09-20 21:49:34:597	[DEBUG]	Validating SML
+2022-09-20 21:49:34:597	[DEBUG]	Validating MAMTips
+2022-09-20 21:49:34:599	[DEBUG]	Validating SML
+2022-09-20 21:49:55:513	[INFO]	Uninstalling SmartFoundations
+2022-09-20 21:49:55:705	[DEBUG]	install: [], uninstall: [SmartFoundations], enable: [], disable: [], update: []
+2022-09-20 21:49:55:708	[DEBUG]	Validating SML
+2022-09-20 21:49:55:709	[DEBUG]	Validating FactoryGame
+2022-09-20 21:49:55:709	[DEBUG]	Validating MAMTips
+2022-09-20 21:49:55:709	[DEBUG]	Validating UtilityMod
+2022-09-20 21:49:55:709	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:49:55:709	[DEBUG]	Validating ContainerScreen
+2022-09-20 21:49:55:709	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:49:55:709	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:49:55:709	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:49:55:709	[DEBUG]	Validating FlexSplines
+2022-09-20 21:49:55:709	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:49:55:709	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:49:55:709	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:49:55:709	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:49:55:709	[DEBUG]	Validating RandomStart
+2022-09-20 21:49:55:709	[DEBUG]	Validating NoFog
+2022-09-20 21:49:55:709	[DEBUG]	Validating MicroManage
+2022-09-20 21:49:55:709	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:49:55:709	[DEBUG]	Validating CloneMurder
+2022-09-20 21:49:55:709	[DEBUG]	Validating NogsResearch
+2022-09-20 21:49:55:709	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","NoFog":"2.0.0","NoEarlyAccess":"1.0.2","ContainerScreen":"1.0.14","MicroManage":"1.0.2","CloneMurder":"1.0.0","RandomStart":"1.0.1","NogsResearch":"1.0.2","MAMTips":"0.6.0"}
+2022-09-20 21:49:55:714	[DEBUG]	Mismatches: {"install":{},"uninstall":["SmartFoundations"]}
+2022-09-20 21:49:55:714	[DEBUG]	Removing SmartFoundations from Satisfactory install
+2022-09-20 21:49:55:732	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:55:732	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:55:733	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:55:733	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:55:733	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-09-20 21:49:55:733	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-09-20 21:49:55:734	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-09-20 21:49:55:734	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:55:734	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-09-20 21:49:57:618	[INFO]	Uninstalling ContainerScreen
+2022-09-20 21:49:57:804	[DEBUG]	install: [], uninstall: [ContainerScreen], enable: [], disable: [], update: []
+2022-09-20 21:49:57:806	[DEBUG]	Validating SML
+2022-09-20 21:49:57:806	[DEBUG]	Validating FactoryGame
+2022-09-20 21:49:57:806	[DEBUG]	Validating MAMTips
+2022-09-20 21:49:57:806	[DEBUG]	Validating UtilityMod
+2022-09-20 21:49:57:806	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:49:57:806	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:49:57:806	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:49:57:806	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:49:57:806	[DEBUG]	Validating FlexSplines
+2022-09-20 21:49:57:806	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:49:57:806	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:49:57:806	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:49:57:806	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:49:57:806	[DEBUG]	Validating RandomStart
+2022-09-20 21:49:57:806	[DEBUG]	Validating NoFog
+2022-09-20 21:49:57:807	[DEBUG]	Validating MicroManage
+2022-09-20 21:49:57:807	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:49:57:807	[DEBUG]	Validating CloneMurder
+2022-09-20 21:49:57:807	[DEBUG]	Validating NogsResearch
+2022-09-20 21:49:57:807	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","NoFog":"2.0.0","NoEarlyAccess":"1.0.2","MicroManage":"1.0.2","CloneMurder":"1.0.0","RandomStart":"1.0.1","NogsResearch":"1.0.2","MAMTips":"0.6.0"}
+2022-09-20 21:49:57:811	[DEBUG]	Mismatches: {"install":{},"uninstall":["ContainerScreen"]}
+2022-09-20 21:49:57:811	[DEBUG]	Removing ContainerScreen from Satisfactory install
+2022-09-20 21:49:57:820	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:57:821	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:57:821	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:49:57:822	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-09-20 21:51:09:335	[INFO]	Uninstalling FlexSplines
+2022-09-20 21:51:09:529	[DEBUG]	install: [], uninstall: [FlexSplines], enable: [], disable: [], update: []
+2022-09-20 21:51:09:531	[DEBUG]	Validating SML
+2022-09-20 21:51:09:532	[DEBUG]	Validating FactoryGame
+2022-09-20 21:51:09:532	[DEBUG]	Validating MAMTips
+2022-09-20 21:51:09:532	[DEBUG]	Validating UtilityMod
+2022-09-20 21:51:09:532	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:51:09:532	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:51:09:532	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:51:09:532	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:51:09:532	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:51:09:532	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:51:09:532	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:51:09:532	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:51:09:532	[DEBUG]	Validating RandomStart
+2022-09-20 21:51:09:532	[DEBUG]	Validating NoFog
+2022-09-20 21:51:09:532	[DEBUG]	Validating MicroManage
+2022-09-20 21:51:09:532	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:51:09:532	[DEBUG]	Validating CloneMurder
+2022-09-20 21:51:09:532	[DEBUG]	Validating NogsResearch
+2022-09-20 21:51:09:532	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","NoFog":"2.0.0","NoEarlyAccess":"1.0.2","MicroManage":"1.0.2","CloneMurder":"1.0.0","RandomStart":"1.0.1","NogsResearch":"1.0.2","MAMTips":"0.6.0"}
+2022-09-20 21:51:09:536	[DEBUG]	Mismatches: {"install":{},"uninstall":["FlexSplines"]}
+2022-09-20 21:51:09:536	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-09-20 21:51:09:550	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:51:09:550	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-09-20 21:51:09:551	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-09-20 21:51:09:552	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-09-20 21:54:37:203	[DEBUG]	Validating UtilityMod
+2022-09-20 21:54:37:204	[DEBUG]	Validating SML
+2022-09-20 21:54:37:204	[DEBUG]	Validating FactoryGame
+2022-09-20 21:54:37:204	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:54:37:205	[DEBUG]	Validating SML
+2022-09-20 21:54:37:205	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:54:37:205	[DEBUG]	Validating SML
+2022-09-20 21:54:37:205	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:54:37:205	[DEBUG]	Validating SML
+2022-09-20 21:54:37:205	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:54:37:205	[DEBUG]	Validating SML
+2022-09-20 21:54:37:205	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:54:37:205	[DEBUG]	Validating SML
+2022-09-20 21:54:37:205	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:54:37:206	[DEBUG]	Validating SML
+2022-09-20 21:54:37:206	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:54:37:206	[DEBUG]	Validating SML
+2022-09-20 21:54:37:206	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:54:37:206	[DEBUG]	Validating SML
+2022-09-20 21:54:37:206	[DEBUG]	Validating RandomStart
+2022-09-20 21:54:37:206	[DEBUG]	Validating SML
+2022-09-20 21:54:37:206	[DEBUG]	Validating NoFog
+2022-09-20 21:54:37:206	[DEBUG]	Validating SML
+2022-09-20 21:54:37:206	[DEBUG]	Validating MicroManage
+2022-09-20 21:54:37:208	[DEBUG]	Validating SML
+2022-09-20 21:54:37:208	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:54:37:208	[DEBUG]	Validating SML
+2022-09-20 21:54:37:209	[DEBUG]	Validating CloneMurder
+2022-09-20 21:54:37:209	[DEBUG]	Validating SML
+2022-09-20 21:54:37:209	[DEBUG]	Validating NogsResearch
+2022-09-20 21:54:37:209	[DEBUG]	Validating SML
+2022-09-20 21:54:37:209	[DEBUG]	Validating MAMTips
+2022-09-20 21:54:37:210	[DEBUG]	Validating SML
+2022-09-20 21:59:39:871	[DEBUG]	Validating UtilityMod
+2022-09-20 21:59:39:872	[DEBUG]	Validating SML
+2022-09-20 21:59:39:873	[DEBUG]	Validating FactoryGame
+2022-09-20 21:59:39:873	[DEBUG]	Validating InventorySpace2
+2022-09-20 21:59:39:873	[DEBUG]	Validating SML
+2022-09-20 21:59:39:873	[DEBUG]	Validating PersonalDrones
+2022-09-20 21:59:39:873	[DEBUG]	Validating SML
+2022-09-20 21:59:39:873	[DEBUG]	Validating NoNewLabel
+2022-09-20 21:59:39:873	[DEBUG]	Validating SML
+2022-09-20 21:59:39:873	[DEBUG]	Validating TenTimesAwesomePoints
+2022-09-20 21:59:39:875	[DEBUG]	Validating SML
+2022-09-20 21:59:39:875	[DEBUG]	Validating UndergroundBelts
+2022-09-20 21:59:39:875	[DEBUG]	Validating SML
+2022-09-20 21:59:39:875	[DEBUG]	Validating OrganizedCrates
+2022-09-20 21:59:39:876	[DEBUG]	Validating SML
+2022-09-20 21:59:39:876	[DEBUG]	Validating ShowEnemiesHealth
+2022-09-20 21:59:39:876	[DEBUG]	Validating SML
+2022-09-20 21:59:39:876	[DEBUG]	Validating AlienArtifactsPoints
+2022-09-20 21:59:39:876	[DEBUG]	Validating SML
+2022-09-20 21:59:39:876	[DEBUG]	Validating RandomStart
+2022-09-20 21:59:39:876	[DEBUG]	Validating SML
+2022-09-20 21:59:39:876	[DEBUG]	Validating NoFog
+2022-09-20 21:59:39:876	[DEBUG]	Validating SML
+2022-09-20 21:59:39:876	[DEBUG]	Validating MicroManage
+2022-09-20 21:59:39:877	[DEBUG]	Validating SML
+2022-09-20 21:59:39:877	[DEBUG]	Validating NoEarlyAccess
+2022-09-20 21:59:39:877	[DEBUG]	Validating SML
+2022-09-20 21:59:39:877	[DEBUG]	Validating CloneMurder
+2022-09-20 21:59:39:877	[DEBUG]	Validating SML
+2022-09-20 21:59:39:877	[DEBUG]	Validating NogsResearch
+2022-09-20 21:59:39:877	[DEBUG]	Validating SML
+2022-09-20 21:59:39:878	[DEBUG]	Validating MAMTips
+2022-09-20 21:59:39:878	[DEBUG]	Validating SML
+2022-09-20 22:00:08:511	[WARN]	isRunning timed out, using fallback method.

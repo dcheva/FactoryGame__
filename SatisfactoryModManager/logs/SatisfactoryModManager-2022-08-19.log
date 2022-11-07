@@ -1,0 +1,740 @@
+2022-08-19 10:24:50:816	[DEBUG]	Loading mod cache
+2022-08-19 10:24:51:290	[DEBUG]	Loading mod cache
+2022-08-19 10:24:51:305	[DEBUG]	Epic Games Launcher is not installed
+2022-08-19 10:24:51:601	[DEBUG]	Setting profile to Off-e6
+2022-08-19 10:24:51:776	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-08-19 10:24:52:765	[DEBUG]	Validating SML
+2022-08-19 10:24:52:766	[DEBUG]	Validating FactoryGame
+2022-08-19 10:24:52:771	[ERROR]	Game version incompatible. Installed: 188609. SML requires >=194714
+Trace
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+    at async w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48760)
+2022-08-19 10:24:52:771	[DEBUG]	Items: {"UtilityMod":"0.6.1","SML":"3.3.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"1.0.1","CDevClipboard":"1.0.5","UpsideDownFoundations":"1.0.8","FicsitWiremod":"0.8.73"}
+2022-08-19 10:24:52:776	[DEBUG]	Mismatches: {"install":{"SML":"3.3.2","UtilityMod":"0.6.1","FlexSplines":"1.0.9","MicroManage":"1.0.1","CDevClipboard":"1.0.5","UpsideDownFoundations":"1.0.8","FicsitWiremod":"0.8.73"},"uninstall":["SML","UtilityMod","MicroManage","FicsitWiremod","NoEarlyAccess"]}
+2022-08-19 10:24:52:776	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:24:52:776	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-08-19 10:24:52:777	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-08-19 10:24:52:777	[DEBUG]	Removing FicsitWiremod from Satisfactory install
+2022-08-19 10:24:52:777	[DEBUG]	Removing NoEarlyAccess from Satisfactory install
+2022-08-19 10:24:52:798	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:24:52:798	[DEBUG]	Uninstalling SML
+2022-08-19 10:24:52:805	[DEBUG]	Copying SML to Satisfactory install
+2022-08-19 10:24:52:805	[DEBUG]	Installing SML@3.3.2
+2022-08-19 10:24:54:970	[DEBUG]	Copying UtilityMod@0.6.1 to Satisfactory install
+2022-08-19 10:24:54:970	[DEBUG]	Copying FlexSplines@1.0.9 to Satisfactory install
+2022-08-19 10:24:54:970	[DEBUG]	Copying MicroManage@1.0.1 to Satisfactory install
+2022-08-19 10:24:54:970	[DEBUG]	Copying CDevClipboard@1.0.5 to Satisfactory install
+2022-08-19 10:24:54:970	[DEBUG]	Copying UpsideDownFoundations@1.0.8 to Satisfactory install
+2022-08-19 10:24:54:970	[DEBUG]	Copying FicsitWiremod@0.8.73 to Satisfactory install
+2022-08-19 10:24:54:972	[DEBUG]	UtilityMod@0.6.1 is not downloaded. Downloading now.
+2022-08-19 10:24:54:972	[DEBUG]	FlexSplines@1.0.9 is not downloaded. Downloading now.
+2022-08-19 10:24:54:972	[DEBUG]	MicroManage@1.0.1 is not downloaded. Downloading now.
+2022-08-19 10:24:54:972	[DEBUG]	CDevClipboard@1.0.5 is not downloaded. Downloading now.
+2022-08-19 10:24:54:972	[DEBUG]	UpsideDownFoundations@1.0.8 is not downloaded. Downloading now.
+2022-08-19 10:24:54:972	[DEBUG]	FicsitWiremod@0.8.73 is not downloaded. Downloading now.
+2022-08-19 10:25:13:509	[ERROR - FRONTEND]	Error while loading profile: Game version incompatible. Installed: 188609. SML requires >=194714
+Trace
+Error: Error while loading profile: Game version incompatible. Installed: 188609. SML requires >=194714
+    at w.setProfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:48833)
+2022-08-19 10:25:15:729	[DEBUG]	Validating UtilityMod
+2022-08-19 10:25:15:922	[DEBUG]	Validating SML
+2022-08-19 10:25:15:923	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:15:923	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:114	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:114	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:25:16:114	[DEBUG]	Validating SML
+2022-08-19 10:25:16:114	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:25:16:115	[DEBUG]	Validating SML
+2022-08-19 10:25:16:115	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:25:16:117	[DEBUG]	Validating SML
+2022-08-19 10:25:16:117	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:25:16:117	[DEBUG]	Validating SML
+2022-08-19 10:25:16:117	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:25:16:117	[DEBUG]	Validating SML
+2022-08-19 10:25:16:117	[DEBUG]	Validating FlexSplines
+2022-08-19 10:25:16:118	[DEBUG]	Validating SML
+2022-08-19 10:25:16:119	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:119	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:119	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:312	[DEBUG]	Validating SML
+2022-08-19 10:25:16:313	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:313	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:313	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:313	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:25:16:314	[DEBUG]	Validating SML
+2022-08-19 10:25:16:314	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:25:16:315	[DEBUG]	Validating SML
+2022-08-19 10:25:16:315	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:25:16:315	[DEBUG]	Validating SML
+2022-08-19 10:25:16:315	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:25:16:316	[DEBUG]	Validating SML
+2022-08-19 10:25:16:316	[DEBUG]	Validating RandomStart
+2022-08-19 10:25:16:316	[DEBUG]	Validating SML
+2022-08-19 10:25:16:316	[DEBUG]	Validating NoFog
+2022-08-19 10:25:16:317	[DEBUG]	Validating SML
+2022-08-19 10:25:16:317	[DEBUG]	Validating MicroManage
+2022-08-19 10:25:16:319	[DEBUG]	Validating SML
+2022-08-19 10:25:16:319	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:319	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:319	[DEBUG]	MicroManage@1.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:510	[DEBUG]	Validating SML
+2022-08-19 10:25:16:511	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:511	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:511	[DEBUG]	MicroManage@0.9.12 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:702	[DEBUG]	Validating SML
+2022-08-19 10:25:16:703	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:703	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:703	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:703	[DEBUG]	Validating CDevClipboard
+2022-08-19 10:25:16:893	[DEBUG]	Validating SML
+2022-08-19 10:25:16:893	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:893	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:893	[DEBUG]	CDevClipboard@1.0.6 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:894	[DEBUG]	Validating SML
+2022-08-19 10:25:16:894	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:16:894	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:16:894	[DEBUG]	CDevClipboard@1.0.5 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.checkForUpdates (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:50638)
+2022-08-19 10:25:23:665	[DEBUG]	install: [], uninstall: [], enable: [], disable: [CDevClipboard], update: [UtilityMod, SML, InventorySpace2, ContainerScreen, PersonalDrones, NoNewLabel, TenTimesAwesomePoints, FlexSplines, UndergroundBelts, OrganizedCrates, ShowEnemiesHealth, AlienArtifactsPoints, RandomStart, NoFog, MicroManage, CDevClipboard, UpsideDownFoundations, FicsitWiremod]
+2022-08-19 10:25:23:667	[DEBUG]	Validating UtilityMod
+2022-08-19 10:25:23:667	[DEBUG]	Validating SML
+2022-08-19 10:25:23:668	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:668	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:668	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:668	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:25:23:668	[DEBUG]	Validating SML
+2022-08-19 10:25:23:668	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:25:23:668	[DEBUG]	Validating SML
+2022-08-19 10:25:23:668	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:25:23:668	[DEBUG]	Validating SML
+2022-08-19 10:25:23:668	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:25:23:668	[DEBUG]	Validating SML
+2022-08-19 10:25:23:668	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:25:23:669	[DEBUG]	Validating SML
+2022-08-19 10:25:23:669	[DEBUG]	Validating FlexSplines
+2022-08-19 10:25:23:669	[DEBUG]	Validating SML
+2022-08-19 10:25:23:669	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:669	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:669	[DEBUG]	FlexSplines@1.0.9 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:669	[DEBUG]	Validating SML
+2022-08-19 10:25:23:669	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:670	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:670	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:670	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:25:23:670	[DEBUG]	Validating SML
+2022-08-19 10:25:23:670	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:25:23:670	[DEBUG]	Validating SML
+2022-08-19 10:25:23:670	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:25:23:670	[DEBUG]	Validating SML
+2022-08-19 10:25:23:670	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:25:23:670	[DEBUG]	Validating SML
+2022-08-19 10:25:23:670	[DEBUG]	Validating RandomStart
+2022-08-19 10:25:23:671	[DEBUG]	Validating SML
+2022-08-19 10:25:23:671	[DEBUG]	Validating NoFog
+2022-08-19 10:25:23:671	[DEBUG]	Validating SML
+2022-08-19 10:25:23:671	[DEBUG]	Validating MicroManage
+2022-08-19 10:25:23:671	[DEBUG]	Validating SML
+2022-08-19 10:25:23:672	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:672	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:672	[DEBUG]	MicroManage@1.0.1 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:672	[DEBUG]	Validating SML
+2022-08-19 10:25:23:672	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:672	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:673	[DEBUG]	MicroManage@0.9.12 is not good: Error installing SML Trace:
+Error: Error installing SML
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25752)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:673	[DEBUG]	Validating SML
+2022-08-19 10:25:23:673	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:673	[DEBUG]	SML@3.3.2 is not good: Game version incompatible. Installed: 188609. SML requires >=194714 Trace:
+Error: Game version incompatible. Installed: 188609. SML requires >=194714
+    at f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25027)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async f.validate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:25407)
+    at async file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28711
+    at async Array.forEachAsync (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:61901)
+    at async Object.e.computeLockfile (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:28585)
+    at async w.manifestMutate (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:47965)
+2022-08-19 10:25:23:673	[DEBUG]	Validating FactoryGame
+2022-08-19 10:25:23:673	[DEBUG]	Validating UpsideDownFoundations
+2022-08-19 10:25:23:674	[DEBUG]	Validating SML
+2022-08-19 10:25:23:675	[DEBUG]	Validating FicsitWiremod
+2022-08-19 10:25:23:889	[DEBUG]	Validating SML
+2022-08-19 10:25:23:889	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:25:24:071	[DEBUG]	Validating SML
+2022-08-19 10:25:24:072	[DEBUG]	Items: {"UtilityMod":"0.6.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.8","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"0.9.11","SML":"3.3.1","UpsideDownFoundations":"1.0.8","FicsitWiremod":"0.9.26","NoEarlyAccess":"1.0.2"}
+2022-08-19 10:25:24:076	[DEBUG]	Mismatches: {"install":{"SML":"3.3.1","UtilityMod":"0.6.2","FlexSplines":"1.0.8","MicroManage":"0.9.11","FicsitWiremod":"0.9.26","NoEarlyAccess":"1.0.2"},"uninstall":["SML","UtilityMod","FlexSplines","MicroManage","FicsitWiremod","CDevClipboard"]}
+2022-08-19 10:25:24:077	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:25:24:077	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-08-19 10:25:24:077	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-08-19 10:25:24:077	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-08-19 10:25:24:077	[DEBUG]	Removing FicsitWiremod from Satisfactory install
+2022-08-19 10:25:24:077	[DEBUG]	Removing CDevClipboard from Satisfactory install
+2022-08-19 10:25:24:099	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:25:24:099	[DEBUG]	Uninstalling SML
+2022-08-19 10:25:24:105	[DEBUG]	Copying SML to Satisfactory install
+2022-08-19 10:25:24:106	[DEBUG]	Installing SML@3.3.1
+2022-08-19 10:25:24:765	[DEBUG]	Copying UtilityMod@0.6.2 to Satisfactory install
+2022-08-19 10:25:24:765	[DEBUG]	Copying FlexSplines@1.0.8 to Satisfactory install
+2022-08-19 10:25:24:765	[DEBUG]	Copying MicroManage@0.9.11 to Satisfactory install
+2022-08-19 10:25:24:765	[DEBUG]	Copying FicsitWiremod@0.9.26 to Satisfactory install
+2022-08-19 10:25:24:765	[DEBUG]	Copying NoEarlyAccess@1.0.2 to Satisfactory install
+2022-08-19 10:25:24:766	[DEBUG]	UtilityMod@0.6.2 is not downloaded. Downloading now.
+2022-08-19 10:25:24:766	[DEBUG]	FlexSplines@1.0.8 is not downloaded. Downloading now.
+2022-08-19 10:25:24:766	[DEBUG]	MicroManage@0.9.11 is not downloaded. Downloading now.
+2022-08-19 10:25:24:766	[DEBUG]	FicsitWiremod@0.9.26 is not downloaded. Downloading now.
+2022-08-19 10:25:24:767	[DEBUG]	NoEarlyAccess@1.0.2 is not downloaded. Downloading now.
+2022-08-19 10:25:29:498	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:25:29:498	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:25:29:499	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-19 10:25:29:499	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-08-19 10:25:29:499	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:25:29:500	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-08-19 10:25:32:017	[ERROR - FRONTEND]	
+2022-08-19 10:26:37:780	[INFO]	Uninstalling CDevClipboard
+2022-08-19 10:26:37:990	[DEBUG]	install: [], uninstall: [CDevClipboard], enable: [], disable: [], update: []
+2022-08-19 10:26:37:993	[DEBUG]	Validating SML
+2022-08-19 10:26:37:993	[DEBUG]	Validating FactoryGame
+2022-08-19 10:26:37:993	[DEBUG]	Validating UtilityMod
+2022-08-19 10:26:37:993	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:26:37:993	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:26:37:993	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:26:37:993	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:26:37:993	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:26:37:993	[DEBUG]	Validating FlexSplines
+2022-08-19 10:26:37:993	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:26:37:993	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:26:37:993	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:26:37:993	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:26:37:993	[DEBUG]	Validating RandomStart
+2022-08-19 10:26:37:993	[DEBUG]	Validating NoFog
+2022-08-19 10:26:37:993	[DEBUG]	Validating MicroManage
+2022-08-19 10:26:37:993	[DEBUG]	Validating UpsideDownFoundations
+2022-08-19 10:26:37:993	[DEBUG]	Validating FicsitWiremod
+2022-08-19 10:26:37:993	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:26:37:994	[DEBUG]	Items: {"UtilityMod":"0.6.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.8","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"0.9.11","SML":"3.3.1","UpsideDownFoundations":"1.0.8","FicsitWiremod":"0.9.26","NoEarlyAccess":"1.0.2"}
+2022-08-19 10:26:37:999	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-08-19 10:26:38:007	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:38:007	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:26:38:008	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:38:009	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:38:010	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-08-19 10:26:53:822	[INFO]	Uninstalling FicsitWiremod
+2022-08-19 10:26:54:024	[DEBUG]	install: [], uninstall: [FicsitWiremod], enable: [], disable: [], update: []
+2022-08-19 10:26:54:026	[DEBUG]	Validating SML
+2022-08-19 10:26:54:026	[DEBUG]	Validating FactoryGame
+2022-08-19 10:26:54:027	[DEBUG]	Validating UtilityMod
+2022-08-19 10:26:54:027	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:26:54:027	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:26:54:027	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:26:54:027	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:26:54:027	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:26:54:027	[DEBUG]	Validating FlexSplines
+2022-08-19 10:26:54:027	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:26:54:027	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:26:54:027	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:26:54:027	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:26:54:027	[DEBUG]	Validating RandomStart
+2022-08-19 10:26:54:027	[DEBUG]	Validating NoFog
+2022-08-19 10:26:54:027	[DEBUG]	Validating MicroManage
+2022-08-19 10:26:54:027	[DEBUG]	Validating UpsideDownFoundations
+2022-08-19 10:26:54:027	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:26:54:027	[DEBUG]	Items: {"UtilityMod":"0.6.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.8","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"0.9.11","SML":"3.3.1","UpsideDownFoundations":"1.0.8","NoEarlyAccess":"1.0.2"}
+2022-08-19 10:26:54:032	[DEBUG]	Mismatches: {"install":{},"uninstall":["FicsitWiremod"]}
+2022-08-19 10:26:54:032	[DEBUG]	Removing FicsitWiremod from Satisfactory install
+2022-08-19 10:26:54:047	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:54:047	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:26:54:047	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:26:54:048	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-08-19 10:27:08:829	[INFO]	Uninstalling UpsideDownFoundations
+2022-08-19 10:27:09:029	[DEBUG]	install: [], uninstall: [UpsideDownFoundations], enable: [], disable: [], update: []
+2022-08-19 10:27:09:031	[DEBUG]	Validating SML
+2022-08-19 10:27:09:031	[DEBUG]	Validating FactoryGame
+2022-08-19 10:27:09:031	[DEBUG]	Validating UtilityMod
+2022-08-19 10:27:09:031	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:27:09:031	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:27:09:032	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:27:09:032	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:27:09:032	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:27:09:032	[DEBUG]	Validating FlexSplines
+2022-08-19 10:27:09:032	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:27:09:032	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:27:09:032	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:27:09:032	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:27:09:032	[DEBUG]	Validating RandomStart
+2022-08-19 10:27:09:032	[DEBUG]	Validating NoFog
+2022-08-19 10:27:09:032	[DEBUG]	Validating MicroManage
+2022-08-19 10:27:09:032	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:27:09:032	[DEBUG]	Items: {"UtilityMod":"0.6.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.8","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"0.9.11","SML":"3.3.1","NoEarlyAccess":"1.0.2"}
+2022-08-19 10:27:09:037	[DEBUG]	Mismatches: {"install":{},"uninstall":["UpsideDownFoundations"]}
+2022-08-19 10:27:09:037	[DEBUG]	Removing UpsideDownFoundations from Satisfactory install
+2022-08-19 10:27:09:052	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:27:09:052	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:27:09:053	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:27:09:054	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-08-19 10:40:32:272	[DEBUG]	Loading mod cache
+2022-08-19 10:40:32:748	[DEBUG]	Loading mod cache
+2022-08-19 10:40:32:792	[DEBUG]	Epic Games Launcher is not installed
+2022-08-19 10:40:33:116	[DEBUG]	Setting profile to Off-e6
+2022-08-19 10:40:33:293	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-08-19 10:40:33:866	[DEBUG]	Validating UtilityMod
+2022-08-19 10:40:34:256	[DEBUG]	Validating SML
+2022-08-19 10:40:35:084	[DEBUG]	Validating FactoryGame
+2022-08-19 10:40:35:085	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:40:35:472	[DEBUG]	Validating SML
+2022-08-19 10:40:35:472	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:40:35:847	[DEBUG]	Validating SML
+2022-08-19 10:40:35:847	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:40:36:247	[DEBUG]	Validating SML
+2022-08-19 10:40:36:247	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:40:36:648	[DEBUG]	Validating SML
+2022-08-19 10:40:36:648	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:40:37:037	[DEBUG]	Validating SML
+2022-08-19 10:40:37:038	[DEBUG]	Validating FlexSplines
+2022-08-19 10:40:37:426	[DEBUG]	Validating SML
+2022-08-19 10:40:37:426	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:40:37:808	[DEBUG]	Validating SML
+2022-08-19 10:40:37:808	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:40:38:180	[DEBUG]	Validating SML
+2022-08-19 10:40:38:181	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:40:38:594	[DEBUG]	Validating SML
+2022-08-19 10:40:38:594	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:40:38:968	[DEBUG]	Validating SML
+2022-08-19 10:40:38:968	[DEBUG]	Validating RandomStart
+2022-08-19 10:40:39:351	[DEBUG]	Validating SML
+2022-08-19 10:40:39:351	[DEBUG]	Validating NoFog
+2022-08-19 10:40:39:724	[DEBUG]	Validating SML
+2022-08-19 10:40:39:724	[DEBUG]	Validating MicroManage
+2022-08-19 10:40:40:238	[DEBUG]	Validating SML
+2022-08-19 10:40:40:239	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:40:40:630	[DEBUG]	Validating SML
+2022-08-19 10:40:40:631	[DEBUG]	Items: {"UtilityMod":"0.6.2","SML":"3.3.2","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","FlexSplines":"1.0.9","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","NoFog":"2.0.0","MicroManage":"1.0.1","NoEarlyAccess":"1.0.2"}
+2022-08-19 10:40:40:636	[DEBUG]	Mismatches: {"install":{"SML":"3.3.2","FlexSplines":"1.0.9","MicroManage":"1.0.1"},"uninstall":["SML","FlexSplines","MicroManage"]}
+2022-08-19 10:40:40:636	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:40:40:636	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-08-19 10:40:40:636	[DEBUG]	Removing MicroManage from Satisfactory install
+2022-08-19 10:40:40:646	[DEBUG]	Removing SML from Satisfactory install
+2022-08-19 10:40:40:646	[DEBUG]	Uninstalling SML
+2022-08-19 10:40:40:650	[DEBUG]	Copying SML to Satisfactory install
+2022-08-19 10:40:40:650	[DEBUG]	Installing SML@3.3.2
+2022-08-19 10:40:41:231	[DEBUG]	Copying FlexSplines@1.0.9 to Satisfactory install
+2022-08-19 10:40:41:231	[DEBUG]	Copying MicroManage@1.0.1 to Satisfactory install
+2022-08-19 10:40:41:906	[INFO]	Mod AlienArtifactsPoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:40:41:907	[INFO]	Mod ContainerScreen@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:40:41:907	[INFO]	Mod InventorySpace2@2.0.1 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod NoFog@2.0.0 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod NoNewLabel@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod OrganizedCrates@2.0.3 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod PersonalDrones@1.0.11 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod RandomStart@1.0.0 not found in cache when setting as in use.
+2022-08-19 10:40:41:908	[INFO]	Mod ShowEnemiesHealth@1.0.2 not found in cache when setting as in use.
+2022-08-19 10:40:41:909	[INFO]	Mod TenTimesAwesomePoints@1.0.1 not found in cache when setting as in use.
+2022-08-19 10:40:41:909	[INFO]	Mod UndergroundBelts@3.0.7 not found in cache when setting as in use.
+2022-08-19 10:40:43:761	[DEBUG]	Validating UtilityMod
+2022-08-19 10:40:43:761	[DEBUG]	Validating SML
+2022-08-19 10:40:43:761	[DEBUG]	Validating FactoryGame
+2022-08-19 10:40:43:761	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:40:43:761	[DEBUG]	Validating SML
+2022-08-19 10:40:43:761	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:40:43:761	[DEBUG]	Validating SML
+2022-08-19 10:40:43:761	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating FlexSplines
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:762	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:40:43:762	[DEBUG]	Validating SML
+2022-08-19 10:40:43:763	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:40:43:763	[DEBUG]	Validating SML
+2022-08-19 10:40:43:763	[DEBUG]	Validating RandomStart
+2022-08-19 10:40:43:763	[DEBUG]	Validating SML
+2022-08-19 10:40:43:763	[DEBUG]	Validating NoFog
+2022-08-19 10:40:43:763	[DEBUG]	Validating SML
+2022-08-19 10:40:43:763	[DEBUG]	Validating MicroManage
+2022-08-19 10:40:43:763	[DEBUG]	Validating SML
+2022-08-19 10:40:43:763	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:40:43:763	[DEBUG]	Validating SML
+2022-08-19 10:40:56:130	[DEBUG]	Validating UtilityMod
+2022-08-19 10:40:56:130	[DEBUG]	Validating SML
+2022-08-19 10:40:56:130	[DEBUG]	Validating FactoryGame
+2022-08-19 10:40:56:130	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:131	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:131	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:131	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:131	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:131	[DEBUG]	Validating FlexSplines
+2022-08-19 10:40:56:131	[DEBUG]	Validating SML
+2022-08-19 10:40:56:132	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:40:56:132	[DEBUG]	Validating SML
+2022-08-19 10:40:56:132	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:40:56:132	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:40:56:133	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:40:56:133	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating RandomStart
+2022-08-19 10:40:56:133	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating NoFog
+2022-08-19 10:40:56:133	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating MicroManage
+2022-08-19 10:40:56:133	[DEBUG]	Validating SML
+2022-08-19 10:40:56:133	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:40:56:134	[DEBUG]	Validating SML
+2022-08-19 10:45:58:235	[DEBUG]	Validating UtilityMod
+2022-08-19 10:45:58:236	[DEBUG]	Validating SML
+2022-08-19 10:45:58:236	[DEBUG]	Validating FactoryGame
+2022-08-19 10:45:58:236	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:45:58:236	[DEBUG]	Validating SML
+2022-08-19 10:45:58:236	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:45:58:236	[DEBUG]	Validating SML
+2022-08-19 10:45:58:236	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:45:58:236	[DEBUG]	Validating SML
+2022-08-19 10:45:58:236	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:45:58:236	[DEBUG]	Validating SML
+2022-08-19 10:45:58:236	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating FlexSplines
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:45:58:237	[DEBUG]	Validating SML
+2022-08-19 10:45:58:237	[DEBUG]	Validating RandomStart
+2022-08-19 10:45:58:238	[DEBUG]	Validating SML
+2022-08-19 10:45:58:238	[DEBUG]	Validating NoFog
+2022-08-19 10:45:58:238	[DEBUG]	Validating SML
+2022-08-19 10:45:58:238	[DEBUG]	Validating MicroManage
+2022-08-19 10:45:58:239	[DEBUG]	Validating SML
+2022-08-19 10:45:58:239	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:45:58:239	[DEBUG]	Validating SML
+2022-08-19 10:50:59:450	[DEBUG]	Validating UtilityMod
+2022-08-19 10:50:59:451	[DEBUG]	Validating SML
+2022-08-19 10:50:59:451	[DEBUG]	Validating FactoryGame
+2022-08-19 10:50:59:451	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:50:59:451	[DEBUG]	Validating SML
+2022-08-19 10:50:59:451	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:50:59:451	[DEBUG]	Validating SML
+2022-08-19 10:50:59:451	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:50:59:451	[DEBUG]	Validating SML
+2022-08-19 10:50:59:451	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating FlexSplines
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:452	[DEBUG]	Validating RandomStart
+2022-08-19 10:50:59:452	[DEBUG]	Validating SML
+2022-08-19 10:50:59:453	[DEBUG]	Validating NoFog
+2022-08-19 10:50:59:453	[DEBUG]	Validating SML
+2022-08-19 10:50:59:453	[DEBUG]	Validating MicroManage
+2022-08-19 10:50:59:453	[DEBUG]	Validating SML
+2022-08-19 10:50:59:453	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:50:59:453	[DEBUG]	Validating SML
+2022-08-19 10:56:00:800	[DEBUG]	Validating UtilityMod
+2022-08-19 10:56:00:800	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating FactoryGame
+2022-08-19 10:56:00:801	[DEBUG]	Validating InventorySpace2
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating ContainerScreen
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating PersonalDrones
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating NoNewLabel
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating FlexSplines
+2022-08-19 10:56:00:801	[DEBUG]	Validating SML
+2022-08-19 10:56:00:801	[DEBUG]	Validating UndergroundBelts
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating OrganizedCrates
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating RandomStart
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating NoFog
+2022-08-19 10:56:00:802	[DEBUG]	Validating SML
+2022-08-19 10:56:00:802	[DEBUG]	Validating MicroManage
+2022-08-19 10:56:00:803	[DEBUG]	Validating SML
+2022-08-19 10:56:00:803	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 10:56:00:803	[DEBUG]	Validating SML
+2022-08-19 11:01:02:504	[DEBUG]	Validating UtilityMod
+2022-08-19 11:01:02:504	[DEBUG]	Validating SML
+2022-08-19 11:01:02:504	[DEBUG]	Validating FactoryGame
+2022-08-19 11:01:02:504	[DEBUG]	Validating InventorySpace2
+2022-08-19 11:01:02:504	[DEBUG]	Validating SML
+2022-08-19 11:01:02:504	[DEBUG]	Validating ContainerScreen
+2022-08-19 11:01:02:504	[DEBUG]	Validating SML
+2022-08-19 11:01:02:504	[DEBUG]	Validating PersonalDrones
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:505	[DEBUG]	Validating NoNewLabel
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:505	[DEBUG]	Validating TenTimesAwesomePoints
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:505	[DEBUG]	Validating FlexSplines
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:505	[DEBUG]	Validating UndergroundBelts
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:505	[DEBUG]	Validating OrganizedCrates
+2022-08-19 11:01:02:505	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating ShowEnemiesHealth
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating AlienArtifactsPoints
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating RandomStart
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating NoFog
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating MicroManage
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML
+2022-08-19 11:01:02:506	[DEBUG]	Validating NoEarlyAccess
+2022-08-19 11:01:02:506	[DEBUG]	Validating SML

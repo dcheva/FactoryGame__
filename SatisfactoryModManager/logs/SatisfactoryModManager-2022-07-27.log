@@ -1,0 +1,104 @@
+2022-07-27 21:41:47:366	[DEBUG]	Loading mod cache
+2022-07-27 21:41:47:822	[DEBUG]	Loading mod cache
+2022-07-27 21:41:47:874	[DEBUG]	Epic Games Launcher is not installed
+2022-07-27 21:41:47:935	[ERROR - FRONTEND]	No Satisfactory installs found.
+Trace
+Error: No Satisfactory installs found.
+    at file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:197:1789745
+    at c (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2810695)
+    at Generator._invoke (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2810483)
+    at Generator.next (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2811124)
+    at e (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2034310)
+    at s (file:///C:/Users/dmytr/AppData/Local/Programs/Satisfactory%20Mod%20Manager/resources/app.asar/dist/electron/renderer.js:2:2034521)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-07-27 22:09:00:512	[DEBUG]	Loading mod cache
+2022-07-27 22:09:01:012	[DEBUG]	Loading mod cache
+2022-07-27 22:09:01:080	[DEBUG]	Epic Games Launcher is not installed
+2022-07-27 22:09:01:447	[DEBUG]	Setting profile to Experimental 6
+2022-07-27 22:09:01:628	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-07-27 22:09:02:717	[DEBUG]	Validating SML
+2022-07-27 22:09:02:718	[DEBUG]	Validating FactoryGame
+2022-07-27 22:09:02:718	[DEBUG]	Validating UtilityMod
+2022-07-27 22:09:02:718	[DEBUG]	Validating InventorySpace2
+2022-07-27 22:09:02:718	[DEBUG]	Validating ContainerScreen
+2022-07-27 22:09:02:718	[DEBUG]	Validating PersonalDrones
+2022-07-27 22:09:02:718	[DEBUG]	Validating NoNewLabel
+2022-07-27 22:09:02:718	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-27 22:09:02:718	[DEBUG]	Validating NoEarlyAccess
+2022-07-27 22:09:02:718	[DEBUG]	Validating FlexSplines
+2022-07-27 22:09:02:718	[DEBUG]	Validating UndergroundBelts
+2022-07-27 22:09:02:718	[DEBUG]	Validating SpySat
+2022-07-27 22:09:02:718	[DEBUG]	Validating IconSign
+2022-07-27 22:09:02:718	[DEBUG]	Validating LaserBeacons
+2022-07-27 22:09:02:718	[DEBUG]	Validating OrganizedCrates
+2022-07-27 22:09:02:718	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-27 22:09:02:719	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-27 22:09:02:719	[DEBUG]	Validating RandomStart
+2022-07-27 22:09:02:719	[DEBUG]	Validating SmartFoundations
+2022-07-27 22:09:02:719	[DEBUG]	Items: {"UtilityMod":"0.5.4","InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SML":"3.3.2","FlexSplines":"1.0.7","SmartFoundations":"18.0.1"}
+2022-07-27 22:09:02:735	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-07-27 22:09:05:698	[DEBUG]	Validating UtilityMod
+2022-07-27 22:09:05:908	[DEBUG]	Validating SML
+2022-07-27 22:09:05:909	[DEBUG]	Validating FactoryGame
+2022-07-27 22:09:05:909	[DEBUG]	Validating InventorySpace2
+2022-07-27 22:09:05:910	[DEBUG]	Validating SML
+2022-07-27 22:09:05:910	[DEBUG]	Validating ContainerScreen
+2022-07-27 22:09:05:911	[DEBUG]	Validating SML
+2022-07-27 22:09:05:911	[DEBUG]	Validating PersonalDrones
+2022-07-27 22:09:05:912	[DEBUG]	Validating SML
+2022-07-27 22:09:05:912	[DEBUG]	Validating NoNewLabel
+2022-07-27 22:09:05:912	[DEBUG]	Validating SML
+2022-07-27 22:09:05:912	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-27 22:09:05:913	[DEBUG]	Validating SML
+2022-07-27 22:09:05:913	[DEBUG]	Validating NoEarlyAccess
+2022-07-27 22:09:05:913	[DEBUG]	Validating SML
+2022-07-27 22:09:05:913	[DEBUG]	Validating FlexSplines
+2022-07-27 22:09:06:166	[DEBUG]	Validating SML
+2022-07-27 22:09:06:166	[DEBUG]	Validating UndergroundBelts
+2022-07-27 22:09:06:169	[DEBUG]	Validating SML
+2022-07-27 22:09:06:169	[DEBUG]	Validating SpySat
+2022-07-27 22:09:06:171	[DEBUG]	Validating SML
+2022-07-27 22:09:06:171	[DEBUG]	Validating IconSign
+2022-07-27 22:09:06:173	[DEBUG]	Validating SML
+2022-07-27 22:09:06:173	[DEBUG]	Validating LaserBeacons
+2022-07-27 22:09:06:174	[DEBUG]	Validating SML
+2022-07-27 22:09:06:174	[DEBUG]	Validating OrganizedCrates
+2022-07-27 22:09:06:175	[DEBUG]	Validating SML
+2022-07-27 22:09:06:176	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-27 22:09:06:177	[DEBUG]	Validating SML
+2022-07-27 22:09:06:177	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-27 22:09:06:178	[DEBUG]	Validating SML
+2022-07-27 22:09:06:178	[DEBUG]	Validating RandomStart
+2022-07-27 22:09:06:178	[DEBUG]	Validating SML
+2022-07-27 22:09:06:178	[DEBUG]	Validating SmartFoundations
+2022-07-27 22:09:06:182	[DEBUG]	Validating SML
+2022-07-27 22:09:29:264	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: [UtilityMod, FlexSplines]
+2022-07-27 22:09:29:267	[DEBUG]	Validating SML
+2022-07-27 22:09:29:267	[DEBUG]	Validating FactoryGame
+2022-07-27 22:09:29:267	[DEBUG]	Validating UtilityMod
+2022-07-27 22:09:29:267	[DEBUG]	Validating SML
+2022-07-27 22:09:29:267	[DEBUG]	Validating InventorySpace2
+2022-07-27 22:09:29:267	[DEBUG]	Validating ContainerScreen
+2022-07-27 22:09:29:267	[DEBUG]	Validating PersonalDrones
+2022-07-27 22:09:29:267	[DEBUG]	Validating NoNewLabel
+2022-07-27 22:09:29:267	[DEBUG]	Validating TenTimesAwesomePoints
+2022-07-27 22:09:29:267	[DEBUG]	Validating NoEarlyAccess
+2022-07-27 22:09:29:268	[DEBUG]	Validating FlexSplines
+2022-07-27 22:09:29:268	[DEBUG]	Validating SML
+2022-07-27 22:09:29:268	[DEBUG]	Validating UndergroundBelts
+2022-07-27 22:09:29:268	[DEBUG]	Validating SpySat
+2022-07-27 22:09:29:268	[DEBUG]	Validating IconSign
+2022-07-27 22:09:29:268	[DEBUG]	Validating LaserBeacons
+2022-07-27 22:09:29:268	[DEBUG]	Validating OrganizedCrates
+2022-07-27 22:09:29:268	[DEBUG]	Validating ShowEnemiesHealth
+2022-07-27 22:09:29:268	[DEBUG]	Validating AlienArtifactsPoints
+2022-07-27 22:09:29:268	[DEBUG]	Validating RandomStart
+2022-07-27 22:09:29:268	[DEBUG]	Validating SmartFoundations
+2022-07-27 22:09:29:268	[DEBUG]	Items: {"InventorySpace2":"2.0.1","ContainerScreen":"1.0.11","PersonalDrones":"1.0.11","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","NoEarlyAccess":"1.0.2","UndergroundBelts":"3.0.7","SpySat":"1.0.4","IconSign":"1.0.5","LaserBeacons":"1.0.4","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","RandomStart":"1.0.0","SML":"3.3.2","SmartFoundations":"18.0.1","UtilityMod":"0.6.0","FlexSplines":"1.0.9"}
+2022-07-27 22:09:29:273	[DEBUG]	Mismatches: {"install":{"UtilityMod":"0.6.0","FlexSplines":"1.0.9"},"uninstall":["UtilityMod","FlexSplines"]}
+2022-07-27 22:09:29:273	[DEBUG]	Removing UtilityMod from Satisfactory install
+2022-07-27 22:09:29:273	[DEBUG]	Removing FlexSplines from Satisfactory install
+2022-07-27 22:09:29:284	[DEBUG]	Copying UtilityMod@0.6.0 to Satisfactory install
+2022-07-27 22:09:29:285	[DEBUG]	Copying FlexSplines@1.0.9 to Satisfactory install
+2022-07-27 22:09:29:285	[DEBUG]	UtilityMod@0.6.0 is not downloaded. Downloading now.
+2022-07-27 22:09:29:285	[DEBUG]	FlexSplines@1.0.9 is not downloaded. Downloading now.
