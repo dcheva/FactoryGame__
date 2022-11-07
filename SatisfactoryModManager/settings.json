@@ -1,7 +1,7 @@
 {
     "filters": {
         "modFilters": "Installed",
-        "sortBy": "Hotness"
+        "sortBy": "Last updated"
     },
     "windowLocation": {
         "x": 123,
