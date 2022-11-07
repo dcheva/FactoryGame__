@@ -4,10 +4,12 @@
         "sortBy": "Last updated"
     },
     "windowLocation": {
-        "x": 654,
-        "y": 115
+        "x": 123,
+        "y": 49
     },
     "selectedProfile": {
-        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "dcheva.30"
-    }
+        "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Off-e6",
+        "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Off-e6"
+    },
+    "favoriteMods": []
 }
