@@ -542,3 +542,235 @@ Error: Satisfactory is running. Please close it and wait until it fully shuts do
 2022-11-08 01:56:15:477	[DEBUG]	Validating SML
 2022-11-08 01:56:15:477	[DEBUG]	Validating RoadSplineTool
 2022-11-08 01:56:15:478	[DEBUG]	Validating SML
+2022-11-08 23:56:25:752	[DEBUG]	Loading mod cache
+2022-11-08 23:56:26:303	[DEBUG]	Loading mod cache
+2022-11-08 23:56:26:359	[DEBUG]	Epic Games Launcher is not installed
+2022-11-08 23:56:26:705	[DEBUG]	Setting profile to Arc
+2022-11-08 23:56:26:898	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-11-08 23:56:34:681	[DEBUG]	Validating SML
+2022-11-08 23:56:34:682	[DEBUG]	Validating FactoryGame
+2022-11-08 23:56:34:682	[DEBUG]	Validating EquipmentAutomation
+2022-11-08 23:56:34:682	[DEBUG]	Validating UtilityMod
+2022-11-08 23:56:34:682	[DEBUG]	Validating InventorySpace2
+2022-11-08 23:56:34:682	[DEBUG]	Validating PersonalDrones
+2022-11-08 23:56:34:682	[DEBUG]	Validating NoNewLabel
+2022-11-08 23:56:34:682	[DEBUG]	Validating TenTimesAwesomePoints
+2022-11-08 23:56:34:682	[DEBUG]	Validating UndergroundBelts
+2022-11-08 23:56:34:682	[DEBUG]	Validating OrganizedCrates
+2022-11-08 23:56:34:682	[DEBUG]	Validating ShowEnemiesHealth
+2022-11-08 23:56:34:682	[DEBUG]	Validating AlienArtifactsPoints
+2022-11-08 23:56:34:682	[DEBUG]	Validating MicroManage
+2022-11-08 23:56:34:682	[DEBUG]	Validating NoEarlyAccess
+2022-11-08 23:56:34:682	[DEBUG]	Validating CloneMurder
+2022-11-08 23:56:34:682	[DEBUG]	Validating SatisfactoryHelper
+2022-11-08 23:56:34:682	[DEBUG]	Validating FicsitDeskJob
+2022-11-08 23:56:34:682	[DEBUG]	Validating FlashlightSettings
+2022-11-08 23:56:34:683	[DEBUG]	Validating EquipmentAutomationPlus
+2022-11-08 23:56:34:683	[DEBUG]	Validating ContainerScreen
+2022-11-08 23:56:34:683	[DEBUG]	Validating StackOverload
+2022-11-08 23:56:34:683	[DEBUG]	Validating RandomStart
+2022-11-08 23:56:34:683	[DEBUG]	Validating DeepMining
+2022-11-08 23:56:34:683	[DEBUG]	Validating NoFog
+2022-11-08 23:56:34:683	[DEBUG]	Validating RoadSplineTool
+2022-11-08 23:56:34:683	[DEBUG]	Items: {"UtilityMod":"0.7.0","SML":"3.4.0","InventorySpace2":"2.0.1","PersonalDrones":"1.0.12","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","MicroManage":"1.0.4","NoEarlyAccess":"1.0.2","CloneMurder":"1.0.0","SatisfactoryHelper":"2.0.4","FicsitDeskJob":"1.0.0","FlashlightSettings":"1.0.1","EquipmentAutomationPlus":"2.1.0","EquipmentAutomation":"2.1.0","ContainerScreen":"1.0.14","StackOverload":"2.0.5","RandomStart":"1.0.1","DeepMining":"2.0.1","NoFog":"2.0.0","RoadSplineTool":"1.0.4"}
+2022-11-08 23:56:34:708	[DEBUG]	Mismatches: {"install":{},"uninstall":[]}
+2022-11-08 23:56:37:483	[DEBUG]	Validating UtilityMod
+2022-11-08 23:56:37:485	[DEBUG]	Validating SML
+2022-11-08 23:56:37:485	[DEBUG]	Validating FactoryGame
+2022-11-08 23:56:37:485	[DEBUG]	Validating InventorySpace2
+2022-11-08 23:56:37:488	[DEBUG]	Validating SML
+2022-11-08 23:56:37:488	[DEBUG]	Validating PersonalDrones
+2022-11-08 23:56:37:489	[DEBUG]	Validating SML
+2022-11-08 23:56:37:489	[DEBUG]	Validating NoNewLabel
+2022-11-08 23:56:37:490	[DEBUG]	Validating SML
+2022-11-08 23:56:37:490	[DEBUG]	Validating TenTimesAwesomePoints
+2022-11-08 23:56:37:490	[DEBUG]	Validating SML
+2022-11-08 23:56:37:490	[DEBUG]	Validating UndergroundBelts
+2022-11-08 23:56:37:492	[DEBUG]	Validating SML
+2022-11-08 23:56:37:492	[DEBUG]	Validating OrganizedCrates
+2022-11-08 23:56:37:492	[DEBUG]	Validating SML
+2022-11-08 23:56:37:493	[DEBUG]	Validating ShowEnemiesHealth
+2022-11-08 23:56:37:493	[DEBUG]	Validating SML
+2022-11-08 23:56:37:493	[DEBUG]	Validating AlienArtifactsPoints
+2022-11-08 23:56:37:494	[DEBUG]	Validating SML
+2022-11-08 23:56:37:494	[DEBUG]	Validating MicroManage
+2022-11-08 23:56:37:497	[DEBUG]	Validating SML
+2022-11-08 23:56:37:497	[DEBUG]	Validating NoEarlyAccess
+2022-11-08 23:56:37:497	[DEBUG]	Validating SML
+2022-11-08 23:56:37:497	[DEBUG]	Validating CloneMurder
+2022-11-08 23:56:37:498	[DEBUG]	Validating SML
+2022-11-08 23:56:37:498	[DEBUG]	Validating SatisfactoryHelper
+2022-11-08 23:56:37:499	[DEBUG]	Validating SML
+2022-11-08 23:56:37:499	[DEBUG]	Validating FicsitDeskJob
+2022-11-08 23:56:37:500	[DEBUG]	Validating SML
+2022-11-08 23:56:37:500	[DEBUG]	Validating FlashlightSettings
+2022-11-08 23:56:37:501	[DEBUG]	Validating SML
+2022-11-08 23:56:37:501	[DEBUG]	Validating EquipmentAutomationPlus
+2022-11-08 23:56:37:502	[DEBUG]	Validating SML
+2022-11-08 23:56:37:503	[DEBUG]	Validating EquipmentAutomation
+2022-11-08 23:56:37:504	[DEBUG]	Validating SML
+2022-11-08 23:56:37:504	[DEBUG]	Validating ContainerScreen
+2022-11-08 23:56:37:506	[DEBUG]	Validating SML
+2022-11-08 23:56:37:506	[DEBUG]	Validating StackOverload
+2022-11-08 23:56:37:507	[DEBUG]	Validating SML
+2022-11-08 23:56:37:508	[DEBUG]	Validating RandomStart
+2022-11-08 23:56:37:508	[DEBUG]	Validating SML
+2022-11-08 23:56:37:509	[DEBUG]	Validating DeepMining
+2022-11-08 23:56:37:509	[DEBUG]	Validating SML
+2022-11-08 23:56:37:510	[DEBUG]	Validating NoFog
+2022-11-08 23:56:37:510	[DEBUG]	Validating SML
+2022-11-08 23:56:37:510	[DEBUG]	Validating RoadSplineTool
+2022-11-08 23:56:37:511	[DEBUG]	Validating SML
+2022-11-08 23:56:43:957	[DEBUG]	Setting profile to Plus
+2022-11-08 23:56:44:214	[DEBUG]	install: [], uninstall: [], enable: [], disable: [], update: []
+2022-11-08 23:56:44:622	[DEBUG]	Validating SML
+2022-11-08 23:56:44:624	[DEBUG]	Validating FactoryGame
+2022-11-08 23:56:44:625	[DEBUG]	Validating RefinedRDLib
+2022-11-08 23:56:44:625	[DEBUG]	Validating ModularUI
+2022-11-08 23:56:44:625	[DEBUG]	Validating FicsitFarming
+2022-11-08 23:56:44:625	[DEBUG]	Validating AB_FluidExtras
+2022-11-08 23:56:44:625	[DEBUG]	Validating KLib
+2022-11-08 23:56:44:625	[DEBUG]	Validating RefinedPower
+2022-11-08 23:56:44:625	[DEBUG]	Validating KPrivateCodeLib
+2022-11-08 23:56:44:625	[DEBUG]	Validating KBFL
+2022-11-08 23:56:44:625	[DEBUG]	Validating KUI
+2022-11-08 23:56:44:625	[DEBUG]	Validating UtilityMod
+2022-11-08 23:56:44:625	[DEBUG]	Validating InventorySpace2
+2022-11-08 23:56:44:625	[DEBUG]	Validating PersonalDrones
+2022-11-08 23:56:44:625	[DEBUG]	Validating NoNewLabel
+2022-11-08 23:56:44:625	[DEBUG]	Validating TenTimesAwesomePoints
+2022-11-08 23:56:44:625	[DEBUG]	Validating UndergroundBelts
+2022-11-08 23:56:44:625	[DEBUG]	Validating OrganizedCrates
+2022-11-08 23:56:44:625	[DEBUG]	Validating ShowEnemiesHealth
+2022-11-08 23:56:44:625	[DEBUG]	Validating AlienArtifactsPoints
+2022-11-08 23:56:44:626	[DEBUG]	Validating MicroManage
+2022-11-08 23:56:44:626	[DEBUG]	Validating NoEarlyAccess
+2022-11-08 23:56:44:626	[DEBUG]	Validating CloneMurder
+2022-11-08 23:56:44:626	[DEBUG]	Validating SatisfactoryHelper
+2022-11-08 23:56:44:626	[DEBUG]	Validating FicsitDeskJob
+2022-11-08 23:56:44:626	[DEBUG]	Validating FlashlightSettings
+2022-11-08 23:56:44:626	[DEBUG]	Validating ContainerScreen
+2022-11-08 23:56:44:626	[DEBUG]	Validating StackOverload
+2022-11-08 23:56:44:626	[DEBUG]	Validating DeepMining
+2022-11-08 23:56:44:626	[DEBUG]	Validating NoFog
+2022-11-08 23:56:44:626	[DEBUG]	Validating SatisfactoryPlus
+2022-11-08 23:56:44:626	[DEBUG]	Validating SmartFoundations
+2022-11-08 23:56:44:626	[DEBUG]	Validating LoadBalancers
+2022-11-08 23:56:44:626	[DEBUG]	Validating SS_Mod
+2022-11-08 23:56:44:626	[DEBUG]	Validating FasterManualCraftingRedux
+2022-11-08 23:56:44:626	[DEBUG]	Validating Haven
+2022-11-08 23:56:44:626	[DEBUG]	Validating UniqueTurbine
+2022-11-08 23:56:44:626	[DEBUG]	Validating LinearMotion
+2022-11-08 23:56:44:626	[DEBUG]	Validating PermaDay
+2022-11-08 23:56:44:626	[DEBUG]	Validating AdvancedLogistics
+2022-11-08 23:56:44:626	[DEBUG]	Validating CDevClipboard
+2022-11-08 23:56:44:627	[DEBUG]	Items: {"UtilityMod":"0.7.0","SML":"3.4.0","InventorySpace2":"2.0.1","PersonalDrones":"1.0.12","NoNewLabel":"1.0.0","TenTimesAwesomePoints":"1.0.1","UndergroundBelts":"3.0.7","OrganizedCrates":"2.0.3","ShowEnemiesHealth":"1.0.2","AlienArtifactsPoints":"1.0.1","MicroManage":"1.0.4","NoEarlyAccess":"1.0.2","CloneMurder":"1.0.0","SatisfactoryHelper":"2.0.4","FicsitDeskJob":"1.0.0","FlashlightSettings":"1.0.1","ContainerScreen":"1.0.14","StackOverload":"2.0.5","DeepMining":"2.0.1","NoFog":"2.0.0","SatisfactoryPlus":"0.8.1","RefinedRDLib":"1.0.11","ModularUI":"2.0.10","FicsitFarming":"4.1.2","AB_FluidExtras":"0.8.2","KLib":"2.2.2","KPrivateCodeLib":"1.5.1","KBFL":"1.14.1","KUI":"1.6.0","RefinedPower":"3.1.4","SmartFoundations":"20.0.558","LoadBalancers":"1.5.8","SS_Mod":"1.1.14","FasterManualCraftingRedux":"2.0.0","UniqueTurbine":"1.0.2","LinearMotion":"2.0.20","PermaDay":"1.0.2","AdvancedLogistics":"0.3.6","CDevClipboard":"1.0.8","Haven":"2.0.4"}
+2022-11-08 23:56:44:634	[DEBUG]	Mismatches: {"install":{"SatisfactoryPlus":"0.8.1","RefinedRDLib":"1.0.11","ModularUI":"2.0.10","FicsitFarming":"4.1.2","AB_FluidExtras":"0.8.2","KLib":"2.2.2","KPrivateCodeLib":"1.5.1","KBFL":"1.14.1","KUI":"1.6.0","RefinedPower":"3.1.4","SmartFoundations":"20.0.558","LoadBalancers":"1.5.8","SS_Mod":"1.1.14","FasterManualCraftingRedux":"2.0.0","UniqueTurbine":"1.0.2","LinearMotion":"2.0.20","PermaDay":"1.0.2","AdvancedLogistics":"0.3.6","CDevClipboard":"1.0.8","Haven":"2.0.4"},"uninstall":["EquipmentAutomation","EquipmentAutomationPlus","RandomStart","RoadSplineTool"]}
+2022-11-08 23:56:44:634	[DEBUG]	Removing EquipmentAutomation from Satisfactory install
+2022-11-08 23:56:44:634	[DEBUG]	Removing EquipmentAutomationPlus from Satisfactory install
+2022-11-08 23:56:44:634	[DEBUG]	Removing RandomStart from Satisfactory install
+2022-11-08 23:56:44:634	[DEBUG]	Removing RoadSplineTool from Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying SatisfactoryPlus@0.8.1 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying RefinedRDLib@1.0.11 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying ModularUI@2.0.10 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying FicsitFarming@4.1.2 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying AB_FluidExtras@0.8.2 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying KLib@2.2.2 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying KPrivateCodeLib@1.5.1 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying KBFL@1.14.1 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying KUI@1.6.0 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying RefinedPower@3.1.4 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying SmartFoundations@20.0.558 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying LoadBalancers@1.5.8 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying SS_Mod@1.1.14 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying FasterManualCraftingRedux@2.0.0 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying UniqueTurbine@1.0.2 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying LinearMotion@2.0.20 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying PermaDay@1.0.2 to Satisfactory install
+2022-11-08 23:56:44:653	[DEBUG]	Copying AdvancedLogistics@0.3.6 to Satisfactory install
+2022-11-08 23:56:44:654	[DEBUG]	Copying CDevClipboard@1.0.8 to Satisfactory install
+2022-11-08 23:56:44:654	[DEBUG]	Copying Haven@2.0.4 to Satisfactory install
+2022-11-08 23:57:48:484	[DEBUG]	Validating UtilityMod
+2022-11-08 23:57:48:484	[DEBUG]	Validating SML
+2022-11-08 23:57:48:485	[DEBUG]	Validating FactoryGame
+2022-11-08 23:57:48:485	[DEBUG]	Validating InventorySpace2
+2022-11-08 23:57:48:485	[DEBUG]	Validating SML
+2022-11-08 23:57:48:485	[DEBUG]	Validating PersonalDrones
+2022-11-08 23:57:48:486	[DEBUG]	Validating SML
+2022-11-08 23:57:48:486	[DEBUG]	Validating NoNewLabel
+2022-11-08 23:57:48:486	[DEBUG]	Validating SML
+2022-11-08 23:57:48:486	[DEBUG]	Validating TenTimesAwesomePoints
+2022-11-08 23:57:48:486	[DEBUG]	Validating SML
+2022-11-08 23:57:48:487	[DEBUG]	Validating UndergroundBelts
+2022-11-08 23:57:48:487	[DEBUG]	Validating SML
+2022-11-08 23:57:48:487	[DEBUG]	Validating OrganizedCrates
+2022-11-08 23:57:48:487	[DEBUG]	Validating SML
+2022-11-08 23:57:48:487	[DEBUG]	Validating ShowEnemiesHealth
+2022-11-08 23:57:48:487	[DEBUG]	Validating SML
+2022-11-08 23:57:48:487	[DEBUG]	Validating AlienArtifactsPoints
+2022-11-08 23:57:48:488	[DEBUG]	Validating SML
+2022-11-08 23:57:48:488	[DEBUG]	Validating MicroManage
+2022-11-08 23:57:48:488	[DEBUG]	Validating SML
+2022-11-08 23:57:48:488	[DEBUG]	Validating NoEarlyAccess
+2022-11-08 23:57:48:488	[DEBUG]	Validating SML
+2022-11-08 23:57:48:488	[DEBUG]	Validating CloneMurder
+2022-11-08 23:57:48:489	[DEBUG]	Validating SML
+2022-11-08 23:57:48:489	[DEBUG]	Validating SatisfactoryHelper
+2022-11-08 23:57:48:489	[DEBUG]	Validating SML
+2022-11-08 23:57:48:489	[DEBUG]	Validating FicsitDeskJob
+2022-11-08 23:57:48:489	[DEBUG]	Validating SML
+2022-11-08 23:57:48:489	[DEBUG]	Validating FlashlightSettings
+2022-11-08 23:57:48:490	[DEBUG]	Validating SML
+2022-11-08 23:57:48:490	[DEBUG]	Validating ContainerScreen
+2022-11-08 23:57:48:490	[DEBUG]	Validating SML
+2022-11-08 23:57:48:490	[DEBUG]	Validating StackOverload
+2022-11-08 23:57:48:490	[DEBUG]	Validating SML
+2022-11-08 23:57:48:491	[DEBUG]	Validating DeepMining
+2022-11-08 23:57:48:491	[DEBUG]	Validating SML
+2022-11-08 23:57:48:491	[DEBUG]	Validating NoFog
+2022-11-08 23:57:48:491	[DEBUG]	Validating SML
+2022-11-08 23:57:48:491	[DEBUG]	Validating SatisfactoryPlus
+2022-11-08 23:57:48:504	[DEBUG]	Validating RefinedRDLib
+2022-11-08 23:57:48:692	[DEBUG]	Validating SML
+2022-11-08 23:57:48:692	[DEBUG]	Validating ModularUI
+2022-11-08 23:57:48:886	[DEBUG]	Validating SML
+2022-11-08 23:57:48:886	[DEBUG]	Validating FicsitFarming
+2022-11-08 23:57:48:888	[DEBUG]	Validating ModularUI
+2022-11-08 23:57:48:888	[DEBUG]	Validating RefinedRDLib
+2022-11-08 23:57:48:888	[DEBUG]	Validating SML
+2022-11-08 23:57:48:888	[DEBUG]	Validating AB_FluidExtras
+2022-11-08 23:57:48:890	[DEBUG]	Validating SML
+2022-11-08 23:57:48:890	[DEBUG]	Validating SML
+2022-11-08 23:57:48:890	[DEBUG]	Validating KLib
+2022-11-08 23:57:49:095	[DEBUG]	Validating KPrivateCodeLib
+2022-11-08 23:57:49:299	[DEBUG]	Validating KBFL
+2022-11-08 23:57:49:306	[DEBUG]	Validating SML
+2022-11-08 23:57:49:307	[DEBUG]	Validating KUI
+2022-11-08 23:57:49:309	[DEBUG]	Validating SML
+2022-11-08 23:57:49:309	[DEBUG]	Validating SML
+2022-11-08 23:57:49:310	[DEBUG]	Validating SML
+2022-11-08 23:57:49:310	[DEBUG]	Validating RefinedPower
+2022-11-08 23:57:49:315	[DEBUG]	Validating ModularUI
+2022-11-08 23:57:49:315	[DEBUG]	Validating RefinedRDLib
+2022-11-08 23:57:49:315	[DEBUG]	Validating SML
+2022-11-08 23:57:49:316	[DEBUG]	Validating SmartFoundations
+2022-11-08 23:57:49:320	[DEBUG]	Validating SML
+2022-11-08 23:57:49:320	[DEBUG]	Validating LoadBalancers
+2022-11-08 23:57:49:323	[DEBUG]	Validating SML
+2022-11-08 23:57:49:323	[DEBUG]	Validating SS_Mod
+2022-11-08 23:57:49:328	[DEBUG]	Validating SML
+2022-11-08 23:57:49:328	[DEBUG]	Validating FasterManualCraftingRedux
+2022-11-08 23:57:49:328	[DEBUG]	Validating SML
+2022-11-08 23:57:49:329	[DEBUG]	Validating Haven
+2022-11-08 23:57:49:330	[DEBUG]	Validating SML
+2022-11-08 23:57:49:330	[DEBUG]	Validating UniqueTurbine
+2022-11-08 23:57:49:331	[DEBUG]	Validating SML
+2022-11-08 23:57:49:331	[DEBUG]	Validating LinearMotion
+2022-11-08 23:57:49:333	[DEBUG]	Validating SML
+2022-11-08 23:57:49:334	[DEBUG]	Validating PermaDay
+2022-11-08 23:57:49:335	[DEBUG]	Validating SML
+2022-11-08 23:57:49:335	[DEBUG]	Validating AdvancedLogistics
+2022-11-08 23:57:49:337	[DEBUG]	Validating SML
+2022-11-08 23:57:49:338	[DEBUG]	Validating CDevClipboard
+2022-11-08 23:57:49:339	[DEBUG]	Validating SML
+
