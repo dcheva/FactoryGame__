@@ -1,0 +1,12 @@
+FactoryGame/Saved/Logs/
+FactoryGame/Saged/Config/
+FactoryGame/Saved/Crashes/
+FactoryGame/Saved/Backups/
+FactoryGame/Saved/Config/CrashReportClient/
+FactoryGame/Saved/Config/WindowsNoEditor/
+*cache*
+*cache*/
+*cache*/*
+*logs*
+*logs*/
+*logs*/*
