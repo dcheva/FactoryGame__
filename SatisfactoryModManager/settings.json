@@ -1,6 +1,6 @@
 {
     "filters": {
-        "modFilters": "All mods",
+        "modFilters": "Installed",
         "sortBy": "Last updated"
     },
     "windowLocation": {
