@@ -11,5 +11,13 @@
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Plus",
         "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Plus"
     },
-    "favoriteMods": []
+    "favoriteMods": [],
+    "normalSize": {
+        "width": 550,
+        "height": 849
+    },
+    "expandedSize": {
+        "width": 1575,
+        "height": 849
+    }
 }
