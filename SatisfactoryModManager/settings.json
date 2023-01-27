@@ -5,7 +5,7 @@
     },
     "windowLocation": {
         "x": 283,
-        "y": 115
+        "y": 0
     },
     "viewedAnnouncements": [
         "DxhYiw7Dqqrtpa",
@@ -14,5 +14,13 @@
     "selectedProfile": {
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Plus",
         "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Plus"
+    },
+    "normalSize": {
+        "width": 550,
+        "height": 1080
+    },
+    "expandedSize": {
+        "width": 1575,
+        "height": 1080
     }
 }
