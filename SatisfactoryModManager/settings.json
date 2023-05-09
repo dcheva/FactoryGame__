@@ -1,10 +1,10 @@
 {
     "filters": {
-        "modFilters": "Installed",
+        "modFilters": "Compatible",
         "sortBy": "Last updated"
     },
     "windowLocation": {
-        "x": 283,
+        "x": 0,
         "y": 0
     },
     "viewedAnnouncements": [
@@ -14,7 +14,7 @@
     "selectedProfile": {
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Satisfactory": "Plus",
         "D:\\SteamLibrary\\steamapps\\common\\Satisfactory": "Plus",
-        "c:\\program files (x86)\\steam\\steamapps\\common\\Satisfactory": "modded"
+        "c:\\program files (x86)\\steam\\steamapps\\common\\Satisfactory": "Plus23"
     },
     "normalSize": {
         "width": 550,
@@ -24,5 +24,6 @@
         "width": 1575,
         "height": 1080
     },
-    "selectedInstall": "c:\\program files (x86)\\steam\\steamapps\\common\\Satisfactory"
+    "selectedInstall": "c:\\program files (x86)\\steam\\steamapps\\common\\Satisfactory",
+    "maximized": false
 }
