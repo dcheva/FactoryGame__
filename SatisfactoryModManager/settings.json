@@ -1,7 +1,7 @@
 {
     "filters": {
-        "modFilters": "Compatible",
-        "sortBy": "Last updated"
+        "modFilters": "Installed",
+        "sortBy": "Downloads"
     },
     "windowLocation": {
         "x": 0,
